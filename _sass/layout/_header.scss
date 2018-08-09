@@ -1,0 +1,17 @@
+header {
+  padding: $spacing-2 $spacing-0;
+  position: sticky;
+  top: 0;
+  background-color: $white;
+  border-bottom: solid 1px $gray-faded;
+}
+
+.logo-container {
+  max-width: 44px;
+  max-height: 40px;
+}
+
+.section-featured {
+  height: 40vh;
+  background-color: $primary;
+}
