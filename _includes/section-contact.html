@@ -3,9 +3,9 @@
     <div class="grid align-items-center">
       <div class="grid-item span-1">
         <div class="introduction">
-          <h2>{{ page.contact-header | markdownify }}</h2>
+          <h2>{{ site.contact-header | markdownify }}</h2>
         </div>
-        <p>{{ page.contact-subheader | markdownify }}</p>
+        <p>{{ site.contact-subheader | markdownify }}</p>
         <a href="{{ item.url }}" class="btn btn-secondary">
           Send Me a Message
         </a>

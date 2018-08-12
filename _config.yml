@@ -34,6 +34,12 @@ collections:
     title: Work
     output: true
 
+# contact section
+contact-header: Contact Me
+contact-subheader: |
+  I am currently looking for work. If you are interested in working together, let me know!
+  
+# footer
 copyright: © 2018 Kirsten Green
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
