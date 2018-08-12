@@ -20,3 +20,23 @@
   width: 100%;
   margin: 0 auto;
 }
+
+.grid {
+	display: grid;
+	grid-gap: 16px;
+	grid-template-columns: 1fr;
+}
+
+@media screen and (min-width: 1023px) {
+	.grid {
+		grid-template-columns: repeat(3, 1fr);
+	}
+
+	.span-1 { grid-column: auto/span 1; }
+	.span-2 { grid-column: auto/span 2; }
+	.span-3 { grid-column: auto/span 3; }
+}
+
+.align-items-center {
+  align-items: center;
+}

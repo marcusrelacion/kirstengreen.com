@@ -1,5 +1,18 @@
 <section id="contact" class="section section-content">
   <div class="container">
-    contact
+    <div class="grid align-items-center">
+      <div class="grid-item span-1">
+        <div class="introduction">
+          <h2>{{ page.contact-header | markdownify }}</h2>
+        </div>
+        <p>{{ page.contact-subheader | markdownify }}</p>
+        <a href="{{ item.url }}" class="btn btn-secondary">
+          Send Me a Message
+        </a>
+      </div>
+      <div class="grid-item span-2">
+        <img src="http://placecorgi.com/800/400" />
+      </div>
+    </div>
   </div>
 </section>

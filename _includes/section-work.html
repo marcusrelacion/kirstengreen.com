@@ -3,10 +3,9 @@
     <div class="introduction">
       <h2>{{ page.work-header}}</h2>
     </div>
-
-    <div class="content content-list">
+    <div class="grid">
       {% for item in site.work %}
-        <article class="content-item">
+        <article class="content-item grid-item span-1">
           <div class="content-image">
             <img src="{{ item.image }}" alt="{{ item.image-alt }}">
           </div>

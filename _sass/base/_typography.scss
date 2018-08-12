@@ -7,6 +7,11 @@ a {
   text-decoration: none;
 }
 
+a:focus {
+  outline: solid 2px $secondary;
+  outline-offset: 4px;
+}
+
 p:not(:last-child) {
   margin: 0 0 16px 0;
 }

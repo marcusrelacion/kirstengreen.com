@@ -15,6 +15,9 @@ about-column-2: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 button-resume: Download Resume
 
-work-header: Selected Work
-work-archive: View More Projects 
+work-header: Work
+
+contact-header: Contact Me
+contact-subheader: |
+  I am currently looking for work. If you are interested in working together, let me know!
 ---

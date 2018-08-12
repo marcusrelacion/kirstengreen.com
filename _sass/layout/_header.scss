@@ -4,6 +4,7 @@ header {
   top: 0;
   background-color: $white;
   border-bottom: solid 1px $gray-faded;
+  z-index: 9999;
 }
 
 .logo-container {

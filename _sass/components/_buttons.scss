@@ -2,6 +2,7 @@
 .btn-link {
   display: inline-block;
   text-decoration: none;
+  transition: all 200ms ease-in;
 }
 
 .btn {
@@ -22,6 +23,15 @@
   color: $white;
 }
 
+.btn-secondary:hover {
+  background-color: $secondary-dark;
+}
+
+
 .btn-link-secondary {
   color: $secondary;
+}
+
+.btn-link-secondary:hover {
+  color: $secondary-dark;
 }
