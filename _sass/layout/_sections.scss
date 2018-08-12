@@ -1,0 +1,18 @@
+.section {
+  padding: $spacing-8 $spacing-1;
+}
+
+.section:not(:first-child) {
+  border-top: solid 1px $gray-faded;
+}
+
+.section-featured {
+  background-color: $primary;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1024px;
+  width: 100%;
+  padding: $spacing-2;
+}

@@ -1,23 +1,16 @@
 <nav role="navigation" class="nav nav-primary">
   <div class="logo-container">
     <a href="/">
-      <img src="/assets/images/kg-logo.svg" alt="">
+      {% include icons/kg-logo.html %}
     </a>
   </div>
   <ul class="nav-list">
     {% for link in site.data.navigation %}
-    <li class="nav-item">
-      <a href="{{ link.href }}">
-        {{ link.title }}
-      </a>
-    </li>
-    {% endfor %} 
-    {% if page.layout == "pages/work" %}
       <li class="nav-item">
-        <a href="/">
-          Back
+        <a href="{{ link.href }}">
+          {{ link.title }}
         </a>
       </li>
-    {% endif %}
+    {% endfor %} 
   </ul>
 </nav>

@@ -34,6 +34,9 @@ collections:
     title: Work
     output: true
 
+# paginator section
+paginator-header: Related Case Studies
+
 # contact section
 contact-header: Contact Me
 contact-subheader: |

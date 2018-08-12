@@ -1,5 +1,7 @@
 body {
   font-family: $primary-font;
+  font-size: 16px;
+  line-height: 22px;
   color: $gray;
 }
 
@@ -24,22 +26,19 @@ p:not(:last-child) {
   position: relative;
 }
 
-.section-featured .introduction h1,
-.section .introduction h2 {
+.introduction h1,
+.introduction h2 {
   font-weight: 700;
+  margin-bottom: 8px;
 }
 
-.section .introduction h1 {
-  font-size: $font-size-6;
+.introduction h1 {
+  font-size: $font-size-7;
+  line-height: 62px;
 }
-.section .introduction h2 {
+
+.introduction h2 {
   font-size: $font-size-5;
+  line-height: 40px;
 }
 
-.section-featured  .introduction p {
-  font-size: $font-size-4;
-}
-
-.section .introduction a {
-  font-size: $font-size-2;
-}

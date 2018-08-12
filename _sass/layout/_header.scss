@@ -1,17 +1,13 @@
 header {
-  padding: $spacing-2 $spacing-0;
-  position: sticky;
-  top: 0;
   background-color: $white;
   border-bottom: solid 1px $gray-faded;
+  padding: $spacing-2 $spacing-0;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
   z-index: 9999;
 }
 
 .logo-container {
   max-height: 40px;
-}
-
-.section-featured {
-  height: 40vh;
-  background-color: $primary;
 }
