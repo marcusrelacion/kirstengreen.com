@@ -7,6 +7,18 @@ a {
   text-decoration: none;
 }
 
+p:not(:last-child) {
+  margin: 0 0 16px 0;
+}
+
+.icon svg {
+  max-width: 16px;
+  max-height: 16px;
+  display: inline-block;
+  top: 2px;
+  position: relative;
+}
+
 .section-featured .introduction h1,
 .section .introduction h2 {
   font-weight: 700;
