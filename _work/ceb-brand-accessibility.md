@@ -51,25 +51,25 @@ permalink: work/ceb-brand-accessibility/
 
 <div class="grid">
   <div class="grid-item span-2">
-    <img src="{{ page.image-1 }}" alt="{{ page.iamge-1-alt }}">
+    <img src="{{ page.image-1 }}" alt="{{ page.image-1-alt }}">
   </div>
   <div class="grid-item span-1">
-    <img src="{{ page.image-2 }}" alt="{{ page.iamge-2-alt }}">
+    <img src="{{ page.image-2 }}" alt="{{ page.image-2-alt }}">
   </div>
   <div class="grid-item span-1 align-self-center">
     <span class="">{{ page.image-3-caption | markdownify }}</span>
   </div>
   <div class="grid-item span-2">
-    <img src="{{ page.image-3 }}" alt="{{ page.iamge-3-alt }}">
+    <img src="{{ page.image-3 }}" alt="{{ page.image-3-alt }}">
   </div>
   <div class="grid-item span-1">
-    <img src="{{ page.image-4 }}" alt="{{ page.iamge-4-alt }}">
+    <img src="{{ page.image-4 }}" alt="{{ page.image-4-alt }}">
   </div>
   <div class="grid-item span-2">
-    <img src="{{ page.image-5 }}" alt="{{ page.iamge-5-alt }}">
+    <img src="{{ page.image-5 }}" alt="{{ page.image-5-alt }}">
   </div>
   <div class="grid-item span-2">
-    <img src="{{ page.image-6 }}" alt="{{ page.iamge-6-alt }}">
+    <img src="{{ page.image-6 }}" alt="{{ page.image-6-alt }}">
   </div>
   <div class="grid-item span-1 align-self-center">
     <span class="">{{ page.image-6-caption | markdownify }}</span>
