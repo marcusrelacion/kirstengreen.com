@@ -24,5 +24,5 @@ contact-subheader: |
   I am currently looking for work. If you are interested in working together, let me know!
 
 # settings
-layout: pages/home
+layout: home
 ---
