@@ -1,0 +1,17 @@
+@import "/node_modules/minireset.css/minireset.min.css";
+
+:root {
+  --navy: #384257;
+  --gray: #F2F2F2;
+  --gold: #F9B767;
+  --white: #ffffff;
+
+  --brand-primary: var(--navy);
+  --brand-seconday: var(--gold);
+
+
+}
+
+.header {
+  background-color: var(--brand-primary);
+}

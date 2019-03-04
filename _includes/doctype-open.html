@@ -2,12 +2,10 @@
 <html lang="en">
   {% include doctype-head.html %}
 
-  <body class="layout-{{ page.layout }}">
-    <header class="site-header">
-      <span class="site-header__logo">
-        header
-      </span>
-      <nav class="site-header__navigation">
-        nav
-      </nav>
+  <body class="grid layout-{{ page.layout }} kg">
+    <header class="header">
+      {% include component-logo.html %}
+      {% include component-navigation.html %}
     </header>
+
+    <main class="content">
