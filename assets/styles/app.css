@@ -12,6 +12,31 @@
 
 }
 
+.grid {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
 .header {
   background-color: var(--brand-primary);
+}
+
+@media screen and (min-width: 1023px) {
+  .grid {
+    grid-gap: 40px;
+    grid-template-columns: [sidebar] 2fr [content] 6fr;
+    grid-template-rows: 1fr;
+  }
+
+  .header {
+    grid-column: sidebar;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+  }
+
+  .content,
+  .footer {
+    grid-column: content;
+  }
 }
