@@ -17,9 +17,9 @@ exclude:
 
 # 2. Installed Gems
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-json-feed
 
 # 3. Gem settings
 # Jekyll SEO Tag
@@ -54,8 +54,9 @@ defaults:
   -
     scope:
       path: ""
+      type: posts
     values:
-      image: "/assets/default-social-image.png" # Default image for sharing
+      layout: "post"
 
 # 7. Site settings
 encoding: utf-8
@@ -65,7 +66,7 @@ email: hello@kirstengreen.com
 author: Kirsten Green
 lang: en_US
 logo: ""
-url: ""
+url: "https://www.kirstengreen.com"
 baseurl: ""
 repo: ""
 avatarurl: ""
