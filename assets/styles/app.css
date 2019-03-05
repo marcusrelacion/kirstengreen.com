@@ -1,5 +1,3 @@
-@import "/node_modules/minireset.css/minireset.min.css";
-
 :root {
   --navy: #384257;
   --gray: #F2F2F2;
@@ -8,8 +6,6 @@
 
   --brand-primary: var(--navy);
   --brand-seconday: var(--gold);
-
-
 }
 
 .grid {
@@ -19,6 +15,7 @@
 
 .header {
   background-color: var(--brand-primary);
+  color: var(--white);
 }
 
 @media screen and (min-width: 1023px) {
@@ -29,10 +26,16 @@
   }
 
   .header {
-    grid-column: sidebar;
     position: sticky;
     top: 0;
     height: 100vh;
+
+    /* parent-grid settings */
+    grid-column: sidebar;
+
+    /* sub-grid settings */
+    display: grid;
+    grid-template-rows: [avatar] 1fr [introduction] 1fr [contact] 1fr [Social] 1fr [Copyright] 1fr;
   }
 
   .content,
