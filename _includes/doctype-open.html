@@ -4,20 +4,28 @@
 
   <body class="grid layout-{{ page.layout }} kg">
     <header class="header">
-      {% if page.layout == "post" %}
-      {% include component-navigation.html %}
-      {% endif %}
-
-      {% if site.sidebar-avatar == true %}
-      {% include component-logo.html %}
-      {% endif %}
+      <div class="header__navigation">
+        {% if page.layout == "post" %}
+        {% include component-navigation.html %}
+        {% endif %}
+      </div>
 
       <div class="header__introduction">
+        {% if site.sidebar-avatar == true %}
+        {% include component-logo.html %}
+        {% endif %}
         <p>{{ site.sidebar-title }}</p>
         <p>{{ site.sidebar-description }}</p>
       </div>
 
       <div class="header__contact">
+        {% if site.sidebar-status-searching == true %}
+        <p>{{ site.sidebar-status-message}}</p>
+        {% endif %}
+        <p>{{site.sidebar-contact-message }}</p>
+      </div>
+
+      <div class="header__social">
         {% if site.sidebar-status-searching == true %}
         <p>{{ site.sidebar-status-message}}</p>
         {% endif %}
