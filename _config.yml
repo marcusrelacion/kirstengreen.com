@@ -47,7 +47,12 @@ timezone: America/New_York
 collections:
   posts:
     title: Posts # Needed for Siteleaf
+    output: false
+  projects:
+    title: Projects
     output: true
+    permalink: "/:collection/:title/"
+    label: projects
 
 # 6. Jekyll collections settings
 defaults:
