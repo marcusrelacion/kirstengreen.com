@@ -8,29 +8,39 @@
   --brand-seconday: var(--gold);
 }
 
+.kg img {
+  vertical-align: middle;
+}
+
 .grid {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-gap: 16px;
 }
 
 .header {
   background-color: var(--brand-primary);
   color: var(--white);
+  display: grid;
+  grid-gap: 8px;
 }
 
-.header__logo {
-  border-radius: 100%;
+.headerLogo {
+  border-radius: 4px;
   overflow: hidden;
   max-width: 144px;
   height: 144px;
   display: block;
-  margin: 0 auto;
+}
+
+.header,
+.content,
+.footer {
+  padding: 16px;
 }
 
 @media screen and (min-width: 1023px) {
   .grid {
     grid-template-columns: [sidebar] 2fr [content] 6fr;
-    grid-template-rows: 1fr;
   }
 
   .header {
@@ -43,34 +53,28 @@
 
     /* sub-grid settings */
     display: grid;
-    grid-template-rows: 72px 1fr 2fr 1fr 0.5fr;
-    grid-template-areas:
-      "navigation"
-      "introduction"
-      "."
-      "contact"
-      "social";
+    grid-template-rows: [navigation] 48px [introduction] 1fr 2fr [contact] 1fr [social] 0.5fr;
   }
 
   .header__navigation {
-    grid-area: navigation;
+    grid-row: navigation;
   }
 
   .header__introduction {
-    grid-area: introduction;
+    grid-row: introduction;
   }
 
-  .header__logo {
+  .headerLogo {
     max-width: 288px;
     height: auto;
   }
 
   .header__contact {
-    grid-area: contact;
+    grid-row: contact;
   }
 
   .header__social {
-    grid-area: social;
+    grid-row: social;
   }
 
   .content,

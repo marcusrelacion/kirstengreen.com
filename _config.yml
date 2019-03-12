@@ -72,7 +72,7 @@ repo: ""
 avatarurl: "/assets/images/branding/kg-avatar.jpeg"
 
 # 8. Custom
-sidebar-avatar: true
+sidebar-avatar: false
 
 sidebar-title: Hi, I'm Kirsten.
 sidebar-description: I'm a UI and UX designer working on web applications in the Washington, D.C. area.
