@@ -6,8 +6,8 @@
   --gold: #F9B767;
   --white: #ffffff;
 
-  --sans-serif: "Karla", sans-serif;
-  --mono: "Source Code Pro", courier, serif;
+  --sans-serif: 'Karla', sans-serif;
+  --mono: 'Source Code Pro', courier, serif;
 
 
   --brand-primary: var(--navy);
