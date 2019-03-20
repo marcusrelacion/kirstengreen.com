@@ -154,18 +154,44 @@ html {
 
 .projectImage {
   grid-row: project-image;
-  overflow: hidden;
 }
 
-@media screen and (min-width: 1100px) {
+.projectImage>img {
+  object-fit: cover;
+  min-height: 100%;
+  width: 100%;
+  display: block;
+}
+
+@media screen and (min-width: 1168px) {
   .project {
     display: grid;
     grid-template-columns: [project-details] 1.5fr [project-image] 1fr;
     grid-template-rows: auto;
   }
+
+  .projectDetails-title {
+    font-size: 1.8em;
+  }
 }
 
 @media screen and (min-width: 1279px) {
+  .projectsList {
+    display: grid;
+    grid-gap: 64px;
+  }
+
+  .projectDetails-wrapper {
+    top: -32px;
+    position: relative;
+    margin-left: 32px;
+    padding: 4px 32px 32px 32px;
+  }
+
+  .projectDetails-title {
+    font-size: 2em;
+  }
+
   /*
   .projectsList {
     display: grid;
@@ -327,8 +353,6 @@ html {
   display: grid;
   grid-gap: 16px;
   grid-row: header;
-
-  /* grid-template-rows: [navigation] 1fr 1fr [introduction] 1fr 2fr [contact] 1fr [social] 1fr; */
 }
 
 .headerLogo img {
@@ -360,6 +384,11 @@ html {
 
 .headerContact-anchor {
   margin-bottom: 16px;
+}
+
+.headerSocial-anchor {
+  color: var(--brand-secondary);
+  font-size: 1.6em;
 }
 
 .headerNavigation ul li,
@@ -398,7 +427,7 @@ html {
 @media screen and (min-width: 767px) {
   .grid {
     display: grid;
-    grid-template-columns: [header] minmax(144px, 300px) [content] 1fr;
+    grid-template-columns: [header] minmax(144px, 340px) [content] 1fr;
   }
 
   .header {
@@ -433,6 +462,18 @@ html {
   .footer {
     padding: 24px;
   }
+}
+
+@media screen and (min-width: 1279px) {
+  .content {
+    padding-top: 72px;
+  }
+
+  .header,
+  .footer {
+    padding: 40px;
+  }
+
 }
 
 /* end site grid */

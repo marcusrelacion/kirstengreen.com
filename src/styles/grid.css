@@ -10,8 +10,6 @@
   display: grid;
   grid-gap: 16px;
   grid-row: header;
-
-  /* grid-template-rows: [navigation] 1fr 1fr [introduction] 1fr 2fr [contact] 1fr [social] 1fr; */
 }
 
 .headerLogo img {
@@ -43,6 +41,11 @@
 
 .headerContact-anchor {
   margin-bottom: 16px;
+}
+
+.headerSocial-anchor {
+  color: var(--brand-secondary);
+  font-size: 1.6em;
 }
 
 .headerNavigation ul li,
@@ -81,7 +84,7 @@
 @media screen and (min-width: 767px) {
   .grid {
     display: grid;
-    grid-template-columns: [header] minmax(144px, 300px) [content] 1fr;
+    grid-template-columns: [header] minmax(144px, 340px) [content] 1fr;
   }
 
   .header {
@@ -116,6 +119,18 @@
   .footer {
     padding: 24px;
   }
+}
+
+@media screen and (min-width: 1279px) {
+  .content {
+    padding-top: 72px;
+  }
+
+  .header,
+  .footer {
+    padding: 40px;
+  }
+
 }
 
 /* end site grid */

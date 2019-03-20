@@ -49,18 +49,44 @@
 
 .projectImage {
   grid-row: project-image;
-  overflow: hidden;
 }
 
-@media screen and (min-width: 1100px) {
+.projectImage>img {
+  object-fit: cover;
+  min-height: 100%;
+  width: 100%;
+  display: block;
+}
+
+@media screen and (min-width: 1168px) {
   .project {
     display: grid;
     grid-template-columns: [project-details] 1.5fr [project-image] 1fr;
     grid-template-rows: auto;
   }
+
+  .projectDetails-title {
+    font-size: 1.8em;
+  }
 }
 
 @media screen and (min-width: 1279px) {
+  .projectsList {
+    display: grid;
+    grid-gap: 64px;
+  }
+
+  .projectDetails-wrapper {
+    top: -32px;
+    position: relative;
+    margin-left: 32px;
+    padding: 4px 32px 32px 32px;
+  }
+
+  .projectDetails-title {
+    font-size: 2em;
+  }
+
   /*
   .projectsList {
     display: grid;
