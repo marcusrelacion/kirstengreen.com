@@ -1,0 +1,17 @@
+:root {
+  --navy: #384257;
+  --gray: #F2F2F2;
+  --gold: #F9B767;
+  --white: #ffffff;
+
+  --sans-serif: 'Karla', sans-serif;
+  --mono: 'Source Code Pro', courier, serif;
+
+
+  --brand-primary: var(--navy);
+  --brand-secondary: var(--gold);
+  --brand-accent: var(--gray);
+
+  --brand-sans-serif: var(--sans-serif);
+  --brand-mono: var(--mono);
+}

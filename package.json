@@ -4,9 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve:parcel": "parcel index.js",
+    "build:parcel": "parcel build index.js -d dist/",
+    "serve:jekyll": "bundle exec jekyll serve --livereload",
+    "build:jekyll": "bundle exec jekyll build",
+    "build": "npm run build:parcel && npm run build:jekyll"
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {}
+  "devDependencies": {
+    "parcel-bundler": "^1.12.2"
+  }
 }

@@ -1,0 +1,36 @@
+<header class="header">
+  <div class="headerNavigation">
+    <nav>
+      <ul>
+        <li><a class="headerNavigation-anchor" href="/">Home</a></li>
+        <li><a class="headerNavigation-anchor" href="#">Resume</a></li>
+      </ul>
+    </nav>
+  </div>
+
+  <div class="headerIntroduction">
+    {% if site.sidebar-avatar == true %}
+    <span class="headerLogo">
+      <img src="{{ site.avatarurl }}">
+    </span>
+    {% endif %}
+    <h1 class="headerIntroduction-title">{{ site.sidebar-title }}</h1>
+    <p class="headerIntroduction-description">{{ site.sidebar-description }}</p>
+  </div>
+
+  <div class="headerContact">
+    {% if site.sidebar-status-searching == true %}
+    <p class="headerContact-status">{{ site.sidebar-status-message }}</p>
+    {% endif %}
+    <p class="headerContact-message">{{ site.sidebar-contact-message }}</p>
+    <a class="headerContact-anchor" href="#">{{ site.sidebar-contact-anchor }}</a>
+
+    <!--
+    <ul>
+      <li><a class="headerContact-anchor" href="https://www.linkedin.com/in/greenkirsten/"><i class="fab fa-linkedin"></i></a></li>
+      <li><a class="headerContact-anchor" href="https://twitter.com/kirstengreen_"><i class="fab fa-twitter"></i></a></li>
+      <li><a class="headerContact-anchor" href="https://www.instagram.com/kirstengreen_/"><i class="fab fa-instagram"></i></a></li>
+    </ul>
+-->
+  </div>
+</header>

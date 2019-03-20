@@ -11,9 +11,12 @@
 # 1. Files excluded from Jekyll builds
 exclude:
   - package.json
+  - package-lock.json
   - Gemfile
   - Gemfile.lock
   - node_modules
+  - index.js
+  - src/*
 
 # 2. Installed Gems
 plugins:
@@ -86,3 +89,4 @@ sidebar-status-searching: true
 sidebar-status-message: Currently, I am looking for work.
 
 sidebar-contact-message: If you are interested in working together, let me know!
+sidebar-contact-anchor: Message Me

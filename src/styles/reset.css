@@ -23,7 +23,7 @@ h4,
 h5,
 h6 {
   margin: 0;
-  padding: 0
+  padding: 0;
 }
 
 h1,
@@ -33,28 +33,24 @@ h4,
 h5,
 h6 {
   font-size: 100%;
-  font-weight: normal
-}
-
-ul {
-  list-style: none
+  font-weight: normal;
 }
 
 button,
 input,
 select,
 textarea {
-  margin: 0
+  margin: 0;
 }
 
 html {
-  box-sizing: border-box
+  box-sizing: border-box;
 }
 
 *,
 *:before,
 *:after {
-  box-sizing: inherit
+  box-sizing: inherit;
 }
 
 img,
@@ -63,24 +59,25 @@ iframe,
 object,
 video {
   height: auto;
-  max-width: 100%
+  max-width: 100%;
+  display: block;
 }
 
 audio {
-  max-width: 100%
+  max-width: 100%;
 }
 
 iframe {
-  border: 0
+  border: 0;
 }
 
 table {
   border-collapse: collapse;
-  border-spacing: 0
+  border-spacing: 0;
 }
 
 td,
 th {
   padding: 0;
-  text-align: left
+  text-align: left;
 }

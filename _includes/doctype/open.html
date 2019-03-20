@@ -3,39 +3,7 @@
   {% include doctype/head.html %}
 
   <body class="grid layout-{{ page.layout }} kg">
-    <header class="header">
-      <div class="headerNavigation">
-        {% if page.layout == "post" %}
-        {% include component/navigation.html %}
-        {% endif %}
-      </div>
 
-      <div class="headerIntroduction">
-        {% if site.sidebar-avatar == true %}
-        {% include component/logo.html %}
-        {% endif %}
-        <p class="headerIntroduction-title">{{ site.sidebar-title }}</p>
-        <p class="headerIntroduction-description">{{ site.sidebar-description }}</p>
-      </div>
-
-      <div class="headerContact">
-        {% if site.sidebar-status-searching == true %}
-        <p class="headerContact-status">{{ site.sidebar-status-message}}</p>
-        {% endif %}
-        <p class="headerContact-message">{{site.sidebar-contact-message }}</p>
-        <ul>
-          <li><a href="#">Resume</a></li>
-          <li><a href="#">Send me a message</a></li>
-        </ul>
-      </div>
-
-      <div class="headerSocial">
-        <ul>
-          <li><a href="#">Linkedin</a></li>
-          <li><a href="#">Twitter</a></li>
-          <li><a href="#">Instagram</a></li>
-        </ul>
-      </div>
-    </header>
+    {% include component/header.html %}
 
     <main class="content">
