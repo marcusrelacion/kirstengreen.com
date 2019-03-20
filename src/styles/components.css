@@ -1,12 +1,12 @@
 /* project tile */
 .projectsList {
   display: grid;
-  grid-gap: 16px;
+  grid-gap: 32px;
 }
 
 .project {
   display: grid;
-  grid-template-rows: [project-image] auto [project-details] minmax(auto, 1fr);
+  grid-template-rows: [project-details] 1fr [project-image] auto;
 }
 
 .projectDetails {
@@ -52,7 +52,16 @@
   overflow: hidden;
 }
 
-@media screen and (min-width: 1023px) {
+@media screen and (min-width: 1100px) {
+  .project {
+    display: grid;
+    grid-template-columns: [project-details] 1.5fr [project-image] 1fr;
+    grid-template-rows: auto;
+  }
+}
+
+@media screen and (min-width: 1279px) {
+  /*
   .projectsList {
     display: grid;
     grid-gap: 72px;
@@ -97,7 +106,7 @@
     position: relative;
     grid-column: project-image;
     overflow: hidden;
-  }
+  }*/
 }
 
 /* end project tile */

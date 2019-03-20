@@ -77,11 +77,9 @@ logo: ""
 url: "https://www.kirstengreen.com"
 baseurl: ""
 repo: ""
-avatarurl: "/assets/images/branding/kg-avatar.jpeg"
+avatarurl: "/assets/images/branding-kg-illustration.png"
 
 # 8. Custom
-sidebar-avatar: false
-
 sidebar-title: Hi, I'm Kirsten.
 sidebar-description: I'm a UI and UX designer working on web applications in the Washington, D.C. area.
 
