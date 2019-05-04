@@ -1,6 +1,5 @@
-- title: "About"
-  href: "/#about"
-- title: "Work"
-  href: "/#work"
-- title: "Contact"
-  href: "/#contact"
+primary:
+- title: "Home"
+  url: "/"
+- title: "Resume"
+  url: "#"
