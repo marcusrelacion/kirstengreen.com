@@ -54,7 +54,6 @@ body {
 
     /* Reset font size to 1rem, in case it has a pixel value */
     font-size: 1rem;
-
     min-height: 100vh;
 }
 
@@ -90,6 +89,7 @@ input[type="search"] {
 /* Make images responsive */
 img {
     max-width: 100%;
+    display: block;
 }
 
 /* Remove _all_ animations and transitions for people that prefer not to see them */
@@ -107,128 +107,101 @@ img {
 body {
     color: var(--kg-primary);
     font-family: var(--kg-typeface-1);
-    font-size: 18px;
+    font-size: 16px;
     line-height: 1rem;
-    background-color: green;
 }
 
-.grid {
+.block-grid {
     display: grid;
     grid-gap: 16px;
+    max-width: 1024px;
+    margin: auto;
 }
 
-.site-header {
-    background-color: var(--kg-primary);
+.block-grid--full-image,
+.block-grid__split-50-50,
+.block-grid--split-60-40 {
+    grid-template-columns: 1fr;
+}
+
+@media screen and (min-width: 959px) {
+    /* multi purpose block that can contain, text, image, nothing */
+    .block-grid__split-50-50 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    /*used primarily as a page header */
+    .block-grid--split-60-40 {
+        grid-template-columns: 3fr 1fr;
+    }
+}
+
+.project-introduction {
+    border-left: solid 4px orange;
+    padding: 0 24px;
+    margin-bottom: 24px;
+    margin-left: 24px;
+    margin-top: -24px;
+}
+
+.project-title {
+    font-family: "Source Code Pro";
+    font-weight: 600;
+    font-size: 32px;
+    margin-bottom: 16px;
+}
+
+.project-name {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.project-company {
+    font-size: 16px;
+    font-style: italic;
+    margin-bottom: 16px;
+}
+
+.project-description {
+    padding-bottom: 16px;
+}
+
+.project-image {
+    border-right: solid 4px orange;
+    border-bottom: solid 4px orange;
+    padding: 0 16px 16px 0;
+}
+
+.photo-grid {
     display: grid;
-    grid-gap: 16px;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: 1fr repeat(2, 50px);
+    grid-gap: 24px;
 }
 
-.header-navigation__link {
-    display: inline-block;
+.photo-grid img {
+    grid-column: 1/8;
+    grid-row: 1 / span 2;
 }
 
-.header-navigation__link a,
-a.header-contact__link {
-    color: var(--kg-secondary);
-    margin-right: 24px;
+.photo-grid figcaption {
+    padding: 24px;
+    grid-column: 5/9;
+    grid-row: 2/4;
+    background-color: white;
+    border-right: solid 4px orange;
+    border-bottom: solid 4px orange;
+    align-self: center;
 }
 
-.header__logo img {
-    border-radius: 100%;
-    border: solid 2px var(--kg-secondary);
-    display: block;
-    height: auto;
-    margin-bottom: 16px;
-    max-width: 72px;
-    overflow: hidden;
-    padding: 4px;
+.block-grid__split-50-50 .block-grid-item {
+    align-self: center;
 }
 
-.header-introduction {
-    color: var(--white);
-    line-height: 1.2;
-    font-weight: 400;
-}
-
-.header__title {
-    font-family: var(--kg-typeface-2);
-    font-size: 1.5rem;
-    font-weight: 600;
-    margin-bottom: 16px;
-}
-
-
-.header-contact {
-    color: var(--white);
-    line-height: 1.2;
-    font-weight: 400;
-}
-
-.header-contact__message {
-    margin-bottom: 16px;
-}
-
-.site-header,
-.site-content,
-.site-footer {
-    padding: 16px;
-}
-
-.project {
-    line-height: 1.2;
-    font-weight: 400;
-}
-
-.project:not(:last-child) {
-    margin-bottom: 32px;
-}
-
-.project-details__title {
-    font-family: var(--kg-typeface-2);
-    font-size: 1.5rem;
-    font-weight: 600;
-    margin-bottom: 16px;
-}
-
-.project-details__title,
-.project-details__description {
-    margin-bottom: 16px;
-}
-
-.project-details__button {
-    padding: 8px 16px;
-    background-color: var(--kg-secondary);
-    color: var(--kg-primary);
-    box-shadow: 4px 4px 0px var(--kg-primary);
-    text-decoration: none;
-    display: inline-block;
-    transition: box-shadow 100ms ease-in;
-}
-
-.project-details__button:hover {
-    box-shadow: 0px 0px 0px var(--kg-primary);
-}
-
-@media screen and (min-width: 639px) {
-    body {
-        background-color: salmon;
-    }
-}
-
-@media screen and (min-width: 1023px) {
-    body {
-        background-color: yellow;
-    }
-}
-
-@media screen and (min-width: 1439px) {
-    body {
-        background-color: pink;
-    }
-}
-
-@media screen and (min-width: 1919px) {
-    body {
-        background-color: orange;
-    }
+blockquote {
+    border-left: solid 4px orange;
+    padding: 24px;
+    font-size: 20px;
+    font-style: italic;
+    align-content: center;
 }

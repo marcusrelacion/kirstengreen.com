@@ -1,9 +1,49 @@
 <!doctype html>
 <html lang="en">
-  {% include doctype/head.html %}
+{% include doctype/head.html %}
 
-  <body class="grid">
+<body class="site-grid">
 
-    {% include component/header.html %}
+    <header class="site-header">
+        <nav class="header-navigation">
+            <ul class="header-navigation__links">
+                {% for link in site.data.navigation.primary %}
+                <li class="header-navigation__link">
+                    <a href="{{ link.url }}" class="{{ link.class }}">{{ link.title }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </nav>
+
+        <div class="header-introduction">
+            <div class="header__logo">
+                <img src="{{ site.avatarurl }}" alt="">
+            </div>
+            <div class="header__content">
+                <h1 class="header__title">{{ site.sidebar-title }}</h1>
+                <p class="header__description">{{ site.sidebar-description }}</p>
+            </div>
+        </div>
+
+        <div class="header-contact">
+            {% if site.sidebar-status-searching == true %}
+            <p class="header-contact__status">{{ site.sidebar-status-message }}</p>
+            {% endif %}
+            <p class="header-contact__message">{{ site.sidebar-contact-message }}</p>
+            <a class="header-contact__link" href="#">{{ site.sidebar-contact-anchor }}</a>
+        </div>
+
+        <div class="header-social">
+            <ul class="header-social__links">
+                <li class="header-social__link"><a href="https://www.linkedin.com/in/greenkirsten/"><i
+                            class="fab fa-linkedin"></i></a></li>
+                <li class="header-social__link"><a href="https://twitter.com/kirstengreen_"><i
+                            class="fab fa-twitter"></i></a>
+                </li>
+                <li class="header-social__link"><a href="https://www.instagram.com/kirstengreen_/"><i
+                            class="fab fa-instagram"></i></a></li>
+            </ul>
+        </div>
+    </header>
 
     <main class="site-content">

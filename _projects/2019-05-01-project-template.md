@@ -8,6 +8,5 @@ image: https://picsum.photos/1024?grayscale
 image-alt: Provide Alt Text
 background-color: var(--gray)
 
-layout: post
-permalink: /project-4/
+permalink: #url
 ---

@@ -2,41 +2,8 @@
 layout: default
 ---
 
-<!-- project header -->
-<li class="project">
-  <div class="projectDetails">
-    <div class="projectDetails-wrapper">
-      <h2 class="projectDetails-title">{{ page.title }}</h2>
-      <p>{{ page.product }}</p>
-      <p>{{ page.company }}, {{ page.year }}</p>
-      <p class="projectDetails-description">{{ page.description }}</p>
-    </div>
-  </div>
-  <div class="projectImage">
-    <img src="{{ page.image }}" alt="{{ page.image-alt }}">
-  </div>
-</li>
-<!-- end project header -->
-
-<!-- split: text / half  -->
-<section class="split split-text split-half">
-  <div class="split-left">
-    <div class="problem">
-      <h2 class="problemHeader">{{ page.problem-header }}</h2>
-      <span class="problemText">{{ page.problem-text | markdownify }}</span>
-    </div>
-    <div class="method">
-      <h2 class="methodHeader">{{ page.methods-header }}</h2>
-      <span class="methodText">{{ page.methods-text | markdownify }}</span>
-    </div>
-  </div>
-  <div class="split-right">
-    <div class="process">
-      <h2 class="processHeader">{{ page.process-header }}</h2>
-      <span class="methodText">{{ page.process-text | markdownify }}</span>
-    </div>
-  </div>
-</section>
-<!-- end split: text / half -->
+{% include _blocks/split-60-40.html %}
+{% include _blocks/split-50-50.html %}
+{% include _blocks/full-image.html %}
 
 {{ content }}

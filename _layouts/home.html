@@ -4,14 +4,20 @@ layout: default
 
 <ul class="projects">
     {% for post in site.projects %}
-    <li class="project">
-        <div class="project-details">
-            <h2 class="project-details__title">{{ post.title }}</h2>
-            <p class="project-details__description">{{ post.description }}</p>
-            <a class="project-details__button" href="{{ post.url }}">View project</a>
+    <li class="project block-grid block-grid--split-60-40">
+        <div class="block-grid-item" style="background-color: {{ post.background-color }};">
+            <div class="project-introduction">
+                <h1 class="project-title">{{ post.title }}</h1>
+                <p class="project-name">{{ post.name }}</p>
+                <p class="project-company">{{ post.company }}, {{ post.year }}</p>
+                <p class="project-description">{{ post.description }}</p>
+                <a href="{{ post.url }}">View Project</a>
+            </div>
         </div>
-        <div class="project-image">
-            <img src="{{ post.image }}" alt="{{ post.image-alt }}">
+        <div class="block-grid-item">
+            <figure>
+                <img class="project-image" src="{{ post.image }}" alt="{{ post.image-alt }}">
+            </figure>
         </div>
     </li>
     {% endfor %}
