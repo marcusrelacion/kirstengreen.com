@@ -84,7 +84,6 @@ sidebar-title: Hi, I'm Kirsten.
 sidebar-description: I’m a Product Designer working on web applications in the Washington, D.C. area.
 
 sidebar-status-searching: true
-sidebar-status-message: Currently, I am looking for work.
-
+sidebar-searching-contact-message: I am currently looking for work and, if you are interested in working together, let me know!
 sidebar-contact-message: If you are interested in working together, let me know!
-sidebar-contact-anchor: Message Me
+sidebar-contact-anchor: Send me a message
