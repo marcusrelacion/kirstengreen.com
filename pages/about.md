@@ -18,4 +18,5 @@ work-header: Work
 
 # settings
 layout: home
+permalink: /about/
 ---

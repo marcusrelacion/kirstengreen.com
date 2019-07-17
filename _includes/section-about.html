@@ -1,41 +1,42 @@
 <section id="about" class="section section-content">
-  <div class="container">
-    {% if page.layout == "single/work" %}
-      <div class="grid">
-        <div class="grid-item span-1">
-          <div class="introduction">
-            <h2>{{ page.section-1-header }}</h2>
-          </div>
-          {{ page.section-1-text | markdownify }}
-          <div class="introduction">
-            <h2>{{ page.section-2-header }}</h2>
-          </div>
-          <ul>
-            {% for text in page.section-2-text %}
-              <li>{{ text }}</li>
-            {% endfor %}
-          </ul>
-        </div>
-        <div class="grid-item span-2">
-          <div class="introduction">
-            <h2>{{ page.section-3-header }}</h2>
-          </div>
-          {{ page.section-3-text | markdownify }}
-        </div>
-      </div>
-    {% else %}
-      <div class="grid">
-        <div class="grid-item span-1">
-          {{ page.about-column-1 | markdownify }}
-        </div>
-        <div class="grid-item span-1">
-          {{ page.about-column-2 | markdownify }}
-        </div>
-        <div class="grid-item span-1">
-          <img src="{{ page.about-image }}" alt="{{ page.about-image-alt }}" />
-        </div>
-      </div>
-      <a href="#" class="btn-link btn-link-secondary">{{ page.button-resume}} <span class="icon">{% include icons/download.html %}</span></a>
-    {% endif %}
-  </div>
+	<div class="container">
+		{% if page.layout == "single/work" %}
+		<div class="grid">
+			<div class="grid-item span-1">
+				<div class="introduction">
+					<h2>{{ page.section-1-header }}</h2>
+				</div>
+				{{ page.section-1-text | markdownify }}
+				<div class="introduction">
+					<h2>{{ page.section-2-header }}</h2>
+				</div>
+				<ul>
+					{% for text in page.section-2-text %}
+					<li>{{ text }}</li>
+					{% endfor %}
+				</ul>
+			</div>
+			<div class="grid-item span-2">
+				<div class="introduction">
+					<h2>{{ page.section-3-header }}</h2>
+				</div>
+				{{ page.section-3-text | markdownify }}
+			</div>
+		</div>
+		{% else %}
+		<div class="grid">
+			<div class="grid-item span-1">
+				{{ page.about-column-1 | markdownify }}
+			</div>
+			<div class="grid-item span-1">
+				{{ page.about-column-2 | markdownify }}
+			</div>
+			<div class="grid-item span-1">
+				<img src="{{ page.about-image }}" alt="{{ page.about-image-alt }}" />
+			</div>
+		</div>
+		<a href="#" class="btn-link btn-link-secondary">{{ page.button-resume}} <span
+				class="icon">{% include icons/download.html %}</span></a>
+		{% endif %}
+	</div>
 </section>

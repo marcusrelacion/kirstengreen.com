@@ -14,19 +14,15 @@ section-1-text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 
 section-2-header: Methods
 section-2-text: 
-  - Method One
-  - Method Two
-  - Method Three
+    - Method One
+    - Method Two
+    - Method Three
 
 section-3-header: Process
 section-3-text: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Volutpat blandit aliquam etiam erat. At risus viverra adipiscing at in tellus integer feugiat. Ultrices vitae auctor eu augue. Iaculis urna id volutpat lacus laoreet non curabitur gravida. 
-
-
-  Nisl purus in mollis nunc. Felis imperdiet proin fermentum leo vel orci porta non. Tempus iaculis urna id volutpat lacus laoreet. Nisl vel pretium lectus quam id. Scelerisque viverra mauris in aliquam sem. Et leo duis ut diam. Imperdiet proin fermentum leo vel orci porta non pulvinar. Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor. 
-
-
-  Feugiat pretium nibh ipsum consequat nisl vel pretium lectus quam. At lectus urna duis convallis convallis. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Faucibus vitae aliquet nec ullamcorper sit amet risus nullam. Lectus mauris ultrices eros in. Placerat in egestas erat imperdiet sed euismod nisi.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Volutpat blandit aliquam etiam erat. At risus viverra adipiscing at in tellus integer feugiat. Ultrices vitae auctor eu augue. Iaculis urna id volutpat lacus laoreet non curabitur gravida. 
+    Nisl purus in mollis nunc. Felis imperdiet proin fermentum leo vel orci porta non. Tempus iaculis urna id volutpat lacus laoreet. Nisl vel pretium lectus quam id. Scelerisque viverra mauris in aliquam sem. Et leo duis ut diam. Imperdiet proin fermentum leo vel orci porta non pulvinar. Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor. 
+    Feugiat pretium nibh ipsum consequat nisl vel pretium lectus quam. At lectus urna duis convallis convallis. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Faucibus vitae aliquet nec ullamcorper sit amet risus nullam. Lectus mauris ultrices eros in. Placerat in egestas erat imperdiet sed euismod nisi.
 
 # work gallery
 image-1: http://placecorgi.com/800/400

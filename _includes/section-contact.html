@@ -1,19 +1,29 @@
 <section id="contact" class="section section-content">
-  <div class="container">
-    <div class="grid align-items-center">
-      <div class="grid-item span-1">
-        <div class="introduction">
-          <h2>{{ site.contact-header }}</h2>
-        </div>
-        {{ site.contact-subheader | markdownify }}
-        <a href="{{ item.url }}" class="btn btn-secondary">
-          Send Me a Message
-        </a>
-      </div>
-      <div class="grid-item span-2">
-        <img src="{{ site.contact-image }}" alt="{{ site.contact-image-alt }}"/>
-      </div>
-    </div>
-    {% include nav-social.html %}
-  </div>
+	<div class="container">
+		<div class="grid align-items-center">
+			<div class="grid-item span-1">
+				<div class="introduction">
+					<h2>{{ site.contact-header }}</h2>
+				</div>
+				{{ site.contact-subheader | markdownify }}
+				<a href="{{ item.url }}" class="btn btn-secondary">
+					Send Me a Message
+				</a>
+			</div>
+			<div class="grid-item span-2">
+				<img src="{{ site.contact-image }}" alt="{{ site.contact-image-alt }}" />
+			</div>
+		</div>
+		<nav role="navigation" class="nav nav-social">
+			<ul class="nav-list">
+				{% for link in site.data.social %}
+				<li class="nav-item">
+					<a href="{{ link.href }}">
+						{{ link.title }}
+					</a>
+				</li>
+				{% endfor %}
+			</ul>
+		</nav>
+	</div>
 </section>
