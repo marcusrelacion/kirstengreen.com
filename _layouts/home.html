@@ -2,9 +2,17 @@
 layout: default
 ---
 
-<main role="main">
-	{% include section-hero.html %}
-	{% include section-about.html %}
-	{% include section-work.html %}
-	{% include section-contact.html %}
-</main>
+<section class="section section-content">
+	{% for item in site.work %}
+	<article class="content-item grid-item span-1">
+		<div class="content-details">
+			<h3 class="content-title">{{ item.title }}</h3>
+			<p class="content-description">{{ item.description }}</p>
+			<a href="{{ item.url }}" class="button button--secondary">View project</a>
+		</div>
+		<div class="content-image">
+			<img src="#" alt="Image Alt Text">
+		</div>
+	</article>
+	{% endfor %}
+</section>

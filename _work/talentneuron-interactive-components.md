@@ -41,33 +41,6 @@ image-6: http://placecorgi.com/800/400
 image-6-alt: This is an image
 
 # settings
-layout: single/work
+layout: single-project
 permalink: work/talentneuron-interactive-components/
 ---
-
-<div class="grid">
-  <div class="grid-item span-2">
-    <img src="{{ page.image-1 }}" alt="{{ page.image-1-alt }}">
-  </div>
-  <div class="grid-item span-1">
-    <img src="{{ page.image-2 }}" alt="{{ page.image-2-alt }}">
-  </div>
-  <div class="grid-item span-1 align-self-center">
-    <span class="">{{ page.image-3-caption | markdownify }}</span>
-  </div>
-  <div class="grid-item span-2">
-    <img src="{{ page.image-3 }}" alt="{{ page.image-3-alt }}">
-  </div>
-  <div class="grid-item span-1">
-    <img src="{{ page.image-4 }}" alt="{{ page.image-4-alt }}">
-  </div>
-  <div class="grid-item span-2">
-    <img src="{{ page.image-5 }}" alt="{{ page.image-5-alt }}">
-  </div>
-  <div class="grid-item span-2">
-    <img src="{{ page.image-6 }}" alt="{{ page.image-6-alt }}">
-  </div>
-  <div class="grid-item span-1 align-self-center">
-    <span class="">{{ page.image-6-caption | markdownify }}</span>
-  </div>
-</div>
