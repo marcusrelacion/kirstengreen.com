@@ -5,3 +5,12 @@ fields:
 - type: text
   name: layout
   label: layout
+- name: page_layout
+  type: blocks
+  label: Page Layout
+  template_types:
+  - process-text
+  config:
+    min: 
+    max: 
+  description: Build page layout
