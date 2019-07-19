@@ -41,6 +41,6 @@ image-6: http://placecorgi.com/800/400
 image-6-alt: This is an image
 
 # settings
-layout: single-project
-permalink: work/ceb-brand-accessibility/
+layout: work
+permalink: /work/ceb-brand-accessibility/
 ---
