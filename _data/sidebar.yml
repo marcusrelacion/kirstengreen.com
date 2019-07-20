@@ -1,0 +1,16 @@
+navigation:
+- title: "Home"
+  href: "/"
+- title: "Resume"
+  href: "/resume/"
+
+social:
+- title: "LinkedIn"
+  icon:
+  href: "#"
+- title: "Twitter"
+  icon:
+  href: "#"
+- title: "Contact"
+  icon:
+  href: "#"

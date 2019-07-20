@@ -1,12 +1,10 @@
 ---
 title: CEB Brand Accessibility
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-image: http://placecorgi.com/400/200
-image-alt: Alt Text
-
-# hero section
 company: Gartner
 year: 2017
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+image: https://picsum.photos/800/400
+image-alt: Provide Alt Text
 
 # work introduction
 section-1-header: Problem

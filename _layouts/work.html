@@ -2,19 +2,32 @@
 layout: default
 ---
 
-<section>
-	hero
+<!-- block: hero -->
+<section class="hero">
+	<div class="hero__information">
+		<div class="hero__content">
+			<h2>{{ page.title }}</h2>
+			<strong>{{ page.company }}</strong>
+			<p>{{ page.year }}</p>
+			<p>{{ page.description }}</p>
+		</div>
+	</div>
+	<div class="hero__image">
+		<img src="{{ page.image }}" alt="{{ page.image-alt }}">
+	</div>
 </section>
-<section>
+
+<!-- block: overview & methods -->
+<section class="overview-methods">
 	overview and methods
 </section>
-<section>
+<section class="photo-qoute">
 	photo qoute
 </section>
-<section>
+<section class="process">
 	process text
 </section>
-<section>
+<section class="process-text-">
 	process text and qoute
 </section>
 <section>

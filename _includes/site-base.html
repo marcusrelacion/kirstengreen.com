@@ -7,7 +7,7 @@
 	<header class="site-header">
 		<nav role="navigation" class="site-header__nav">
 			<ul>
-				{% for link in site.data.navigation %}
+				{% for link in site.data.sidebar.navigation %}
 				<li><a href="{{ link.href }}">{{ link.title }}</a></li>
 				{% endfor %}
 			</ul>
