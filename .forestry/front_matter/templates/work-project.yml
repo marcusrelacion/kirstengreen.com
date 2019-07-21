@@ -1,13 +1,4 @@
 ---
 label: Work Project
 hide_body: false
-fields:
-- name: overview
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: Overview
+fields: []
