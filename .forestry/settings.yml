@@ -17,7 +17,6 @@ sections:
 - type: document
   path: resume.md
   label: "\U0001F947 Resume"
-  match: "**/*"
 upload_dir: assets/media
 public_path: "/assets/media"
 front_matter_path: ''
