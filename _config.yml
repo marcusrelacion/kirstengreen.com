@@ -1,6 +1,5 @@
 ---
 title: Your awesome title
-timezone: UTC
 collections:
   posts:
     title: Posts
@@ -13,8 +12,6 @@ collections:
     output: true
 email:
 description:
-baseurl:
-url: 
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
@@ -26,3 +23,19 @@ contact-subheader: 'I am currently looking for work. If you are interested in wo
 contact-image: http://placecorgi.com/800/400
 contact-image-alt: Alt Text
 copyright: "© 2019 Kirsten Green"
+
+
+# Global Configuration
+destination: _dist
+encoding: utf-8
+source: _src
+timezone: UTC
+
+# Build Commands
+
+# Serve Commands
+baseurl:
+url: 
+asseturl: /assets/
+uploadurl: /uploads/
+livereload: true

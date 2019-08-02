@@ -1,4 +1,4 @@
-_site
+_dist
 .DS_Store
 node_modules
 .jekyll-metadata
