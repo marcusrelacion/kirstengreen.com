@@ -8,26 +8,21 @@ collections:
   uploads:
     title: Uploads
     output: true
-  work:
-    title: Work
+  projects:
+    title: Projects
     output: true
-email: your-email@example.com
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-baseurl: 
+email:
+description:
+baseurl:
 url: 
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
 plugins:
-- jekyll-feed
+  - jekyll-seo-tag
 paginator-header: Related Case Studies
 contact-header: Contact Me
-contact-subheader: 'I am currently looking for work. If you are interested in working
-  together, let me know!
-
-'
+contact-subheader: 'I am currently looking for work. If you are interested in working together, let me know!'
 contact-image: http://placecorgi.com/800/400
 contact-image-alt: Alt Text
-copyright: "© 2018 Kirsten Green"
+copyright: "© 2019 Kirsten Green"

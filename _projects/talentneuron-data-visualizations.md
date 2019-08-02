@@ -1,6 +1,6 @@
 ---
 title: TalentNeuron Data Visualizations
-permalink: work/talentneuron-data-visualizations/
+permalink: projects/talentneuron-data-visualizations
 excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
   exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -50,7 +50,7 @@ image-6-caption: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
   nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 image-6: http://placecorgi.com/800/400
 image-6-alt: This is an image
-layout: single/work
+layout: post
 ---
 
 <div class="grid">

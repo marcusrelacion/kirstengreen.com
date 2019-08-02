@@ -3,41 +3,60 @@
         <ul class="header-navigation__links">
             {% for link in site.data.navigation.primary %}
             <li class="header-navigation__link">
-                <a href="{{ link.url }}">{{ link.title }}</a>
+                <a href="{{ link.url }}">
+                    {{ link.title }}
+                </a>
             </li>
             {% endfor %}
         </ul>
     </nav>
-
     <div class="header-introduction">
         <div class="header__logo">
-            <img src="{{ site.avatarurl }}" alt="{{ site.avatarurl-alt }}">
+            <img alt="{{ site.avatarurl-alt }}" src="/uploads/kg-avatar.png">
+            </img>
         </div>
         <div class="header__content">
-            <p class="title">{{ site.sidebar-title }}</p>
-            <p class="description">{{ site.sidebar-description }}</p>
+            <p class="title">
+                {{ site.sidebar-title }}
+            </p>
+            <p class="description">
+                {{ site.sidebar-description }}
+            </p>
         </div>
     </div>
-
     <div class="header-contact">
         {% if site.sidebar-status-searching == true %}
-        <p class="contact__status">{{ site.sidebar-searching-contact-message }}</p>
+        <p class="contact__status">
+            {{ site.sidebar-searching-contact-message }}
+        </p>
         {% else %}
-        <p class="contact__message">{{ site.sidebar-contact-message }}</p>
+        <p class="contact__message">
+            {{ site.sidebar-contact-message }}
+        </p>
         {% endif %}
-        <a class="contact__link" href="#">{{ site.sidebar-contact-anchor }}</a>
+        <a class="contact__link" href="#">
+            {{ site.sidebar-contact-anchor }}
+        </a>
     </div>
-
     <div class="header-social">
         <ul class="header-social__links">
             <li class="header-social__link">
-                <a href="https://www.linkedin.com/in/greenkirsten/"><i class="fab fa-linkedin"></i></a>
+                <a href="https://www.linkedin.com/in/greenkirsten/">
+                    <i class="fab fa-linkedin">
+                    </i>
+                </a>
             </li>
             <li class="header-social__link">
-                <a href="https://twitter.com/kirstengreen_"><i class="fab fa-twitter"></i></a>
+                <a href="https://twitter.com/kirstengreen_">
+                    <i class="fab fa-twitter">
+                    </i>
+                </a>
             </li>
             <li class="header-social__link">
-                <a href="https://www.instagram.com/kirstengreen_/"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.instagram.com/kirstengreen_/">
+                    <i class="fab fa-instagram">
+                    </i>
+                </a>
             </li>
         </ul>
     </div>

@@ -18,4 +18,3 @@ button-resume: Download Resume
 work-header: Work
 layout: home
 ---
-
