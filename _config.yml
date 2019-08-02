@@ -1,89 +1,33 @@
-# Site configuration
-# 1. Files excluded from Jekyll builds
-# 2. Installed Gems
-# 3. Gem settings
-# 4. Jekyll settings
-# 5. Collections
-# 6. Jekyll collections settings
-# 7. Site settings
-# 8. Site navigation
-
-# 1. Files excluded from Jekyll builds
-exclude:
-  - package.json
-  - package-lock.json
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - index.js
-  - src/*
-
-# 2. Installed Gems
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-json-feed
-
-# 3. Gem settings
-# Jekyll SEO Tag
-title: Portfolio - Kirsten Green
-description: >-
-email: hello@kirstengreen.com
-author: Kirsten Green
-lang: en_US
-logo: ""
-social:
-  name: Kirsten Green
-  links:
-    - https://twitter.com/kirstengreen
-    - https://github.com/kirstengreen
-twitter:
-  username: kirstengreen
-  card: summary
-markdown: kramdown
-
-# 4. Jekyll settings
-permalink: pretty
-timezone: America/New_York
-
-# 5. Collections
+---
+title: Your awesome title
+timezone: UTC
 collections:
   posts:
-    title: Posts # Needed for Siteleaf
-    output: false
-  projects:
-    title: Projects
+    title: Posts
     output: true
-    permalink: "/:collection/:title/"
-    label: projects
+  uploads:
+    title: Uploads
+    output: true
+  work:
+    title: Work
+    output: true
+email: your-email@example.com
+description: Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
+baseurl: 
+url: 
+twitter_username: jekyllrb
+github_username: jekyll
+markdown: kramdown
+plugins:
+- jekyll-feed
+paginator-header: Related Case Studies
+contact-header: Contact Me
+contact-subheader: 'I am currently looking for work. If you are interested in working
+  together, let me know!
 
-# 6. Jekyll collections settings
-defaults:
-  -
-    scope:
-      path: ""
-      type: posts
-    values:
-      layout: "post"
-
-# 7. Site settings
-encoding: utf-8
-title: Portfolio - Kirsten Green
-description: "Kirsten Green is a UI/UX Designer based in Northern, Virginia"
-email: hello@kirstengreen.com
-author: Kirsten Green
-lang: en_US
-logo: ""
-url: "https://www.kirstengreen.com"
-baseurl: ""
-repo: ""
-avatarurl: "/assets/images/branding-kg-illustration.png"
-
-# 8. Custom
-sidebar-title: Hi, I'm Kirsten.
-sidebar-description: I’m a Product Designer working on web applications in the Washington, D.C. area.
-
-sidebar-status-searching: true
-sidebar-searching-contact-message: I am currently looking for work and, if you are interested in working together, let me know!
-sidebar-contact-message: If you are interested in working together, let me know!
-sidebar-contact-anchor: Send me a message
+'
+contact-image: http://placecorgi.com/800/400
+contact-image-alt: Alt Text
+copyright: "© 2018 Kirsten Green"
