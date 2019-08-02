@@ -4,7 +4,7 @@ permalink: projects/talentneuron-data-visualizations
 excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
   exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-image: http://placecorgi.com/400/200
+image: https://picsum.photos/1024?grayscale
 image-alt: Alt Text
 company: Gartner
 year: 2017

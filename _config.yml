@@ -32,10 +32,27 @@ source: _src
 timezone: UTC
 
 # Build Commands
+sass:
+  sass_dir: "/assets/styles/"
+  style: compressed
 
 # Serve Commands
 baseurl:
-url: 
+url: https://kirstengreen.com
 asseturl: /assets/
 uploadurl: /uploads/
 livereload: true
+
+# Sidebar Settings
+
+sidebar-about-avatar: /uploads/kg-avatar.png
+sidebar-about-header: Hi, I’m Kirsten.
+sidebar-about-body: I’m a Product Designer working on web applications in the Washington, D.C. area.
+sidebar-contact-status-seeking: true
+sidebar-contact-status-message-seeking: I’m currently looking for work and, if you are interested in working together, let me know!
+sidebar-contact-status-message-not-seeking:
+sidebar-contact-link-text: Send me a message
+sidebar-contact-link-url: "#"
+sidebar-social-linkedin-link: https://www.linkedin.com/in/greenkirsten/
+sidebar-social-twitter-link: https://twitter.com/kirstengreen_/
+sidebar-social-instagram-link: https://www.instagram.com/kirstengreen_/

@@ -1,3 +1,121 @@
+.header-contact {
+    line-height: 1.4;
+    margin-bottom: 16px;
+}
+
+.header-contact, .header-social {
+    align-self: end;
+}
+.header-social__link:not(:last-child) {
+    margin-right: 8px;
+}
+.header-social a {
+    font-size: 24px;
+}
+
+@media screen and (min-width: 959px) {
+    .site-grid {
+        display: grid;
+        grid-template-columns: [sidebar] minmax(200px, 400px) [content] 1fr;
+    }
+    .site-header {
+        grid-column: sidebar;
+        height: 100vh;
+        position: sticky;
+        position: -webkit-sticky;
+        top: 0;
+    }
+    .site-content, .site-footer {
+        grid-column: content;
+    }
+    .site-content {
+        padding: 40px;
+    }
+    .site-footer {
+        position: sticky;
+        bottom: 0;
+    }
+}
+.block-grid {
+    display: grid;
+    grid-gap: 16px;
+    margin: auto;
+}
+.block-grid--full-image, .block-grid__split-50-50, .block-grid--split-60-40 {
+    grid-template-columns: 1fr;
+}
+@media screen and (min-width: 959px) {
+    /* multi purpose block that can contain, text, image, nothing */
+    .block-grid__split-50-50 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    /*used primarily as a page header */
+    .block-grid--split-60-40 {
+        grid-template-columns: 3fr 1fr;
+    }
+}
+.project-introduction {
+    border-left: solid 4px orange;
+    padding: 0 24px;
+    margin-bottom: 24px;
+    margin-left: 24px;
+    margin-top: -24px;
+}
+.project-title {
+    font-family: "Source Code Pro";
+    font-weight: 600;
+    font-size: 32px;
+    margin-bottom: 16px;
+}
+.project-name {
+    font-weight: bold;
+    font-size: 16px;
+}
+.project-company {
+    font-size: 16px;
+    font-style: italic;
+    margin-bottom: 16px;
+}
+.project-description {
+    padding-bottom: 16px;
+}
+.project-image {
+    border-right: solid 4px orange;
+    border-bottom: solid 4px orange;
+    padding: 0 16px 16px 0;
+}
+.photo-grid {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: 1fr repeat(2, 50px);
+    grid-gap: 24px;
+}
+.photo-grid img {
+    grid-column: 1/8;
+    grid-row: 1 / span 2;
+}
+.photo-grid figcaption {
+    padding: 24px;
+    grid-column: 5/9;
+    grid-row: 2/4;
+    background-color: white;
+    border-right: solid 4px orange;
+    border-bottom: solid 4px orange;
+    align-self: center;
+}
+.block-grid__split-50-50 .block-grid-item {
+    align-self: center;
+}
+blockquote {
+    border-left: solid 4px orange;
+    padding: 24px;
+    font-size: 20px;
+    font-style: italic;
+    align-content: center;
+}
+
+
+
 /* project tile */
 .projectsList {
     display: grid;
