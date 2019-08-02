@@ -1,60 +1,89 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Site configuration
+# 1. Files excluded from Jekyll builds
+# 2. Installed Gems
+# 3. Gem settings
+# 4. Jekyll settings
+# 5. Collections
+# 6. Jekyll collections settings
+# 7. Site settings
+# 8. Site navigation
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# 1. Files excluded from Jekyll builds
+exclude:
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - index.js
+  - src/*
 
-# Build settings
-markdown: kramdown
+# 2. Installed Gems
 plugins:
-  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-json-feed
 
+# 3. Gem settings
+# Jekyll SEO Tag
+title: Portfolio - Kirsten Green
+description: >-
+email: hello@kirstengreen.com
+author: Kirsten Green
+lang: en_US
+logo: ""
+social:
+  name: Kirsten Green
+  links:
+    - https://twitter.com/kirstengreen
+    - https://github.com/kirstengreen
+twitter:
+  username: kirstengreen
+  card: summary
+markdown: kramdown
+
+# 4. Jekyll settings
+permalink: pretty
+timezone: America/New_York
+
+# 5. Collections
 collections:
-  work:
-    title: Work
+  posts:
+    title: Posts # Needed for Siteleaf
+    output: false
+  projects:
+    title: Projects
     output: true
+    permalink: "/:collection/:title/"
+    label: projects
 
-# paginator section
-paginator-header: Related Case Studies
+# 6. Jekyll collections settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: "post"
 
-# contact section
-contact-header: Contact Me
-contact-subheader: |
-  I am currently looking for work. If you are interested in working together, let me know!
-contact-image: http://placecorgi.com/800/400
-contact-image-alt: Alt Text
+# 7. Site settings
+encoding: utf-8
+title: Portfolio - Kirsten Green
+description: "Kirsten Green is a UI/UX Designer based in Northern, Virginia"
+email: hello@kirstengreen.com
+author: Kirsten Green
+lang: en_US
+logo: ""
+url: "https://www.kirstengreen.com"
+baseurl: ""
+repo: ""
+avatarurl: "/assets/images/branding-kg-illustration.png"
 
-# footer
-copyright: © 2018 Kirsten Green
+# 8. Custom
+sidebar-title: Hi, I'm Kirsten.
+sidebar-description: I’m a Product Designer working on web applications in the Washington, D.C. area.
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+sidebar-status-searching: true
+sidebar-searching-contact-message: I am currently looking for work and, if you are interested in working together, let me know!
+sidebar-contact-message: If you are interested in working together, let me know!
+sidebar-contact-anchor: Send me a message

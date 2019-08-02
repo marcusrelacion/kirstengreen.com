@@ -1,0 +1,46 @@
+The Humans Responsible & Colophon
+humanstxt.org
+
+
+kirstengreen.com
+https://kirstengreen.com
+
+
+## Team
+- Kirsten Green
+  - UI & UX Designer
+  - Alexandria, VA
+  - hello@kirstengreen.com
+  - @kirstengreen
+
+
+## Site
+- Standards
+  - HTML (https://www.w3.org/TR/html5/)
+  - CSS (https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/)
+  - Markdown (https://daringfireball.net/projects/markdown/)
+  - SVG (https://www.w3.org/TR/SVG/)
+
+
+- Libraries
+  - Google Fonts (https://fonts.google.com/)
+
+
+- Browsers
+  - Chrome (https://www.google.com/chrome/)
+  - Edge (https://www.microsoft.com/en-us/windows/microsoft-edge)
+  - Firefox (https://www.mozilla.org/en-US/firefox/new/)
+  - Safari (http://www.apple.com/safari/)
+  - Polypane
+
+
+- Software and Services
+  - Visual Studio Code
+  - Figma
+  - GitKraken
+  - Notion
+  - Netlify
+  - MacOS Mojave
+  - ImageOptim
+  - Git (https://git-scm.com/)
+  - GitHub (https://github.com/)

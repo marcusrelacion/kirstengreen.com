@@ -1,0 +1,17 @@
+{
+  "name": "recall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve:parcel": "parcel index.js",
+    "build:parcel": "parcel build index.js -d dist/",
+    "jekyll:serve": "bundle exec jekyll serve --livereload",
+    "build:jekyll": "bundle exec jekyll build",
+    "build": "npm run build:parcel && npm run build:jekyll"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+  }
+}

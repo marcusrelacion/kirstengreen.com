@@ -1,0 +1,12 @@
+---
+title: Project Title
+name: Project Name
+company: Project Company
+year: Project Year
+description: Project Description
+image: https://picsum.photos/1024?grayscale
+image-alt: Provide Alt Text
+background-color: var(--gray)
+
+permalink: #url
+---
