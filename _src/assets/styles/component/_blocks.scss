@@ -1,0 +1,20 @@
+.layout-home .block-grid {
+    background-color: var(--kg-accent);
+}
+.block-grid {
+    display: grid;
+    grid-gap: 16px;
+}
+.block-grid--full-image, .block-grid__split-50-50, .block-grid--split-60-40 {
+    grid-template-columns: 1fr;
+}
+@media screen and (min-width: 479px) {
+    /* multi purpose block that can contain, text, image, nothing */
+    .block-grid__split-50-50 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    /*used primarily as a page header */
+    .block-grid--split-60-40 {
+        grid-template-columns: 3fr 1fr;
+    }
+}

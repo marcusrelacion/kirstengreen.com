@@ -1,31 +1,31 @@
 ---
 layout: default
 ---
-<ul class="projects">
+<ul class="cards">
     {% for post in site.projects %}
-    <li class="project block-grid block-grid--split-60-40">
-        <div class="block-grid-item" style="background-color: {{ post.background-color }};">
-            <div class="project-introduction">
-                <h1 class="project-title">
+    <li class="card block-grid block-grid--split-60-40">
+        <div class="block-grid-item">
+            <div class="card-introduction">
+                <h1 class="heading-1 margin-bottom-3">
                     {{ post.title }}
                 </h1>
-                <p class="project-name">
+                <p class="paragraph">
                     {{ post.name }}
                 </p>
-                <p class="project-company">
+                <p class="paragraph italic margin-bottom-4">
                     {{ post.company }}, {{ post.year }}
                 </p>
-                <p class="project-description">
+                <p class="paragraph margin-bottom-9">
                     {{ post.description }}
                 </p>
-                <a href="{{ post.url }}">
-                    View Project
+                <a class="anchor" href="{{ post.url }}">
+                    View card
                 </a>
             </div>
         </div>
         <div class="block-grid-item">
             <figure>
-                <img alt="{{ post.image-alt }}" class="project-image" src="{{ post.image }}">
+                <img alt="{{ post.image-alt }}" class="card-image" src="{{ post.image }}">
                 </img>
             </figure>
         </div>

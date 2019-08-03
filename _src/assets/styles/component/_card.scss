@@ -1,0 +1,63 @@
+.cards {
+    display: grid;
+    grid-gap: 48px;
+    padding: 48px 0;
+}
+.card-introduction {
+    border-left: solid 4px var(--kg-primary);
+    padding: 16px;
+    margin-bottom: 16px;
+    margin-left: 16px;
+    margin-top: -24px;
+}
+.card-title {
+    font-family: "Source Code Pro";
+    font-weight: 600;
+    font-size: 32px;
+    margin-bottom: 16px;
+}
+.card-name {
+    font-weight: bold;
+    font-size: 16px;
+}
+.card-company {
+    font-size: 16px;
+    font-style: italic;
+    margin-bottom: 16px;
+}
+.card-description {
+    padding-bottom: 16px;
+}
+.card-image {
+    border-right: solid 4px var(--kg-primary);
+    border-bottom: solid 4px var(--kg-primary);
+    padding: 0 16px 16px 0;
+}
+.photo-grid {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: 1fr repeat(2, 50px);
+    grid-gap: 24px;
+}
+.photo-grid img {
+    grid-column: 1/8;
+    grid-row: 1 / span 2;
+}
+.photo-grid figcaption {
+    padding: 24px;
+    grid-column: 5/9;
+    grid-row: 2/4;
+    background-color: white;
+    border-right: solid 4px var(--kg-secondary);
+    border-bottom: solid 4px var(--kg-secondary);
+    align-self: center;
+}
+.block-grid__split-50-50 .block-grid-item {
+    align-self: center;
+}
+@media screen and (min-width: 1023px) {
+    .cards {
+        display: grid;
+        grid-gap: 64px;
+    }
+}

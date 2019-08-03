@@ -1,9 +1,10 @@
 ---
 title: CEB Brand Accessibility
 permalink: projects/ceb-brand-accessibility
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+name: Project Name
+company: Project Company
+year: Project Year
+description: Project Description
 image: https://picsum.photos/1024?grayscale
 image-alt: Alt Text
 company: Gartner
