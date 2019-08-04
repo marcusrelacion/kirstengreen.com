@@ -5,7 +5,7 @@ name: Project Name
 company: Project Company
 year: Project Year
 description: Project Description
-image: https://picsum.photos/1024?grayscale
+image: https://picsum.photos/368/240?grayscale
 image-alt: Alt Text
 company: Gartner
 year: 2017

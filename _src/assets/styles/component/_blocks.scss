@@ -1,20 +1,59 @@
-.layout-home .block-grid {
-    background-color: var(--kg-accent);
-}
+.layout-home .block-grid {}
 .block-grid {
+    align-items: stretch;
     display: grid;
-    grid-gap: 16px;
-}
-.block-grid--full-image, .block-grid__split-50-50, .block-grid--split-60-40 {
+    grid-gap: 1rem;
     grid-template-columns: 1fr;
+    min-height: 200px;
+    position: relative;
 }
-@media screen and (min-width: 479px) {
-    /* multi purpose block that can contain, text, image, nothing */
-    .block-grid__split-50-50 {
+.block-grid-item {
+    position: relative;
+}
+.block-grid-item:nth-child(2) {
+    height: 200px;
+    margin: 1rem;
+}
+.block-grid-item--border::before, .block-grid-item--border::after {
+    content: '';
+    position: absolute;
+}
+.block-grid-item--border::before {
+    border-right: solid 4px var(--kg-primary);
+    bottom: -1rem;
+    right: -1rem;
+    top: 0;
+}
+.block-grid-item--border::after {
+    border-bottom: solid 4px var(--kg-primary);
+    bottom: -1rem;
+    left: 0px;
+    right: -1rem;
+}
+@media screen and (min-width: 767px) {
+    .block-grid-item:nth-child(2) {
+        height: auto;
+        margin: 0;
+    }
+    .block-grid-item--border::before {
+        border-right: solid 4px var(--kg-primary);
+        bottom: -1rem;
+        right: -1rem;
+        top: 0;
+    }
+    .block-grid-item--border::after {
+        border-bottom: solid 4px var(--kg-primary);
+        bottom: -1rem;
+        left: 0px;
+        right: -1rem;
+    }
+    .block-grid--100 {
+        grid-template-columns: repeat( auto-fit, minmax(0.5fr, 0.5fr));
+    }
+    .block-grid--50-50 {
         grid-template-columns: repeat(2, 1fr);
     }
-    /*used primarily as a page header */
-    .block-grid--split-60-40 {
-        grid-template-columns: 3fr 1fr;
+    .block-grid--60-40 {
+        grid-template-columns: 6fr 4fr;
     }
 }

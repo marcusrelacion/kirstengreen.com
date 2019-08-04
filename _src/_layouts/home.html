@@ -3,18 +3,12 @@ layout: default
 ---
 <ul class="cards">
     {% for post in site.projects %}
-    <li class="card block-grid block-grid--split-60-40">
-        <div class="block-grid-item">
+    <li class="card block-grid block-grid--60-40">
+        <div class="block-grid-item bg-kg-accent">
             <div class="card-introduction">
                 <h1 class="heading-1 margin-bottom-3">
                     {{ post.title }}
                 </h1>
-                <p class="paragraph">
-                    {{ post.name }}
-                </p>
-                <p class="paragraph italic margin-bottom-4">
-                    {{ post.company }}, {{ post.year }}
-                </p>
                 <p class="paragraph margin-bottom-9">
                     {{ post.description }}
                 </p>
@@ -23,12 +17,7 @@ layout: default
                 </a>
             </div>
         </div>
-        <div class="block-grid-item">
-            <figure>
-                <img alt="{{ post.image-alt }}" class="card-image" src="{{ post.image }}">
-                </img>
-            </figure>
-        </div>
+        <div class="block-grid-item block-grid-item--border" style="background-image: url('{{ post.image }}'); background-repeat: no-repeat; background-size: cover; background-position: center center;"></div>
     </li>
     {% endfor %}
 </ul>
