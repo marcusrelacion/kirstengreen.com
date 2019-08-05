@@ -1,0 +1,47 @@
+body {
+    line-height: 1rem;
+}
+.heading-1 {
+    font-family: var(--mono);
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 2rem;
+    margin-bottom: 16px;
+}
+.heading-2 {
+    font-family: var(--sans-serif);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.6rem;
+}
+.paragraph {
+    font-weight: 400;
+}
+.anchor {
+    color: var(--kg-secondary);
+    display: block;
+    opacity: 1;
+    transition: opacity 200ms ease-in;
+}
+.anchor:hover {
+    opacity: 0.5;
+}
+.italic {
+    font-style: italic;
+}
+.bold {
+    font-style: strong;
+}
+@media screen and (min-width: 1023px) {
+    body {
+        line-height: 1.4rem;
+    }
+    .heading-1 {
+        font-size: 32px;
+        line-height: 2.2rem;
+    }
+    .heading-2 {
+        font-size: 24px;
+        line-height: 2rem;
+    }
+}

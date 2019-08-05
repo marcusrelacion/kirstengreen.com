@@ -1,6 +1,5 @@
 ---
-title: Your awesome title
-timezone: UTC
+title: Kisten Green
 collections:
   posts:
     title: Posts
@@ -8,26 +7,52 @@ collections:
   uploads:
     title: Uploads
     output: true
-  work:
-    title: Work
+  projects:
+    title: Projects
     output: true
-email: your-email@example.com
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-baseurl: 
-url: 
+email:
+description:
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
 plugins:
-- jekyll-feed
+  - jekyll-seo-tag
 paginator-header: Related Case Studies
 contact-header: Contact Me
-contact-subheader: 'I am currently looking for work. If you are interested in working
-  together, let me know!
-
-'
+contact-subheader: 'I am currently looking for work. If you are interested in working together, let me know!'
 contact-image: http://placecorgi.com/800/400
 contact-image-alt: Alt Text
-copyright: "© 2018 Kirsten Green"
+copyright: "© 2019 Kirsten Green"
+
+
+# Global Configuration
+destination: _dist
+encoding: utf-8
+source: _src
+timezone: UTC
+
+# Build Commands
+sass:
+  sass_dir: "/assets/styles/"
+  style: compressed
+
+# Serve Commands
+baseurl:
+url: https://kirstengreen.com
+asseturl: /assets/
+uploadurl: /uploads/
+livereload: true
+
+# Sidebar Settings
+
+sidebar-about-avatar: /uploads/kg-avatar.png
+sidebar-about-header: Hi, I’m Kirsten.
+sidebar-about-body: I’m a Product Designer working on web applications in the Washington, D.C. area.
+sidebar-contact-status-seeking: true
+sidebar-contact-status-message-seeking: I’m currently looking for work and, if you are interested in working together, let me know!
+sidebar-contact-status-message-not-seeking:
+sidebar-contact-link-text: Send me a message
+sidebar-contact-link-url: "#"
+sidebar-social-linkedin-link: https://www.linkedin.com/in/greenkirsten/
+sidebar-social-twitter-link: https://twitter.com/kirstengreen_/
+sidebar-social-instagram-link: https://www.instagram.com/kirstengreen_/

@@ -1,0 +1,102 @@
+---
+layout: default
+---
+<!-- Section 1 -->
+<section class="block-grid block-grid-60-40">
+    <div class="block-grid-item" style="background-color: {{ page.background-color }};">
+        <div class="project-introduction">
+            <h1 class="project-title">
+                {{ page.title }}
+            </h1>
+            <p class="project-name">
+                {{ page.name }}
+            </p>
+            <p class="project-company">
+                {{ page.company }}, {{ page.year }}
+            </p>
+            <p class="project-description">
+                {{ page.description }}
+            </p>
+        </div>
+    </div>
+    <div class="block-grid-item">
+        <figure>
+            <img alt="{{ page.image-alt }}" class="project-image" src="{{ page.image }}">
+            </img>
+        </figure>
+    </div>
+</section>
+<!-- Section 2 -->
+<section class="block-grid block-grid--50-50">
+    <div class="block-grid-item">
+        {{ page.section-2-content-text-left }} text-left
+    </div>
+    <div class="block-grid-item">
+        {{ page.section-2-content-text-right }} text-right
+    </div>
+</section>
+<!-- Section 3 -->
+<section class="block-grid block-grid--full-image">
+    <div class="block-grid-item">
+        <figure class="photo-block-grid">
+            <img alt="{{ page.section-3-content-image-alt }}" src="{{ page.section-3-content-image }}">
+                <figcaption>
+                    {{ page.section-3-content-image-text }}
+                </figcaption>
+            </img>
+        </figure>
+    </div>
+</section>
+<!-- Section 4 -->
+<section class="block-grid block-grid--50-50">
+    <div class="block-grid-item">
+        {{ page.section-4-content-text-left }}
+    </div>
+    <div class="block-grid-item">
+        {{ page.section-4-content-text-right }}
+    </div>
+</section>
+<!-- Section 5 -->
+<section class="block-grid block-grid--50-50">
+    <div class="block-grid-item">
+        <figure class="photo-block-grid">
+            <img alt="{{ page.section-5-content-image-alt-left }}" src="{{ page.section-5-content-image-left }}"/>
+        </figure>
+    </div>
+    <div class="block-grid-item">
+        <figure class="photo-block-grid">
+            <img alt="{{ page.section-5-content-image-alt-right }}" src="{{ page.section-5-content-image-right }}"/>
+        </figure>
+    </div>
+</section>
+<!-- Section 6 -->
+<section class="block-grid block-grid--50-50">
+    <div class="block-grid-item">
+        {{ page.section-6-content-text-left }}
+    </div>
+    <div class="block-grid-item">
+        {{ page.section-6-content-text-right }}
+    </div>
+</section>
+<!-- Section 7 -->
+<section class="block-grid block-grid--50-50">
+    <div class="block-grid-item">
+        <figure class="photo-block-grid">
+            <img alt="{{ page.section-7-content-image-alt-left }}" src="{{ page.section-7-content-image-left }}"/>
+        </figure>
+    </div>
+    <div class="block-grid-item">
+        <figure class="photo-block-grid">
+            <img alt="{{ page.section-7-content-image-alt-right }}" src="{{ page.section-7-content-image-right }}"/>
+        </figure>
+    </div>
+</section>
+<!-- Section 8 -->
+<section class="block-grid block-grid--50-50">
+    <div class="block-grid-item">
+        {{ page.section-8-content-text-left }}
+    </div>
+    <div class="block-grid-item">
+        {{ page.section-8-content-text-right }}
+    </div>
+</section>

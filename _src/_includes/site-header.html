@@ -1,0 +1,54 @@
+<header class="site-header">
+    <nav class="header-primary">
+        <ul class="header-primary__links">
+            {% for link in site.data.navigation.primary.links %}
+            <li class="header-primary__link">
+                <a class="anchor" href="{{ link.url }}" rel="noopener" target="_blank">
+                    {{ link.title }}
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </nav>
+    <div class="header-introduction">
+        <div class="header-introduction__logo">
+            <img alt="{{ site.sidebar-about-avatar-alt }}" src="{{ site.sidebar-about-avatar }}"/>
+        </div>
+        <div class="header-introduction__content">
+            <h1 class="heading-1">
+                {{ site.sidebar-about-header }}
+            </h1>
+            <h2 class="heading-2">
+                {{ site.sidebar-about-body }}
+            </h2>
+        </div>
+    </div>
+    <div class="header-contact">
+        <div class="header-contact__status">
+            {% if site.sidebar-contact-status-seeking == true %}
+            <p class="paragraph">
+                {{ site.sidebar-contact-status-message-seeking }}
+            </p>
+            {% else %}
+            <p class="paragraph">
+                {{ site.sidebar-contact-status-message-not-seeking }}
+            </p>
+            {% endif %}
+        </div>
+        <a class="anchor" href="{{ site.sidebar-contact-link-url }}">
+            {{ site.sidebar-contact-link-text }}
+        </a>
+    </div>
+    <div class="header-social">
+        <ul class="header-social__links">
+            {% for link in site.data.navigation.social.links %}
+            <li class="header-social__link">
+                <a class="anchor" href="{{ link.href }}" rel="noopener" target="_blank">
+                    {{ link.icon }}
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</header>
+

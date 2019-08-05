@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<ul class="cards">
+    {% for post in site.projects %}
+    <li class="card block-grid block-grid--60-40">
+        <div class="block-grid-item bg-kg-accent">
+            <div class="card-introduction">
+                <h1 class="heading-1 margin-bottom-3">
+                    {{ post.title }}
+                </h1>
+                <p class="paragraph margin-bottom-9">
+                    {{ post.description }}
+                </p>
+                <a class="anchor" href="{{ post.url }}">
+                    View project (Needs to be Styled)
+                </a>
+            </div>
+        </div>
+        <div class="block-grid-item block-grid-item--border" style="background-image: url('{{ post.image }}'); background-repeat: no-repeat; background-size: cover; background-position: center center;"></div>
+    </li>
+    {% endfor %}
+</ul>
