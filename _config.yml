@@ -1,56 +1,49 @@
 ---
 title: Kisten Green
+timezone: UTC
 collections:
   posts:
     title: Posts
     output: true
-  uploads:
-    title: Uploads
-    output: true
   projects:
     title: Projects
     output: true
-email:
-description:
+  uploads:
+    title: Uploads
+    output: true
+email: 
+description: 
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
 plugins:
-  - jekyll-seo-tag
+- jekyll-seo-tag
 paginator-header: Related Case Studies
 contact-header: Contact Me
-contact-subheader: 'I am currently looking for work. If you are interested in working together, let me know!'
+contact-subheader: I am currently looking for work. If you are interested in working
+  together, let me know!
 contact-image: http://placecorgi.com/800/400
 contact-image-alt: Alt Text
 copyright: "© 2019 Kirsten Green"
-
-
-# Global Configuration
 destination: _dist
 encoding: utf-8
 source: _src
-timezone: UTC
-
-# Build Commands
 sass:
   sass_dir: "/assets/styles/"
   style: compressed
-
-# Serve Commands
-baseurl:
+baseurl: 
 url: https://kirstengreen.com
-asseturl: /assets/
-uploadurl: /uploads/
+asseturl: "/assets/"
+uploadurl: "/uploads/"
 livereload: true
-
-# Sidebar Settings
-
-sidebar-about-avatar: /uploads/kg-avatar.png
+sidebar-about-avatar: "/uploads/kg-avatar.png"
 sidebar-about-header: Hi, I’m Kirsten.
-sidebar-about-body: I’m a Product Designer working on web applications in the Washington, D.C. area.
+sidebar-about-body: I’m a Product Designer working on web applications in the Washington,
+  D.C. area.
 sidebar-contact-status-seeking: true
-sidebar-contact-status-message-seeking: I’m currently looking for work and, if you are interested in working together, let me know!
-sidebar-contact-status-message-not-seeking:
+sidebar-contact-status-message-seeking: I’m currently looking for work and, if you
+  are interested in working together, let me know!
+sidebar-contact-status-message-not-seeking: 
 sidebar-contact-link-text: Send me a message
 sidebar-contact-link-url: "#"
 sidebar-social-linkedin-link: https://www.linkedin.com/in/greenkirsten/
