@@ -5,7 +5,7 @@ permalink: projects/project-1
 name: Name
 company: Company
 year: Year
-description: Description
+description: testing
 image-alt: Alt Text
 image: "/uploads/test-image.jpg"
 section-2-content-left-text: text left
