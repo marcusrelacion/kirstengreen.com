@@ -25,9 +25,7 @@ contact-subheader: I am currently looking for work. If you are interested in wor
 contact-image: http://placecorgi.com/800/400
 contact-image-alt: Alt Text
 copyright: "© 2019 Kirsten Green"
-destination: _dist
 encoding: utf-8
-source: _src
 sass:
   sass_dir: "/assets/styles/"
   style: compressed
