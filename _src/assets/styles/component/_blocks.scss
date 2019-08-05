@@ -4,8 +4,8 @@
     display: grid;
     grid-gap: 1rem;
     grid-template-columns: 1fr;
-    min-height: 200px;
     position: relative;
+    grid-template-rows: minmax(300px, 1fr);
 }
 .block-grid-item {
     position: relative;
