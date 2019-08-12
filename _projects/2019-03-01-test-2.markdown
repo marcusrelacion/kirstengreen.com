@@ -9,8 +9,29 @@ year: Year
 description: Description
 image-alt: Alt Text
 image: "/uploads/test-image.jpg"
-section-2-content-left-text: text left
-section-2-content-right-text: text right
+section-2-content-left-text: |-
+  ## Problem
+
+  While conducting user interviews, we began to notice several new patterns in our user base and some of our users' processes and motivations became clearer. We also discovered new sets of core users that we had not considered before. Because of this data, we needed to re-visit our personas so we could make sure we were making the right product decisions for all of our users.
+
+  ## Solution
+
+  Create a process that allows our team to revisit and create additional personas when we collect data in user research that gives us new and additive information about our users.
+
+  ## My Role
+
+  I helped facilitate brainstorm and workshop sessions that allowed us to learn and think critically about our users, developed proto-personas and identified key users we wanted to test and validate for, collected data on users through user research, and helped distribute updated personas across the TalentNeuron organization.
+section-2-content-right-text: |-
+  ## Methods and Execution
+
+  *User Research*
+
+  - Collected existing user data to make educated hypotheses about our users
+  - Consulted with our team's experts to get a better picture of the recruiting process as a whole
+  - Created **proto-personas** to test with real users
+  - Conducted **user research** to validate our proto-personas
+  - Developed official **personas** through the data collected during our user research
+  - Used **Adobe InDesign** to create persona collateral for the team to use when developing features for the product
 section-3-content-image-alt: Alt Text
 section-3-content-image: "/uploads/test-image.jpg"
 section-3-content-image-text: Full Spread
