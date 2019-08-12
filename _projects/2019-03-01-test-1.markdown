@@ -1,17 +1,29 @@
 ---
-title: Name
+title: Developing TalentNeuron Personas
 date: 2019-03-01 00:00:00 Z
 permalink: projects/project-1
 position: 0
-name: Name
-company: Company
-year: Year
-description: testing
+name: Developing TalentNeuron Personas
+company: Gartner
+year: 2018
+description: As we learned more about TalentNeuron's users, it was important for us
+  to revisit the personas we referenced to make decisions for the product. In order
+  to do this, we needed to make a system that grew our personas as we became more
+  knowledgeable about our users' motivations, needs, and challenges.
 image-alt: Alt Text
 image: "/uploads/test-image.jpg"
-section-2-content-left-text: text left
-section-2-content-right-text: text right
-section-3-content-image-alt: Alt Text
+Problem: While conducting user interviews, we began to notice several new patterns
+  in our user base and some of our users' processes and motivations became clearer.
+  We also discovered new sets of core users that we had not considered before. Because
+  of this data, we needed to re-visit our personas so we could make sure we were making
+  the right product decisions for all of our users.
+Solution: Create a process that allows our team to revisit and create additional personas
+  when we collect data in user research that gives us new and additive information
+  about our users.
+My Role: I helped facilitate brainstorm and workshop sessions that allowed us to learn
+  and think critically about our users, developed proto-personas and identified key
+  users we wanted to test and validate for, collected data on users through user research,
+  and helped distribute updated personas across the TalentNeuron organization.
 section-3-content-image: "/uploads/test-image.jpg"
 section-3-content-image-text: Full Spread
 section-4-content-left-text: text left
