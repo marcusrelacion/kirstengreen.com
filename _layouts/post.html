@@ -30,10 +30,10 @@ layout: default
 <!-- Section 2 -->
 <section class="block-grid block-grid--50-50">
     <div class="block-grid-item">
-        {{ page.section-2-content-left-text }}
+        {{ page.section-2-content-left-text | markdownify }}
     </div>
     <div class="block-grid-item">
-        {{ page.section-2-content-right-text }}
+        {{ page.section-2-content-right-text | markdownify  }}
     </div>
 </section>
 <!-- Section 3 -->
@@ -42,7 +42,7 @@ layout: default
         <figure class="photo-block-grid">
             <img alt="{{ page.section-3-content-image-alt }}" src="{{ page.section-3-content-image }}">
                 <figcaption>
-                    {{ page.section-3-content-image-text }}
+                    {{ page.section-3-content-image-text | markdownify  }}
                 </figcaption>
             </img>
         </figure>
@@ -51,10 +51,10 @@ layout: default
 <!-- Section 4 -->
 <section class="block-grid block-grid--50-50">
     <div class="block-grid-item">
-        {{ page.section-4-content-left-text }}
+        {{ page.section-4-content-left-text | markdownify  }}
     </div>
     <div class="block-grid-item">
-        {{ page.section-4-content-right-text }}
+        {{ page.section-4-content-right-text | markdownify  }}
     </div>
 </section>
 <!-- Section 5 -->
@@ -73,10 +73,10 @@ layout: default
 <!-- Section 6 -->
 <section class="block-grid block-grid--50-50">
     <div class="block-grid-item">
-        {{ page.section-6-content-left-text }}
+        {{ page.section-6-content-left-text | markdownify  }}
     </div>
     <div class="block-grid-item">
-        {{ page.section-6-content-right-text }}
+        {{ page.section-6-content-right-text | markdownify  }}
     </div>
 </section>
 <!-- Section 7 -->
@@ -95,9 +95,53 @@ layout: default
 <!-- Section 8 -->
 <section class="block-grid block-grid--50-50">
     <div class="block-grid-item">
-        {{ page.section-8-content-left-text }}
+        {{ page.section-8-content-left-text | markdownify  }}
     </div>
     <div class="block-grid-item">
-        {{ page.section-8-content-right-text }}
+        {{ page.section-8-content-right-text | markdownify  }}
+    </div>
+</section>
+<!-- Section 9 -->
+<section class="block-grid block-grid--50-50">
+    <div class="block-grid-item">
+        <figure class="photo-block-grid">
+            <img alt="{{ page.section-9-content-left-image-text }}" src="{{ page.section-9-content-left-image }}"/>
+        </figure>
+    </div>
+    <div class="block-grid-item">
+        <figure class="photo-block-grid">
+            <img alt="{{ page.section-9-content-right-image-text }}" src="{{ page.section-9-content-right-image }}"/>
+        </figure>
+    </div>
+</section>
+<!-- Section 10 -->
+<section class="block-grid block-grid--50-50">
+    <div class="block-grid-item">
+        {{ page.section-10-content-left-text | markdownify  }}
+    </div>
+    <div class="block-grid-item">
+        {{ page.section-10-content-right-text | markdownify  }}
+    </div>
+</section>
+<!-- Section 11 -->
+<section class="block-grid block-grid--50-50">
+    <div class="block-grid-item">
+        <figure class="photo-block-grid">
+            <img alt="{{ page.section-11-content-left-image-text }}" src="{{ page.section-11-content-left-image }}"/>
+        </figure>
+    </div>
+    <div class="block-grid-item">
+        <figure class="photo-block-grid">
+            <img alt="{{ page.section-11-content-right-image-text }}" src="{{ page.section-11-content-right-image }}"/>
+        </figure>
+    </div>
+</section>
+<!-- Section 12 -->
+<section class="block-grid block-grid--50-50">
+    <div class="block-grid-item">
+        {{ page.section-12-content-left-text | markdownify  }}
+    </div>
+    <div class="block-grid-item">
+        {{ page.section-12-content-right-text | markdownify  }}
     </div>
 </section>
