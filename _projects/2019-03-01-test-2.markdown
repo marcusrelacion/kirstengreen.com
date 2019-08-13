@@ -68,6 +68,18 @@ section-8-content-left-text: |-
 
   After looking at the research, we determined Lola's location focused use case valid and increased the importance of talent data needed within her process. We went through many iterations of her title initially and settled on Strategic Workforce Analyst due to her main goal: create a data-backed analysis that recommends the best locations to consider developing based on location, talent, and other factors.
 section-8-content-right-text: 
+section-9-content-left-image-text: Alt Text
+section-9-content-left-image: "/uploads/test-image.jpg"
+section-9-content-right-image-text: Alt Text
+section-9-content-right-image: "/uploads/test-image.jpg"
+section-10-content-left-text: text left
+section-10-content-right-text: text right
+section-11-content-left-image-text: Alt Text
+section-11-content-left-image: "/uploads/test-image.jpg"
+section-11-content-right-image-text: Alt Text
+section-11-content-right-image: "/uploads/test-image.jpg"
+section-12-content-left-text: text left
+section-12-content-right-text: text right
 layout: post
 ---
 
