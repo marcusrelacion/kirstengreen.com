@@ -18,9 +18,11 @@ section-2-content-left-text: |-
   While conducting user interviews, we began to notice several new patterns in our user base and some of our users' processes and motivations became clearer. We also discovered new sets of core users that we had not considered before. Because of this data, we needed to re-visit our personas so we could make sure we were making the right product decisions for all of our users.
 
 
+
   ## Solution
 
   Create a process that allows our team to revisit and create additional personas when we collect data in user research that gives us new and additive information about our users.
+
 
 
   ## My Role
