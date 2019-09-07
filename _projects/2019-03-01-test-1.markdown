@@ -138,5 +138,9 @@ sections:
     **My Role:**
 
     I helped facilitate brainstorm and workshop sessions that allowed us to learn and think critically about our users, developed proto-personas and identified key users we wanted to test and validate for, collected data on users through user research, and helped distribute updated personas across the TalentNeuron organization.
+- section: 8
+  layout: 50-50-text
+  column-1-body: asdfsdfdssdfsddsfsdfsdfsd
+  column-2-body: fdsfdsfdsfsdfsdgdsfsfsdfsd
 ---
 
