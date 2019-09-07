@@ -12,59 +12,56 @@ collections:
     title: Uploads
     output: true
 defaults:
-- scope:  
+- scope:
     path: ''
     type: projects
   values:
     title: Provide the name of the project.
     description: Provide the project description
     image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-
     hero:
-      - name: Provide the name of the project.
-        company: Provide the name of the company.
-        year: Provide year the project occured.
-        body: Provide the project description.
-        image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-        image-alt: Provide Alt Text
+    - name: Provide the name of the project.
+      company: Provide the name of the company.
+      year: Provide year the project occured.
+      body: Provide the project description.
+      image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+      image-alt: Provide Alt Text
     sections:
-      - section: 1
-        layout: 50-50-text
-        column-1-body: Provide text for left column.
-        column-2-body: Provide text for right column.
-      - section: 2
-        layout: 100-image-caption
-        image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-        image-alt: Provide Alt Text
-        image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      - section: 3
-        layout: 50-50-text
-        column-1-body: Provide text for left column.
-        column-2-body: Provide text for right column.
-      - section: 4
-        layout: 50-50-image
-        image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-        image-1-alt: Provide Alt Text
-        image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-        image-2-alt: Provide Alt Text
-      - section: 5
-        layout: 50-50-text
-        column-1-body: Provide text for left column.
-        column-2-body: Provide text for right column.
-      - section: 6
-        layout: 50-50-image
-        image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-        image-1-alt: Provide Provide Alt Text
-        image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-        image-2-alt: Provide Provide Alt Text
-      - section: 7
-        layout: 50-50-text
-        column-1-body: Provide text for left column.
-        column-2-body: Provide text for right column.
+    - section: 1
+      layout: 50-50-text
+      column-1-body: Provide text for left column.
+      column-2-body: Provide text for right column.
+    - section: 2
+      layout: 100-image-caption
+      image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+      image-alt: Provide Alt Text
+      image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    - section: 3
+      layout: 50-50-text
+      column-1-body: Provide text for left column.
+      column-2-body: Provide text for right column.
+    - section: 4
+      layout: 50-50-image
+      image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+      image-1-alt: Provide Alt Text
+      image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+      image-2-alt: Provide Alt Text
+    - section: 5
+      layout: 50-50-text
+      column-1-body: Provide text for left column.
+      column-2-body: Provide text for right column.
+    - section: 6
+      layout: 50-50-image
+      image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+      image-1-alt: Provide Provide Alt Text
+      image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+      image-2-alt: Provide Provide Alt Text
+    - section: 7
+      layout: 50-50-text
+      column-1-body: Provide text for left column.
+      column-2-body: Provide text for right column.
     layout: post
-
-
-
 email: 
 description: 
 twitter_username: jekyllrb
