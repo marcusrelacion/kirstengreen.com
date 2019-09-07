@@ -49,7 +49,7 @@ sections:
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 - section: 3
-  layout: 50-50-text
+  layout: 60-40-text
   column-1-body: |-
     **Problem:**
 
