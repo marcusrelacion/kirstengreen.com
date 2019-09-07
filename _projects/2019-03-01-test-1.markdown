@@ -18,30 +18,30 @@ hero:
 sections:
 - section: 1
   layout: 50-50-text
-  column-1-body: "'Problem: \n\nWhile conducting user interviews, we began to notice
-    several new patterns in our user base and some of our users' processes and motivations
-    became clearer. We also discovered new sets of core users that we had not considered
-    before. Because of this data, we needed to re-visit our personas so we could make
-    sure we were making the right product decisions for all of our users.\n\nSolution:
-    \n\nCreate a process that allows our team to revisit and create additional personas
-    when we collect data in user research that gives us new and additive information
-    about our users.\n\nMy Role: \n\nI helped facilitate brainstorm and workshop sessions
-    that allowed us to learn and think critically about our users, developed proto-personas
-    and identified key users we wanted to test and validate for, collected data on
-    users through user research, and helped distribute updated personas across the
-    TalentNeuron organization.'"
-  column-2-body: "'Problem: \n\nWhile conducting user interviews, we began to notice
-    several new patterns in our user base and some of our users' processes and motivations
-    became clearer. We also discovered new sets of core users that we had not considered
-    before. Because of this data, we needed to re-visit our personas so we could make
-    sure we were making the right product decisions for all of our users.\n\nSolution:
-    \n\nCreate a process that allows our team to revisit and create additional personas
-    when we collect data in user research that gives us new and additive information
-    about our users.\n\nMy Role: \n\nI helped facilitate brainstorm and workshop sessions
-    that allowed us to learn and think critically about our users, developed proto-personas
-    and identified key users we wanted to test and validate for, collected data on
-    users through user research, and helped distribute updated personas across the
-    TalentNeuron organization.'"
+  column-1-body: |-
+    **Problem:**
+
+    While conducting user interviews, we began to notice several new patterns in our user base and some of our users' processes and motivations became clearer. We also discovered new sets of core users that we had not considered before. Because of this data, we needed to re-visit our personas so we could make sure we were making the right product decisions for all of our users.
+
+    **Solution:**
+
+    Create a process that allows our team to revisit and create additional personas when we collect data in user research that gives us new and additive information about our users.
+
+    **My Role:**
+
+    I helped facilitate brainstorm and workshop sessions that allowed us to learn and think critically about our users, developed proto-personas and identified key users we wanted to test and validate for, collected data on users through user research, and helped distribute updated personas across the TalentNeuron organization.
+  column-2-body: |-
+    **Problem:**
+
+    While conducting user interviews, we began to notice several new patterns in our user base and some of our users' processes and motivations became clearer. We also discovered new sets of core users that we had not considered before. Because of this data, we needed to re-visit our personas so we could make sure we were making the right product decisions for all of our users.
+
+    **Solution:**
+
+    Create a process that allows our team to revisit and create additional personas when we collect data in user research that gives us new and additive information about our users.
+
+    **My Role:**
+
+    I helped facilitate brainstorm and workshop sessions that allowed us to learn and think critically about our users, developed proto-personas and identified key users we wanted to test and validate for, collected data on users through user research, and helped distribute updated personas across the TalentNeuron organization.
 - section: 2
   layout: 100-image-caption
   image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
@@ -50,30 +50,30 @@ sections:
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 - section: 3
   layout: 50-50-text
-  column-1-body: "'Problem: \n\nWhile conducting user interviews, we began to notice
-    several new patterns in our user base and some of our users' processes and motivations
-    became clearer. We also discovered new sets of core users that we had not considered
-    before. Because of this data, we needed to re-visit our personas so we could make
-    sure we were making the right product decisions for all of our users.\n\nSolution:
-    \n\nCreate a process that allows our team to revisit and create additional personas
-    when we collect data in user research that gives us new and additive information
-    about our users.\n\nMy Role: \n\nI helped facilitate brainstorm and workshop sessions
-    that allowed us to learn and think critically about our users, developed proto-personas
-    and identified key users we wanted to test and validate for, collected data on
-    users through user research, and helped distribute updated personas across the
-    TalentNeuron organization.'"
-  column-2-body: "'Problem: \n\nWhile conducting user interviews, we began to notice
-    several new patterns in our user base and some of our users' processes and motivations
-    became clearer. We also discovered new sets of core users that we had not considered
-    before. Because of this data, we needed to re-visit our personas so we could make
-    sure we were making the right product decisions for all of our users.\n\nSolution:
-    \n\nCreate a process that allows our team to revisit and create additional personas
-    when we collect data in user research that gives us new and additive information
-    about our users.\n\nMy Role: \n\nI helped facilitate brainstorm and workshop sessions
-    that allowed us to learn and think critically about our users, developed proto-personas
-    and identified key users we wanted to test and validate for, collected data on
-    users through user research, and helped distribute updated personas across the
-    TalentNeuron organization.'"
+  column-1-body: |-
+    **Problem:**
+
+    While conducting user interviews, we began to notice several new patterns in our user base and some of our users' processes and motivations became clearer. We also discovered new sets of core users that we had not considered before. Because of this data, we needed to re-visit our personas so we could make sure we were making the right product decisions for all of our users.
+
+    **Solution:**
+
+    Create a process that allows our team to revisit and create additional personas when we collect data in user research that gives us new and additive information about our users.
+
+    **My Role:**
+
+    I helped facilitate brainstorm and workshop sessions that allowed us to learn and think critically about our users, developed proto-personas and identified key users we wanted to test and validate for, collected data on users through user research, and helped distribute updated personas across the TalentNeuron organization.
+  column-2-body: |-
+    **Problem:**
+
+    While conducting user interviews, we began to notice several new patterns in our user base and some of our users' processes and motivations became clearer. We also discovered new sets of core users that we had not considered before. Because of this data, we needed to re-visit our personas so we could make sure we were making the right product decisions for all of our users.
+
+    **Solution:**
+
+    Create a process that allows our team to revisit and create additional personas when we collect data in user research that gives us new and additive information about our users.
+
+    **My Role:**
+
+    I helped facilitate brainstorm and workshop sessions that allowed us to learn and think critically about our users, developed proto-personas and identified key users we wanted to test and validate for, collected data on users through user research, and helped distribute updated personas across the TalentNeuron organization.
 - section: 4
   layout: 50-50-image
   image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
@@ -82,30 +82,30 @@ sections:
   image-2-alt: Text
 - section: 5
   layout: 50-50-text
-  column-1-body: "'Problem: \n\nWhile conducting user interviews, we began to notice
-    several new patterns in our user base and some of our users' processes and motivations
-    became clearer. We also discovered new sets of core users that we had not considered
-    before. Because of this data, we needed to re-visit our personas so we could make
-    sure we were making the right product decisions for all of our users.\n\nSolution:
-    \n\nCreate a process that allows our team to revisit and create additional personas
-    when we collect data in user research that gives us new and additive information
-    about our users.\n\nMy Role: \n\nI helped facilitate brainstorm and workshop sessions
-    that allowed us to learn and think critically about our users, developed proto-personas
-    and identified key users we wanted to test and validate for, collected data on
-    users through user research, and helped distribute updated personas across the
-    TalentNeuron organization.'"
-  column-2-body: "'Problem: \n\nWhile conducting user interviews, we began to notice
-    several new patterns in our user base and some of our users' processes and motivations
-    became clearer. We also discovered new sets of core users that we had not considered
-    before. Because of this data, we needed to re-visit our personas so we could make
-    sure we were making the right product decisions for all of our users.\n\nSolution:
-    \n\nCreate a process that allows our team to revisit and create additional personas
-    when we collect data in user research that gives us new and additive information
-    about our users.\n\nMy Role: \n\nI helped facilitate brainstorm and workshop sessions
-    that allowed us to learn and think critically about our users, developed proto-personas
-    and identified key users we wanted to test and validate for, collected data on
-    users through user research, and helped distribute updated personas across the
-    TalentNeuron organization.'"
+  column-1-body: |-
+    **Problem:**
+
+    While conducting user interviews, we began to notice several new patterns in our user base and some of our users' processes and motivations became clearer. We also discovered new sets of core users that we had not considered before. Because of this data, we needed to re-visit our personas so we could make sure we were making the right product decisions for all of our users.
+
+    **Solution:**
+
+    Create a process that allows our team to revisit and create additional personas when we collect data in user research that gives us new and additive information about our users.
+
+    **My Role:**
+
+    I helped facilitate brainstorm and workshop sessions that allowed us to learn and think critically about our users, developed proto-personas and identified key users we wanted to test and validate for, collected data on users through user research, and helped distribute updated personas across the TalentNeuron organization.
+  column-2-body: |-
+    **Problem:**
+
+    While conducting user interviews, we began to notice several new patterns in our user base and some of our users' processes and motivations became clearer. We also discovered new sets of core users that we had not considered before. Because of this data, we needed to re-visit our personas so we could make sure we were making the right product decisions for all of our users.
+
+    **Solution:**
+
+    Create a process that allows our team to revisit and create additional personas when we collect data in user research that gives us new and additive information about our users.
+
+    **My Role:**
+
+    I helped facilitate brainstorm and workshop sessions that allowed us to learn and think critically about our users, developed proto-personas and identified key users we wanted to test and validate for, collected data on users through user research, and helped distribute updated personas across the TalentNeuron organization.
 - section: 6
   layout: 50-50-image
   image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
@@ -114,29 +114,29 @@ sections:
   image-2-alt: Text
 - section: 7
   layout: 50-50-text
-  column-1-body: "'Problem: \n\nWhile conducting user interviews, we began to notice
-    several new patterns in our user base and some of our users' processes and motivations
-    became clearer. We also discovered new sets of core users that we had not considered
-    before. Because of this data, we needed to re-visit our personas so we could make
-    sure we were making the right product decisions for all of our users.\n\nSolution:
-    \n\nCreate a process that allows our team to revisit and create additional personas
-    when we collect data in user research that gives us new and additive information
-    about our users.\n\nMy Role: \n\nI helped facilitate brainstorm and workshop sessions
-    that allowed us to learn and think critically about our users, developed proto-personas
-    and identified key users we wanted to test and validate for, collected data on
-    users through user research, and helped distribute updated personas across the
-    TalentNeuron organization.'"
-  column-2-body: "'Problem: \n\nWhile conducting user interviews, we began to notice
-    several new patterns in our user base and some of our users' processes and motivations
-    became clearer. We also discovered new sets of core users that we had not considered
-    before. Because of this data, we needed to re-visit our personas so we could make
-    sure we were making the right product decisions for all of our users.\n\nSolution:
-    \n\nCreate a process that allows our team to revisit and create additional personas
-    when we collect data in user research that gives us new and additive information
-    about our users.\n\nMy Role: \n\nI helped facilitate brainstorm and workshop sessions
-    that allowed us to learn and think critically about our users, developed proto-personas
-    and identified key users we wanted to test and validate for, collected data on
-    users through user research, and helped distribute updated personas across the
-    TalentNeuron organization.'"
+  column-1-body: |-
+    **Problem:**
+
+    While conducting user interviews, we began to notice several new patterns in our user base and some of our users' processes and motivations became clearer. We also discovered new sets of core users that we had not considered before. Because of this data, we needed to re-visit our personas so we could make sure we were making the right product decisions for all of our users.
+
+    **Solution:**
+
+    Create a process that allows our team to revisit and create additional personas when we collect data in user research that gives us new and additive information about our users.
+
+    **My Role:**
+
+    I helped facilitate brainstorm and workshop sessions that allowed us to learn and think critically about our users, developed proto-personas and identified key users we wanted to test and validate for, collected data on users through user research, and helped distribute updated personas across the TalentNeuron organization.
+  column-2-body: |-
+    **Problem:**
+
+    While conducting user interviews, we began to notice several new patterns in our user base and some of our users' processes and motivations became clearer. We also discovered new sets of core users that we had not considered before. Because of this data, we needed to re-visit our personas so we could make sure we were making the right product decisions for all of our users.
+
+    **Solution:**
+
+    Create a process that allows our team to revisit and create additional personas when we collect data in user research that gives us new and additive information about our users.
+
+    **My Role:**
+
+    I helped facilitate brainstorm and workshop sessions that allowed us to learn and think critically about our users, developed proto-personas and identified key users we wanted to test and validate for, collected data on users through user research, and helped distribute updated personas across the TalentNeuron organization.
 ---
 
