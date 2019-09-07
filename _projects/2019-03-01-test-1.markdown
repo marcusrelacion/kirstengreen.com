@@ -5,7 +5,6 @@ description: As we learned more about TalentNeuron's users, it was important for
   to revisit the personas we referenced to make decisions for the product. In order
   to do this, we needed to make a system that grew our personas as we became more
   knowledgeable about our users' motivations, needs, and challenges.
-image: "/uploads/test-image.jpg"
 hero:
 - name: Developing TalentNeuron Personas
   company: Gartner
@@ -14,7 +13,7 @@ hero:
     revisit the personas we referenced to make decisions for the product. In order
     to do this, we needed to make a system that grew our personas as we became more
     knowledgeable about our users' motivations, needs, and challenges.
-  image: "/uploads/test-image.jpg"
+  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-alt: Alt Text
 sections:
 - section: 1
@@ -45,7 +44,7 @@ sections:
     TalentNeuron organization.'"
 - section: 2
   layout: 100-image-caption
-  image: "/uploads/test-image.jpg"
+  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-alt: Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -79,7 +78,7 @@ sections:
   layout: 50-50-image
   image-1: "/uploads/test-image.jpg"
   image-1-alt: Alt Text
-  image-2: "/uploads/test-image.jpg"
+  image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-2-alt: Text
 - section: 5
   layout: 50-50-text
@@ -109,9 +108,9 @@ sections:
     TalentNeuron organization.'"
 - section: 6
   layout: 50-50-image
-  image-1: "/uploads/test-image.jpg"
+  image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-1-alt: Alt Text
-  image-2: "/uploads/test-image.jpg"
+  image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-2-alt: Text
 - section: 7
   layout: 50-50-text
