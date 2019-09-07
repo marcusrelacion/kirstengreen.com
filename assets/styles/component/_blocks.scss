@@ -16,3 +16,7 @@
 .grid--50-50-image {
     grid-template-columns: repeat(2,1fr);
 }
+
+.grid--60-40-text {
+	grid-template-columns: 6fr 4fr;
+}
