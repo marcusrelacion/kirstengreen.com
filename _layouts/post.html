@@ -2,146 +2,81 @@
 layout: default
 ---
 
-<!-- Section 1 -->
-<section class="block-grid block-grid-60-40">
-    <div class="block-grid-item" style="background-color: {{ page.background-color }};">
+{% for hero-content in page.hero %}
+<section class="grid grid-60-40">
+    <div class="grid-item" style="background-color: {{ page.background-color }};">
         <div class="project-introduction">
             <h1 class="project-title">
-                {{ page.title }}
+                {{ hero-content.name }}
             </h1>
             <p class="project-name">
-                {{ page.name }}
+                {{ hero-content.name }}
             </p>
             <p class="project-company">
-                {{ page.company }}, {{ page.year }}
+                {{ hero-content.company | append: "," }} {{ hero-content.year }}
             </p>
             <p class="project-description">
-                {{ page.description }}
+                {{ hero-content.body | markdownify }}
             </p>
         </div>
     </div>
-    <div class="block-grid-item">
+    <div class="grid-item">
         <figure>
-            <img alt="{{ page.image-alt }}" class="project-image" src="{{ page.image }}">
+            <img alt="{{ hero-content.image-alt }}" class="project-image" src="{{ hero-content.image }}">
             </img>
         </figure>
     </div>
 </section>
-<!-- Section 2 -->
-<section class="block-grid block-grid--50-50">
-    <div class="block-grid-item">
-        {{ page.section-2-content-left-text | markdownify }}
+{% endfor %}
+
+
+{% for section in page.sections %}
+{% if section.layout == "50-50-text" %}
+<section class="grid grid--50-50-text">
+    <div class="grid-item">
+        <div class="project-introduction">
+            <p class="project-description">
+                {{ section.column-1-body | markdownify }}
+            </p>
+        </div>
     </div>
-    <div class="block-grid-item">
-        {{ page.section-2-content-right-text | markdownify  }}
+    <div class="grid-item">
+        <div class="project-introduction">
+            <p class="project-description">
+                {{ section.column-2-body | markdownify }}
+            </p>
+        </div>
     </div>
 </section>
-<!-- Section 3 -->
-<section class="block-grid block-grid--full-image">
-    <div class="block-grid-item">
-        <figure class="photo-block-grid">
-            <img alt="{{ page.section-3-content-image-alt }}" src="{{ page.section-3-content-image }}">
+{% endif %}
+
+{% if section.layout == "100-image-caption" %}
+<section class="grid grid--100-image-caption">
+    <div class="grid-item">
+        <figure class="photo-grid">
+            <img alt="{{ section.image-alt }}" src="{{ section.image }}">
                 <figcaption>
-                    {{ page.section-3-content-image-text | markdownify  }}
+                    {{ section.image-caption-body | markdownify  }}
                 </figcaption>
             </img>
         </figure>
     </div>
 </section>
-<!-- Section 4 -->
-<section class="block-grid block-grid--50-50">
-    <div class="block-grid-item">
-        {{ page.section-4-content-left-text | markdownify  }}
-    </div>
-    <div class="block-grid-item">
-        {{ page.section-4-content-right-text | markdownify  }}
-    </div>
-</section>
-<!-- Section 5 -->
-<section class="block-grid block-grid--50-50">
-    <div class="block-grid-item">
-        <figure class="photo-block-grid">
-            <img alt="{{ page.section-5-content-left-image-text }}" src="{{ page.section-5-content-left-image }}"/>
+{% endif %}
+
+{% if section.layout == "50-50-image" %}
+<section class="grid grid--50-50-image">
+    <div class="grid-item">
+        <figure class="photo-grid">
+            <img alt="{{ section.image-1-alt }}" src="{{ section.image-1 }}"/>
         </figure>
     </div>
-    <div class="block-grid-item">
-        <figure class="photo-block-grid">
-            <img alt="{{ page.section-5-content-right-image-text }}" src="{{ page.section-5-content-right-image }}"/>
+    <div class="grid-item">
+        <figure class="photo-grid">
+            <img alt="{{ section.image-2-alt }}" src="{{ section.image-2 }}"/>
         </figure>
     </div>
 </section>
-<!-- Section 6 -->
-<section class="block-grid block-grid--50-50">
-    <div class="block-grid-item">
-        {{ page.section-6-content-left-text | markdownify  }}
-    </div>
-    <div class="block-grid-item">
-        {{ page.section-6-content-right-text | markdownify  }}
-    </div>
-</section>
-<!-- Section 7 -->
-<section class="block-grid block-grid--50-50">
-    <div class="block-grid-item">
-        <figure class="photo-block-grid">
-            <img alt="{{ page.section-7-content-left-image-text }}" src="{{ page.section-7-content-left-image }}"/>
-        </figure>
-    </div>
-    <div class="block-grid-item">
-        <figure class="photo-block-grid">
-            <img alt="{{ page.section-7-content-right-image-text }}" src="{{ page.section-7-content-right-image }}"/>
-        </figure>
-    </div>
-</section>
-<!-- Section 8 -->
-<section class="block-grid block-grid--50-50">
-    <div class="block-grid-item">
-        {{ page.section-8-content-left-text | markdownify  }}
-    </div>
-    <div class="block-grid-item">
-        {{ page.section-8-content-right-text | markdownify  }}
-    </div>
-</section>
-<!-- Section 9 -->
-<section class="block-grid block-grid--50-50">
-    <div class="block-grid-item">
-        <figure class="photo-block-grid">
-            <img alt="{{ page.section-9-content-left-image-text }}" src="{{ page.section-9-content-left-image }}"/>
-        </figure>
-    </div>
-    <div class="block-grid-item">
-        <figure class="photo-block-grid">
-            <img alt="{{ page.section-9-content-right-image-text }}" src="{{ page.section-9-content-right-image }}"/>
-        </figure>
-    </div>
-</section>
-<!-- Section 10 -->
-<section class="block-grid block-grid--50-50">
-    <div class="block-grid-item">
-        {{ page.section-10-content-left-text | markdownify  }}
-    </div>
-    <div class="block-grid-item">
-        {{ page.section-10-content-right-text | markdownify  }}
-    </div>
-</section>
-<!-- Section 11 -->
-<section class="block-grid block-grid--50-50">
-    <div class="block-grid-item">
-        <figure class="photo-block-grid">
-            <img alt="{{ page.section-11-content-left-image-text }}" src="{{ page.section-11-content-left-image }}"/>
-        </figure>
-    </div>
-    <div class="block-grid-item">
-        <figure class="photo-block-grid">
-            <img alt="{{ page.section-11-content-right-image-text }}" src="{{ page.section-11-content-right-image }}"/>
-        </figure>
-    </div>
-</section>
-<!-- Section 12 -->
-<section class="block-grid block-grid--50-50">
-    <div class="block-grid-item">
-        {{ page.section-12-content-left-text | markdownify  }}
-    </div>
-    <div class="block-grid-item">
-        {{ page.section-12-content-right-text | markdownify  }}
-    </div>
-</section>
+{% endif %}
+
+{% endfor %}
