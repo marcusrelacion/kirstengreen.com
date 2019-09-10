@@ -29,7 +29,7 @@ defaults:
     sections:
     - section: 1
       layout: 50-50-text
-      column-1-body:
+      column-1-body: 
       column-2-body: 
     - section: 2
       layout: 100-image-caption
@@ -61,11 +61,11 @@ defaults:
       layout: 50-50-text
       column-1-body: 
       column-2-body: 
-    - section:
+    - section: 
       layout: 50-50-text
       column-1-body: 
-      column-2-body:
-    - section:
+      column-2-body: 
+    - section: 
       layout: 100-image-caption
       image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
       image-alt: Provide Alt Text
