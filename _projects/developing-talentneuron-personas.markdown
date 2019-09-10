@@ -110,7 +110,9 @@ sections:
 - section: 11
   layout: 50-50-text
   column-1-body: |-
-    Moving forward with this process, we needed to remember that personas are living documents that should grow as our users develop, so we need to assess them regularly. The process was as follows:
+    Moving forward with this process, we needed to remember that personas are living documents that should grow as our users develop, so we need to assess them regularly. The process was as follows: -
+
+
 
     * Set aside time every quarter to reflect on our research
     * Identify new data for our existing personas that needed further review, if any
