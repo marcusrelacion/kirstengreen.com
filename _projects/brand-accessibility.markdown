@@ -31,7 +31,7 @@ sections:
 
     While working on this project, another party was involved with identifying accessibility issues in the code on various CEB platforms. Any problems found here could make using assistive technologies, like screen readers, hard or impossible to use while navigating the web.
   column-2-body: |-
-    ## Methods and Execution
+    ### Methods and Execution
 
     *Visual Design Testing, Visual Design*
 
