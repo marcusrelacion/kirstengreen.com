@@ -28,7 +28,7 @@ sections:
     ### Methods and Execution
     *Web Design*
 
-    * All proposed designs were created in Photoshop CC.
+    * All proposed designs were created in **Photoshop CC**.
 - section: 2
   layout: 100-image-caption
   image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
