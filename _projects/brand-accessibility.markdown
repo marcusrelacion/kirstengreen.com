@@ -42,15 +42,26 @@ sections:
     * Designed accessible solutions in **Photoshop CC.**
     * Collaborated with multiple design teams to determine the best solution for each failed element and component outlined in the test results.
 - section: 3
-  layout: 50-50-text
+  layout: 100-image-caption
   image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  column-1-body: 
+- section: 5
+  layout: 50-50-text
   column-1-body: |-
     ## Process
 
     I began this project by becoming more familiar with the WCAG and what it meant to be compliant with their guidelines. For this particular audit, we had to make sure the visual design of our web elements and components were at least Level AA compliant. Our primary focus was on the contrast, color use, and overall visual clarity of the design. With this in mind, I documented which elements did not pass our audit.
+  column-2-body: Provide text for right column.
+- section: 4
+  layout: 50-50-image
+  image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-1-alt: Provide Alt Text
+  image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-2-alt: Provide Alt Text
+  column-1-body: 
 - section: 5
   layout: 50-50-text
   column-1-body: 'After the audit was complete, I started to work on solutions for
@@ -60,20 +71,6 @@ sections:
     related to this particular issue. We also needed to consider how readable text
     was when placed over an image with specific color overlays.'
   column-2-body: Provide text for right column.
-- section: 7
-  layout: 50-50-text
-  image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-1-alt: Provide Alt Text
-  image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-2-alt: Provide Alt Text
-  column-1-body: |-
-    Throughout this process, I collaborated with the rest of the design team to determine the best solution for each component. One of the biggest challenges was staying within CEB's established look-and-feel. A prevalent solution was to use a darker color which added weight to the design that was not present before. Working as a team, we picked and iterated on the best options that stayed as true to brand as possible.
-
-    Towards the end of this project, we would pause progress due to the call to completely redesign CEB's website. The work done for this project would not go to waste, however. Many of the concepts I developed were implemented in the redesign and went live several months later.
-- section: 5
-  layout: 50-50-text
-  column-1-body: Provide text for left column.
-  column-2-body: Provide text for right column.
 - section: 6
   layout: 50-50-image
   image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
@@ -82,7 +79,10 @@ sections:
   image-2-alt: Provide Provide Alt Text
 - section: 7
   layout: 50-50-text
-  column-1-body: Provide text for left column.
+  column-1-body: |-
+    Throughout this process, I collaborated with the rest of the design team to determine the best solution for each component. One of the biggest challenges was staying within CEB's established look-and-feel. A prevalent solution was to use a darker color which added weight to the design that was not present before. Working as a team, we picked and iterated on the best options that stayed as true to brand as possible.
+
+    Towards the end of this project, we would pause progress due to the call to completely redesign CEB's website. The work done for this project would not go to waste, however. Many of the concepts I developed were implemented in the redesign and went live several months later.
   column-2-body: Provide text for right column.
 ---
 
