@@ -9,6 +9,8 @@ hero:
     to be compliant with the latest web accessibility guidelines. To test for compliance,
     we ran a design audit of the brand's application on CEB's web properties and proposed
     solutions to make all content accessible to users.
+  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-alt: Provide Alt Text
 sections:
 - section: 1
   layout: 50-50-text
@@ -35,12 +37,16 @@ sections:
 
     * Used the Web Content Accessibility Guidelines (WCAG) to determine which rules we needed to follow to identify design issues. Many of these guidelines are in the [perceivable category](https://www.w3.org/TR/WCAG20/#perceivable).
     * Performed an audit of all visual elements across CEB's web properties, which included its global website, event pages, and other microsites.
-    * Used [webaim.org](https://webaim.org/), specifically the [color contrast tool](https://webaim.org/resources/contrastchecker/https://webaim.org/resources/contrastchecker/), and various browser extensions to test the visual contrast and color usage on a webpage.
+    * Used [webaim.org](https://webaim.org/), specifically the [color contrast tool](https://webaim.org/resources/contrastchecker/), and various browser extensions to test the visual contrast and color usage on a webpage.
     * Documented the results in a **Google Spreadsheet**.
     * Designed accessible solutions in **Photoshop CC.**
     * Collaborated with multiple design teams to determine the best solution for each failed element and component outlined in the test results.
 - section: 3
   layout: 50-50-text
+  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   column-1-body: |-
     ## Process
 
@@ -53,11 +59,30 @@ sections:
     make the text darker or change the background color. Most of our problems were
     related to this particular issue. We also needed to consider how readable text
     was when placed over an image with specific color overlays.'
+  column-2-body: Provide text for right column.
 - section: 7
   layout: 50-50-text
+  image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-1-alt: Provide Alt Text
+  image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-2-alt: Provide Alt Text
   column-1-body: |-
     Throughout this process, I collaborated with the rest of the design team to determine the best solution for each component. One of the biggest challenges was staying within CEB's established look-and-feel. A prevalent solution was to use a darker color which added weight to the design that was not present before. Working as a team, we picked and iterated on the best options that stayed as true to brand as possible.
 
     Towards the end of this project, we would pause progress due to the call to completely redesign CEB's website. The work done for this project would not go to waste, however. Many of the concepts I developed were implemented in the redesign and went live several months later.
+- section: 5
+  layout: 50-50-text
+  column-1-body: Provide text for left column.
+  column-2-body: Provide text for right column.
+- section: 6
+  layout: 50-50-image
+  image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-1-alt: Provide Provide Alt Text
+  image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-2-alt: Provide Provide Alt Text
+- section: 7
+  layout: 50-50-text
+  column-1-body: Provide text for left column.
+  column-2-body: Provide text for right column.
 ---
 
