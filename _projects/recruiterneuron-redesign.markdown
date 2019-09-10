@@ -1,5 +1,5 @@
 ---
-title: RecruiterNeuron Redesign
+title: RecruiterNeuron Redesign (Editing)
 date: 2019-09-10 22:01:00 Z
 hero:
 - name: RecruiterNeuron Redesign
@@ -9,6 +9,8 @@ hero:
     used by its large client pool but received its fair share of user critique. We
     analyzed this feedback to create an experience that made RecruiterNeuron more
     accessible for its users.
+  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-alt: Provide Alt Text
 sections:
 - section: 1
   layout: 50-50-text
@@ -42,5 +44,33 @@ sections:
     - Maintained and updated user stories in **Jira**.
 - section: 3
   layout: 50-50-text
+  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- section: 3
+  layout: 50-50-text
+  column-1-body: Provide text for left column.
+  column-2-body: Provide text for right column.
+- section: 4
+  layout: 50-50-image
+  image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-1-alt: Provide Alt Text
+  image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-2-alt: Provide Alt Text
+- section: 5
+  layout: 50-50-text
+  column-1-body: Provide text for left column.
+  column-2-body: Provide text for right column.
+- section: 6
+  layout: 50-50-image
+  image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-1-alt: Provide Provide Alt Text
+  image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-2-alt: Provide Provide Alt Text
+- section: 7
+  layout: 50-50-text
+  column-1-body: Provide text for left column.
+  column-2-body: Provide text for right column.
 ---
 
