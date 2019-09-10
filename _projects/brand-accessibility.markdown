@@ -19,7 +19,9 @@ sections:
 
     CEB's rebrand had a vibrant color palette that brought new life into its research-driven practice. This color usage, however, did not translate well in web applications and left much of CEB's content inaccessible to users. For instance, many of the interactive elements lacked visual contrast and used unreadable color combinations.
 
+
     ### Solution
+
 
     We needed to identify any visual elements and components used on CEB's website that were not Level AA compliant according to the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG21/). Items that failed these guidelines, and were critical to user interaction and access to content, would be redesigned to be AA compliant or better.
 

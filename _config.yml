@@ -29,7 +29,7 @@ defaults:
     sections:
     - section: 1
       layout: 50-50-text
-      column-1-body: 
+      column-1-body:
       column-2-body: 
     - section: 2
       layout: 100-image-caption

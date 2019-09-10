@@ -32,6 +32,15 @@ body {
 .bold {
     font-style: strong;
 }
+ul {
+    margin-left: 32px;
+}
+h3 {
+    margin-bottom: 8px;
+}
+p {
+    margin-bottom: 24px;
+}
 @media screen and (min-width: 1023px) {
     body {
         line-height: 1.4rem;
