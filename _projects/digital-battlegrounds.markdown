@@ -35,6 +35,9 @@ sections:
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  column-1-body: 
+- section: 3
+  layout: 50-50-text
   column-1-body: "## Process\n\n1. I interpreted wireframes developed by a consultant
     to make sure our client's needs were addressed in the design.\n2. Keeping our
     CMS in mind, I begin to build out a design that used existing components and needed
@@ -43,9 +46,6 @@ sections:
     team.\n4. I collaborated with a developer on our team to build out the template
     in our CMS.\n5. When complete, the template was applied to several product pages
     and went live on the CEB global website."
-- section: 3
-  layout: 50-50-text
-  column-1-body: Provide text for left column.
   column-2-body: Provide text for right column.
 - section: 4
   layout: 50-50-image
@@ -53,19 +53,9 @@ sections:
   image-1-alt: Provide Alt Text
   image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-2-alt: Provide Alt Text
-- section: 5
-  layout: 50-50-text
-  column-1-body: Provide text for left column.
-  column-2-body: Provide text for right column.
-- section: 6
-  layout: 50-50-image
-  image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-1-alt: Provide Provide Alt Text
-  image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-2-alt: Provide Provide Alt Text
-- section: 7
-  layout: 50-50-text
-  column-1-body: Provide text for left column.
-  column-2-body: Provide text for right column.
+- image-1: 
+  image-1-alt: 
+  image-2: 
+  image-2-alt: 
 ---
 
