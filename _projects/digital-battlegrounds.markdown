@@ -48,7 +48,7 @@ sections:
     and went live on the CEB global website."
   column-2-body: Provide text for right column.
 - section: 4
-  layout: 100-image-caption
+  layout: 50-50-text
   image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-1-alt: Provide Alt Text
   image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
