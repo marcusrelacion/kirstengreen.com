@@ -86,5 +86,11 @@ sections:
 
     Towards the end of this project, we would pause progress due to the call to completely redesign CEB's website. The work done for this project would not go to waste, however. Many of the concepts I developed were implemented in the redesign and went live several months later.
   column-2-body: " "
+- section: 8
+  layout: 50-50-image
+  image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-1-alt: Provide Provide Alt Text
+  image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-2-alt: Provide Provide Alt Text
 ---
 
