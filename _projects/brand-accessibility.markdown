@@ -56,7 +56,7 @@ sections:
     ## Process
 
     I began this project by becoming more familiar with the WCAG and what it meant to be compliant with their guidelines. For this particular audit, we had to make sure the visual design of our web elements and components were at least Level AA compliant. Our primary focus was on the contrast, color use, and overall visual clarity of the design. With this in mind, I documented which elements did not pass our audit.
-  column-2-body: Provide text for right column.
+  column-2-body: " "
 - section: 4
   layout: 50-50-image
   image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
@@ -72,7 +72,7 @@ sections:
     make the text darker or change the background color. Most of our problems were
     related to this particular issue. We also needed to consider how readable text
     was when placed over an image with specific color overlays.'
-  column-2-body: Provide text for right column.
+  column-2-body: " "
 - section: 6
   layout: 50-50-image
   image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
