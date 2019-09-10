@@ -35,7 +35,7 @@ sections:
 
     *Visual Design Testing, Visual Design*
 
-    * Used the Web Content Accessibility Guidelines (WCAG) to determine which rules we needed to follow to identify design issues. Many of these guidelines are in the [perceivable category](https://www.w3.org/TR/WCAG20/#perceivable).
+    * Used the **Web Content Accessibility Guidelines (WCAG)** to determine which rules we needed to follow to identify design issues. Many of these guidelines are in the [perceivable category](https://www.w3.org/TR/WCAG20/#perceivable).
     * Performed an audit of all visual elements across CEB's web properties, which included its global website, event pages, and other microsites.
     * Used [webaim.org](https://webaim.org/), specifically the [color contrast tool](https://webaim.org/resources/contrastchecker/), and various browser extensions to test the visual contrast and color usage on a webpage.
     * Documented the results in a **Google Spreadsheet**.
