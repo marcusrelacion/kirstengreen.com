@@ -83,6 +83,6 @@ sections:
     Throughout this process, I collaborated with the rest of the design team to determine the best solution for each component. One of the biggest challenges was staying within CEB's established look-and-feel. A prevalent solution was to use a darker color which added weight to the design that was not present before. Working as a team, we picked and iterated on the best options that stayed as true to brand as possible.
 
     Towards the end of this project, we would pause progress due to the call to completely redesign CEB's website. The work done for this project would not go to waste, however. Many of the concepts I developed were implemented in the redesign and went live several months later.
-  column-2-body: Provide text for right column.
+  column-2-body: " "
 ---
 
