@@ -53,26 +53,12 @@ sections:
     team.\n4. I collaborated with a developer on our team to build out the template
     in our CMS.\n5. When complete, the template was applied to several product pages
     and went live on the CEB global website."
-  column-2-body: Provide text for right column.
+  column-2-body: " "
 - section: 4
   layout: 50-50-text
   image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-1-alt: Provide Alt Text
   image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-2-alt: 'Provide Alt Text '
-- section: 5
-  layout: 50-50-text
-  column-1-body: Provide text for left column.
-  column-2-body: Provide text for right column.
-- section: 6
-  layout: 50-50-image
-  image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-1-alt: Provide Provide Alt Text
-  image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-2-alt: Provide Provide Alt Text
-- section: 7
-  layout: 50-50-text
-  column-1-body: Provide text for left column.
-  column-2-body: Provide text for right column.
 ---
 
