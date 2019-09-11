@@ -50,7 +50,16 @@ sections:
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 - section: 3
   layout: 50-50-text
-  column-1-body: "## Process"
+  column-1-body: "## Process\n\nWe collected user data from various people within
+    the TalentNeuron organization and used it to determine what exactly users were
+    having difficulty with in regards to RecruiterNeuron's search experience. \n\nFundamentally,
+    the search experience was not a search; it was just a series of dropdowns that
+    users had to navigate through so they could select what location and role they
+    needed to analyze. That made collecting data difficult, especially if the user
+    was running more than one query. Additionally, the search flow was one-directional.
+    The user had to begin with selecting a location before they could choose a role.
+    That did not cover users that were more focused on a role-based search and considered
+    location selection secondary."
   column-2-body: " "
 - section: 4
   layout: 50-50-image
