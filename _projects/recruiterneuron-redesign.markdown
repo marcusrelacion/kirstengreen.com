@@ -86,8 +86,18 @@ sections:
   layout: 50-50-text
   column-1-body: Provide text for left column.
   column-2-body: " "
-- layout: 50-50-text
-- layout: 100-image-caption
+- section: 
+  layout: 50-50-text
+  column-1-body: 
+  column-2-body: 
+- section: 
+  layout: 50-50-image
+  image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-1-alt: Provide Provide Alt Text
+  image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-2-alt: Provide Provide Alt Text
+- section: 
+  layout: 100-image-caption
   image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
