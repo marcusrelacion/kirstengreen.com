@@ -50,8 +50,8 @@ sections:
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 - section: 3
   layout: 50-50-text
-  column-1-body: Provide text for left column.
-  column-2-body: Provide text for right column.
+  column-1-body: "## Process"
+  column-2-body: " "
 - section: 4
   layout: 50-50-image
   image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
