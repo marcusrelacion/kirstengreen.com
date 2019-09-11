@@ -69,7 +69,12 @@ sections:
   image-2-alt: Provide Alt Text
 - section: 5
   layout: 50-50-text
-  column-1-body: Provide text for left column.
+  column-1-body: |-
+    With these findings, we knew that we needed to create a flexible search that worked with either location or role as the first input. We also wanted to make the selection process easier for the user by removing the dropdowns and replacing them with a search bar that had autosuggest functionality (or a <datalist> for development context). This would allow the user to quickly find what they need to search for by directly entering in their input.
+
+    Throughout this process, UX, along with Product, collaborated with the development team to come up with solutions that were practical from a development perspective. For this project, in particular, we needed to include Development from the beginning. Since RecruiterNeuron was an older product and had a complex backend, we needed to fully understand what we were working with to make the most feasible solution for both the development team and our users.
+
+    Once we were confident with the initial solutions we prototyped, we ran user tests with the team. We went through several rounds of iterations to fine-tune the search's functionality and identified any other concerns that might come from our users. When we finalized the prototype, we began designing the user interface along with the new data visualizations and prepped it for development.
   column-2-body: " "
 - section: 6
   layout: 50-50-image
