@@ -61,7 +61,7 @@ sections:
 - section: 5
   layout: 50-50-text
   column-1-body: Provide text for left column.
-  column-2-body: Provide text for right column.
+  column-2-body: " "
 - section: 6
   layout: 50-50-image
   image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
@@ -71,7 +71,7 @@ sections:
 - section: 7
   layout: 50-50-text
   column-1-body: Provide text for left column.
-  column-2-body: Provide text for right column.
+  column-2-body: " "
 - layout: 50-50-text
 - layout: 100-image-caption
   image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
