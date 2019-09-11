@@ -43,7 +43,7 @@ sections:
     - Shared designs with the development team in **Zeplin.io.**
     - Maintained and updated user stories in **Jira**.
 - section: 3
-  layout: 50-50-text
+  layout: 100-image-caption
   image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
