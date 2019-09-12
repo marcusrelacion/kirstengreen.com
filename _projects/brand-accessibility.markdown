@@ -2,7 +2,8 @@
 title: Brand Accessibility
 date: 2019-09-10 22:07:00 Z
 hero:
-- company: CEB, now Gartner
+- name: Brand Accessibility
+  company: CEB, now Gartner
   year: 2106
   body: We received feedback from our users concerning CEB's branding and how it needed
     to be compliant with the latest web accessibility guidelines. To test for compliance,
