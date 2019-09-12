@@ -2,7 +2,8 @@
 title: Digital Battlegrounds
 date: 2019-09-10 21:32:00 Z
 hero:
-- company: CEB, now Gartner
+- name: Digital Battlegrounds
+  company: CEB, now Gartner
   year: 2016
   body: CEB's marketing team needed a webpage design that presented CEB's product
     offerings in a more dynamic way to engage potential clients.
