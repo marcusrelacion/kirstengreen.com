@@ -2,7 +2,7 @@
 title: RecruiterNeuron Redesign
 date: 2019-09-10 22:01:00 Z
 hero:
-- name: TalentNeuron
+- name: RecruiterNeuron Redesign
   company: Gartner
   year: 2018
   body: RecruiterNeuron, a prominent tool within the TalentNeuron suite, was heavily
@@ -97,6 +97,10 @@ sections:
   column-2-body: 
 - section: 
   layout: 50-50-image
+  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-1-alt: Provide Provide Alt Text
   image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
