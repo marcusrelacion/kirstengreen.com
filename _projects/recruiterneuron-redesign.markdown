@@ -1,5 +1,5 @@
 ---
-title: RecruiterNeuron Redesign (Editing)
+title: RecruiterNeuron Redesign
 date: 2019-09-10 22:01:00 Z
 hero:
 - name: RecruiterNeuron Redesign
