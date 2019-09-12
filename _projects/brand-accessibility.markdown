@@ -2,8 +2,7 @@
 title: Brand Accessibility
 date: 2019-09-10 22:07:00 Z
 hero:
-- name: Brand Accessibility
-  company: CEB, now Gartner
+- company: CEB, now Gartner
   year: 2106
   body: We received feedback from our users concerning CEB's branding and how it needed
     to be compliant with the latest web accessibility guidelines. To test for compliance,
@@ -92,5 +91,10 @@ sections:
   image-1-alt: Provide Provide Alt Text
   image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-2-alt: Provide Provide Alt Text
+- layout: 100-image-caption
+  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
 
