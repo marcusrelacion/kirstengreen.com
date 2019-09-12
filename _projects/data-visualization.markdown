@@ -25,5 +25,17 @@ sections:
     ### My Role
 
     I developed working prototypes, conducted internal UX testing, consulted with Data Science and Development to test for backend feasibility, and designed the UI.
+  column-2-body: |-
+    ### Methods and Execution
+
+    *User Experience Design, User Interface Design*
+
+    - Identified user needs through user feedback collection and analysis.
+    - Collaborated across multiple teams to develop executable solutions. The teams involved were Customer Support, Data Science, Product, IT/Development, and UX/Design.
+    - Conducted internal user testing, which included experienced and inexperienced users.
+    - Developed wireframes and prototypes using **Axure RP 8**.
+    - Designed the UI in **Sketch.**
+    - Uploaded the UI to **Zeplin.io** so we could share design specs with the development team. We also used this platform as a communication tool for any questions concerning the design and its implementation.
+    - Utilized **Jira** to keep track of story and sprint progress. This project spanned across many sprints and, true to Agile, additional requirements and design changes were added when we learned more about our users.
 ---
 
