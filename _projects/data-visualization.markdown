@@ -37,5 +37,9 @@ sections:
     - Designed the UI in **Sketch.**
     - Uploaded the UI to **Zeplin.io** so we could share design specs with the development team. We also used this platform as a communication tool for any questions concerning the design and its implementation.
     - Utilized **Jira** to keep track of story and sprint progress. This project spanned across many sprints and, true to Agile, additional requirements and design changes were added when we learned more about our users.
+- section: 2
+  layout: 100-image-caption
+- section: 3
+  column-1-body: "## Process"
 ---
 
