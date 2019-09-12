@@ -46,6 +46,7 @@ sections:
 - section: 3
   layout: 50-50-text
   column-1-body: "## Process"
+  column-2-body: 
 - section: 4
   layout: 50-50-image
   image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
@@ -66,5 +67,21 @@ sections:
   layout: 50-50-text
   column-1-body: Write something here
   column-2-body: " "
+- section: 8
+  layout: 50-50-imge
+  image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-1-alt: Provide Provide Alt Text
+  image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-2-alt: Provide Provide Alt Text
+- section: 
+  layout: 50-50-text
+  column-1-body: 
+  column-2-body: 
+- section: 
+  layout: 100-image-caption
+  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
 
