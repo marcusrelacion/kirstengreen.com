@@ -2,7 +2,7 @@
 title: RecruiterNeuron Redesign
 date: 2019-09-10 22:01:00 Z
 hero:
-- name: RecruiterNeuron Redesign
+- name: TalentNeuron
   company: Gartner
   year: 2018
   body: RecruiterNeuron, a prominent tool within the TalentNeuron suite, was heavily
