@@ -2,7 +2,7 @@
 title: Developing TalentNeuron Personas
 date: 2019-09-10 22:39:00 Z
 hero:
-- name: TalentNeuron
+- name: Developing TalentNeuron Personas
   company: Gartner
   year: 2018
   body: As we learned more about TalentNeuron's users, it was important for us to
