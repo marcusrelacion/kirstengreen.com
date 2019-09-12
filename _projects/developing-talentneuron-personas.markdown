@@ -2,7 +2,7 @@
 title: Developing TalentNeuron Personas
 date: 2019-09-10 22:39:00 Z
 hero:
-- name: Developing TalentNeuron Personas
+- name: TalentNeuron
   company: Gartner
   year: 2018
   body: As we learned more about TalentNeuron's users, it was important for us to
@@ -86,12 +86,18 @@ sections:
   column-2-body: " "
 - section: 8
   layout: 50-50-image
+  column-1-body: 
+  column-2-body: 
   image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-1-alt: Provide Provide Alt Text
   image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-2-alt: Provide Provide Alt Text
 - section: 9
   layout: 50-50-text
+  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   column-1-body: While researching for Lola, we also looked to revalidate our defined
     personas. We crafted questions for user interviews around our existing dataset
     to test if it was still representative of our users. Additionally, much like Lola,
