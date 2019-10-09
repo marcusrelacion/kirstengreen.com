@@ -68,12 +68,6 @@ sections:
   image-2-alt: Provide Provide Alt Text
 - section: 9
   layout: 100-image-caption
-  image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-1-alt: Provide Provide Alt Text
-  image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-2-alt: Provide Provide Alt Text
-  column-1-body: 
-  column-2-body: 
   image: "/uploads/db_full-page.png"
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
