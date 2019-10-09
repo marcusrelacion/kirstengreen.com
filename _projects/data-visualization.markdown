@@ -80,7 +80,7 @@ sections:
 
     When all of the designs were complete, we passed the specs to the development team using **Zeplin**. We continued to work with the dev team during implementation by making sure any issues that emerged were solved without requiring excessive development effort or redesign from our end. That included keeping the users' needs first in any problem discussion.
 
-    Unfortunately due to a restructuring of our product goals and timeline, a lot of the widgets we worked on did not get published on the platform right away. We saved them in our design and dev library so we could use them in the future. The major win for this was: when we identified a need for them, we were able to pull them out and test them with actual users as a part of our recently developed research practice. That allowed them to be backed by research data, which ultimately made them stronger features for our users.
+    Unfortunately, due to a restructuring of our product goals and timeline, many of the widgets we worked on did not get published on the platform right away. We saved them in our design and dev library so we could use them in the future. The major win for this was: when we identified a need for them, we were able to pull them out and test them with users as a part of the user research practice we built after this project. That enabled us to test our user experience and design firsthand with users and verify their effectiveness. It also allowed us to gather data on our users, which lead us to make more accurate hypotheses when creating widgets and other features for the product.
   column-2-body: " "
 - section: 8
   layout: 50-50-image
