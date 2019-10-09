@@ -38,7 +38,7 @@ sections:
     * All proposed designs were created in **Photoshop CC**.
 - section: 2
   layout: 100-image-caption
-  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image: "/uploads/db_close-up_on-load.png"
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
