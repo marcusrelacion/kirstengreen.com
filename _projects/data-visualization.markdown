@@ -76,7 +76,7 @@ sections:
 - section: 7
   layout: 50-50-text
   column-1-body: |-
-    Additionally, we tested our prototypes with internal stakeholders across the team. They gave us feedback on what functionality was useful and what they thought could be done better based on what they knew about our users. We iterated on our concepts based on the responses we received and worked on the UI in Sketch for the final designs. During this time, our team did not have a formal research practice that regularly talked to users. We would, however, develop one in the coming months, and many of these widgets would go through that process (more on that later).
+    Additionally, we tested our prototypes with internal stakeholders across the team. They gave us feedback on what functionality was useful and what they thought could be done better based on what they knew about our users. We iterated on our concepts based on the responses we received and worked on the UI in Sketch for the final designs. During this time, our team did not have a formal research practice that regularly talked to users. We would, however, develop one in the coming months, and many of these widgets would go through that process (more on that soon).
 
     When all of the designs were complete, we passed the specs to the development team using Zeplin. We continued to work with the dev team during implementation by making sure any issues that emerged were solved without requiring excessive development effort or redesign from our end. That included keeping the users' needs first in any problem discussion.
 
