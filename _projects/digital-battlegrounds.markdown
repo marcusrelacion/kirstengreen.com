@@ -7,7 +7,7 @@ hero:
   year: 2016
   body: CEB's marketing team needed a webpage design that presented CEB's product
     offerings in a more dynamic way to engage potential clients.
-  image: "/uploads/close-up_on-load.png"
+  image: "/uploads/db_close-up_on-load.png"
   image-alt: Provide Alt Text
 sections:
 - section: 1
@@ -56,15 +56,15 @@ sections:
   column-2-body: " "
 - section: 4
   layout: 50-50-image
-  image-1: "/uploads/close-up_what-you-need.png"
+  image-1: "/uploads/db_close-up_what-you-need.png"
   image-1-alt: Provide Alt Text
-  image-2: "/uploads/close-up_client-experience.png"
+  image-2: "/uploads/db_close-up_client-experience.png"
   image-2-alt: 'Provide Alt Text '
 - section: 6
   layout: 50-50-image
-  image-1: "/uploads/close-up_become-a-member.png"
+  image-1: "/uploads/db_close-up_become-a-member.png"
   image-1-alt: Provide Provide Alt Text
-  image-2: "/uploads/close-up_decision-making-tools.png"
+  image-2: "/uploads/db_close-up_decision-making-tools.png"
   image-2-alt: Provide Provide Alt Text
 - section: 9
   layout: 100-image-caption
@@ -74,15 +74,7 @@ sections:
   image-2-alt: Provide Provide Alt Text
   column-1-body: 
   column-2-body: 
-  image: "/uploads/full-page.png"
-  image-alt: Provide Alt Text
-  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- section: 7
-  layout: 50-50-text
-- layout: 50-50-text
-- layout: 100-image-caption
-  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image: "/uploads/db_full-page.png"
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
