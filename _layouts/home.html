@@ -1,24 +1,22 @@
 ---
 layout: default
 ---
-
-<ul class="cards">
+<ul class="listing listing--projects">
     {% for post in site.projects %}
-    <li class="card block-grid block-grid--60-40">
-        <div class="block-grid-item bg-kg-accent">
-            <div class="card-introduction">
-                <h1 class="heading-1 margin-bottom-3">
-                    {{ post.title }}
-                </h1>
-                <p class="paragraph margin-bottom-9">
-                    {{ post.description }}
-                </p>
-                <a class="anchor" href="{{ post.url }}">
-                    View project (Needs to be Styled)
-                </a>
-            </div>
+    <li class="listing__project">
+        <div class="project-details">
+            <h1 class="project-title">
+                {{ post.title }}
+            </h1>
+            <p class="project-description">
+                {{ post.description }}
+            </p>
+            <a class="project-link anchor" href="{{ post.url }}">
+                View project (Needs to be Styled)
+            </a>
         </div>
-        <div class="block-grid-item block-grid-item--border" style="background-image: url('{{ post.image }}'); background-repeat: no-repeat; background-size: cover; background-position: center center;"></div>
+        <div class="project-image" style="background-image: url('/uploads/test-image.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+        </div>
     </li>
     {% endfor %}
 </ul>

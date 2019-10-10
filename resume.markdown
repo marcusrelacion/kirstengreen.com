@@ -1,6 +1,5 @@
 ---
 layout: resume
-
 sections:
     - column: left
       text: |-
@@ -114,8 +113,4 @@ sections:
         * Used Illustrator to create illustrations for a series of educational videos
         * Annotated user testing videos
         * QAed several websites prior to launch to identify usability and UI bugs
-
-
-
 ---
-

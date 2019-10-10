@@ -19,6 +19,8 @@ body {
     scroll-behavior: smooth;
     /* Reset font size to 1rem, in case it has a pixel value */
     font-size: 1rem;
+    font-weight: 400;
+    line-height: initial;
     min-height: 100vh;
 }
 /* Remove list styles on ul, ol elements with a class attribute */

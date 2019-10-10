@@ -1,7 +1,6 @@
 body {
     color: var(--kg-primary);
     font-family: var(--kg-typeface-1);
-    line-height: 1.4rem;
 }
 .site-header {
     background-color: var(--kg-primary);
@@ -59,7 +58,7 @@ body {
         grid-column: content;
     }
     .site-header, .site-content, .site-footer {
-        padding: 32px;
+        padding: 64px 32px;
     }
     .site-header {
         grid-column: sidebar;
