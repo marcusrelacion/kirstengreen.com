@@ -1,0 +1,17 @@
+.button {
+    display: inline-block;
+    background-color: transparent;
+    transition: all 100ms ease-in;
+    text-decoration: none;
+}
+.button__solid--secondary {
+    background-color: var(--kg-secondary);
+    color: var(--kg-primary);
+    box-shadow: 4px 4px 0px var(--kg-primary);
+    padding: 8px 16px;
+}
+.button__transparent--secondary {
+    border-bottom: solid 1px var(--kg-secondary);
+    color: var(--kg-secondary);
+    padding: 8px 0;
+}

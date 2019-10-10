@@ -11,21 +11,6 @@
     font-weight: 400;
     line-height: 1.6rem;
 }
-
-.anchor {
-    color: var(--kg-primary);
-    display: inline-block;
-    opacity: 1;
-    transition: opacity 200ms ease-in;
-    background-color: var(--kg-secondary);
-    padding: 8px 16px;
-    box-shadow: 4px 4px 0px var(--kg-primary);
-    transition: all 100ms ease-in;
-    text-decoration: none;
-}
-.anchor:active {
-    box-shadow: 0px 0px 0px var(--kg-primary);
-}
 .italic {
     font-style: italic;
 }
@@ -45,9 +30,6 @@ p {
     margin-bottom: 24px;
 }
 @media screen and (min-width: 1023px) {
-    body {
-        line-height: 1.4rem;
-    }
     .heading-1 {
         font-size: 32px;
         line-height: 2.2rem;
