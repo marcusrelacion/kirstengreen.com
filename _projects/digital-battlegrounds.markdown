@@ -7,7 +7,7 @@ hero:
   year: 2016
   body: CEB's marketing team needed a webpage design that presented CEB's product
     offerings in a more dynamic way to engage potential clients.
-  image: "/uploads/db_close-up_on-load.png"
+  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-alt: Provide Alt Text
 sections:
 - section: 1
@@ -68,7 +68,19 @@ sections:
   image-2-alt: Provide Provide Alt Text
 - section: 9
   layout: 100-image-caption
+  image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-1-alt: Provide Provide Alt Text
+  image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-2-alt: Provide Provide Alt Text
   image: "/uploads/db_full-page.png"
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- section: 7
+  layout: 50-50-text
+- layout: 50-50-text
+- layout: 100-image-caption
+  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
