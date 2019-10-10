@@ -63,12 +63,24 @@ sections:
   column-2-body: " "
 - section: 4
   layout: 50-50-image
-  image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-1-alt: Provide Alt Text
+  image-1: "/uploads/rn_original_search.png"
+  image-1-alt: Screenshot of the original search design
   image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-2-alt: Provide Alt Text
+- section: 4
+  layout: 50-50-image
+  column-1-body: 
+  column-2-body: 
+  image-1: "/uploads/rn_original_graphs-1.png"
+  image-1-alt: Provide Alt Text
+  image-2: "/uploads/rn_original_graphs-2.png"
   image-2-alt: Provide Alt Text
 - section: 5
   layout: 50-50-text
+  image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-1-alt: Provide Provide Alt Text
+  image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-2-alt: Provide Provide Alt Text
   column-1-body: |-
     With these findings, we knew that we needed to create a flexible search that worked with either location or role as the first input. We also wanted to make the selection process easier for the user by removing the dropdowns and replacing them with a search bar that had autosuggest functionality (or a <datalist> for development context). This would allow the user to quickly find what they need to search for by directly entering in their input.
 
@@ -78,6 +90,8 @@ sections:
   column-2-body: " "
 - section: 6
   layout: 50-50-image
+  column-1-body: 
+  column-2-body: 
   image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-1-alt: Provide Provide Alt Text
   image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
@@ -92,10 +106,6 @@ sections:
     Thankfully, we were able to address this issue quickly by pushing the changes during the next sprint cycle. This event was a tremendous learning experience for the team and brought to light how much we needed a research practice to understand the full scope of our users' needs. In the coming months, we built out that research practice and began interviewing users regularly. Our process became stronger and more attentive to our users, creating experiences that served them better from the start.
   column-2-body: " "
 - section: 
-  layout: 50-50-text
-  column-1-body: 
-  column-2-body: 
-- section: 
   layout: 50-50-image
   image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-alt: Provide Alt Text
@@ -107,9 +117,9 @@ sections:
   image-2-alt: Provide Provide Alt Text
 - section: 
   layout: 100-image-caption
-  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image: "/uploads/rn_full-page.png"
   image-alt: Provide Alt Text
-  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image-caption-body: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua. '
 ---
 
