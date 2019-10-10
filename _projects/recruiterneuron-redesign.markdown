@@ -66,7 +66,7 @@ sections:
   image-1: "/uploads/rn_original_search.png"
   image-1-alt: Screenshot of the original search design
   image-2: " "
-  image-2-alt: Provide Alt Text
+  image-2-alt: " "
 - section: 4
   layout: 50-50-image
   column-1-body: 
