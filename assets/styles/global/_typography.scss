@@ -18,10 +18,12 @@ body {
     font-weight: 400;
 }
 .anchor {
-    color: var(--kg-secondary);
-    display: block;
+    color: var(--kg-primary);
+    display: inline-block;
     opacity: 1;
     transition: opacity 200ms ease-in;
+    background-color: var(--kg-secondary);
+    padding: 8px;
 }
 .anchor:hover {
     opacity: 0.5;

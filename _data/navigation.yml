@@ -3,7 +3,7 @@ primary:
     - title: "Home"
       url: "/"
     - title: "Resume"
-      url: "#"
+      url: "/resume/"
 
 social:
   links:

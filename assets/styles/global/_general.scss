@@ -43,6 +43,13 @@ body {
     margin-bottom: 16px;
 }
 
+.layout-resume header {
+    margin-bottom: 48px;
+}
+.layout-resume .grid {
+    display: grid;
+    grid-gap: 32px;
+}
 @media screen and (min-width: 1023px) {
     .site-grid {
         display: grid;
