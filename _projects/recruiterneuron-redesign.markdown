@@ -65,8 +65,8 @@ sections:
   layout: 50-50-image
   image-1: "/uploads/rn_original_search.png"
   image-1-alt: Screenshot of the original search design
-  image-2: " "
-  image-2-alt: " "
+  image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
+  image-2-alt: Provide Alt Text
 - section: 4
   layout: 50-50-image
   column-1-body: 
