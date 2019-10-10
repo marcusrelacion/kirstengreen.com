@@ -1,5 +1,5 @@
 ---
-title: Brand Accessibility
+title: Brand Accessibility - Test
 date: 2019-09-10 22:07:00 Z
 hero:
 - name: Brand Accessibility
