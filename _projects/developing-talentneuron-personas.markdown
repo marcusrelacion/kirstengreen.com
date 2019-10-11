@@ -94,12 +94,12 @@ sections:
 
     While researching for Lola, we also looked to revalidate our already defined personas. We crafted questions for user interviews around our existing dataset to test if it was still representative of our users. Additionally, much like Lola, we walked them through user testing to evaluate behaviors and thought patterns while testing out future features for the platform. We found that many of the goals and needs outlined in our personas were still accurate, but some of their profile information needed to be updated. For example, we pinpointed that our recruiter persona was much more tech-savvy than previously identified.
   column-2-body: 
-- section: 10
+- section: 
   layout: 50-50-image
   image-1: "/uploads/tp_wb_lola-persona.png"
   image-1-alt: Provide Alt Text
-  image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-2-alt: Provide Alt Text
+  image-2: 
+  image-2-alt: 
 - section: 11
   layout: 50-50-text
   column-1-body: |-
