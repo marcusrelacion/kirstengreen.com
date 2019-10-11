@@ -97,7 +97,7 @@ sections:
   image-2: "/uploads/rn_search-example.png"
   image-2-alt: Provide Provide Alt Text
 - section: 
-  layout: 
+  layout: 50-50-image
   image: 
   image-alt: 
   image-caption-body: 
