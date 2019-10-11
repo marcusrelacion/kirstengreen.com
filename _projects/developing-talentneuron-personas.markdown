@@ -69,7 +69,7 @@ sections:
     we needed to conduct user research and confirm that they align with the business'
     needs.
   column-2-body: " "
-- section: 6
+- section: 
   layout: 50-50-image
   image-1: "/uploads/tp_wb_lola-summary.png"
   image-1-alt: Provide Alt Text
