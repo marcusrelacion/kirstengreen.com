@@ -124,20 +124,19 @@ sections:
     Thankfully, we were able to address this issue quickly by pushing the changes during the next sprint cycle. This event was a tremendous learning experience for the team and brought to light how much we needed a research practice to understand the full scope of our users' needs. In the coming months, we built out that research practice and began interviewing users regularly. Our process became stronger and more attentive to our users, creating experiences that served them better from the start.
   column-2-body: " "
 - section: 
+  layout: 50-50-image
+  image: 
+  image-alt: 
+  image-caption-body: 
+  image-1: "/uploads/rn_search-dropdown-solution.png"
+  image-1-alt: Provide Alt Text
+  image-2: 
+  image-2-alt: 
+- section: 
   layout: 100-image-caption
   image: "/uploads/rn_full-page.png"
   image-alt: Provide Alt Text
   image-caption-body: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua. '
-- section: 
-  layout: 50-50-image
-  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-alt: Provide Alt Text
-  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-1-alt: Provide Provide Alt Text
-  image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-2-alt: Provide Provide Alt Text
 ---
 
