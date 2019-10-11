@@ -61,12 +61,15 @@ sections:
     That did not cover users that were more focused on a role-based search and considered
     location selection secondary."
   column-2-body: " "
-- section: 4
+- section: 
   layout: 50-50-image
+  image: 
+  image-alt: 
+  image-caption-body: 
   image-1: "/uploads/rn_original_search.png"
   image-1-alt: Screenshot of the original search design
-  image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-2-alt: Provide Alt Text
+  image-2: 
+  image-2-alt: 
 - section: 4
   layout: 50-50-image
   column-1-body: 
@@ -98,6 +101,8 @@ sections:
   image-2-alt: Provide Provide Alt Text
 - section: 
   layout: 50-50-image
+  column-1-body: 
+  column-2-body: 
   image: 
   image-alt: 
   image-caption-body: 
@@ -107,6 +112,10 @@ sections:
   image-2-alt: 
 - section: 7
   layout: 50-50-text
+  image: 
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   column-1-body: |-
     After we launched the new RecruiterNeuron experience, many of our users were ecstatic for the update and received it well. There was, however, a section of our userbase that used the search experience in a way that we did not initially identify and the update completely broke their use case. These users would select a location and then run a search for every role available for that location. That meant these users used the dropdowns to know all of the options available to them and didn't have one particular role in mind. With the new update, we removed this capability by hiding all options until the user triggered autosuggest through adding input.
 
@@ -114,6 +123,12 @@ sections:
 
     Thankfully, we were able to address this issue quickly by pushing the changes during the next sprint cycle. This event was a tremendous learning experience for the team and brought to light how much we needed a research practice to understand the full scope of our users' needs. In the coming months, we built out that research practice and began interviewing users regularly. Our process became stronger and more attentive to our users, creating experiences that served them better from the start.
   column-2-body: " "
+- section: 
+  layout: 100-image-caption
+  image: "/uploads/rn_full-page.png"
+  image-alt: Provide Alt Text
+  image-caption-body: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua. '
 - section: 
   layout: 50-50-image
   image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
@@ -124,11 +139,5 @@ sections:
   image-1-alt: Provide Provide Alt Text
   image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-2-alt: Provide Provide Alt Text
-- section: 
-  layout: 100-image-caption
-  image: "/uploads/rn_full-page.png"
-  image-alt: Provide Alt Text
-  image-caption-body: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua. '
 ---
 
