@@ -69,12 +69,6 @@ sections:
     we needed to conduct user research and confirm that they align with the business'
     needs.
   column-2-body: " "
-- section: 6
-  layout: 50-50-image
-  image-1: "/uploads/tp_wb_lola-summary.png"
-  image-1-alt: Provide Alt Text
-  image-2: "/uploads/tp_wb_sam-summary.png"
-  image-2-alt: Provide Alt Text
 - section: 7
   layout: 50-50-image
   column-1-body: 
@@ -83,6 +77,12 @@ sections:
   image-1-alt: Provide Alt Text
   image-2: 
   image-2-alt: 
+- section: 6
+  layout: 50-50-image
+  image-1: "/uploads/tp_wb_lola-summary.png"
+  image-1-alt: Provide Alt Text
+  image-2: "/uploads/tp_wb_sam-summary.png"
+  image-2-alt: Provide Alt Text
 - section: 7
   layout: 50-50-text
   column-1-body: |-
