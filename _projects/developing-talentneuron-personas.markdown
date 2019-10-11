@@ -104,14 +104,14 @@ sections:
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  column-1-body: While researching for Lola, we also looked to revalidate our defined
-    personas. We crafted questions for user interviews around our existing dataset
-    to test if it was still representative of our users. Additionally, much like Lola,
-    we walked them through user testing to evaluate behaviors and thought patterns
-    while testing out future features for the platform. We found that many of the
-    goals and needs outlined in our personas were still accurate, but some of their
-    profile information needed to be updated. For example, we pinpointed that our
-    recruiter persona was much more tech-savvy than previously identified.
+  column-1-body: While researching for Lola, we also looked to revalidate our already
+    defined personas. We crafted questions for user interviews around our existing
+    dataset to test if it was still representative of our users. Additionally, much
+    like Lola, we walked them through user testing to evaluate behaviors and thought
+    patterns while testing out future features for the platform. We found that many
+    of the goals and needs outlined in our personas were still accurate, but some
+    of their profile information needed to be updated. For example, we pinpointed
+    that our recruiter persona was much more tech-savvy than previously identified.
   column-2-body: " "
 - section: 10
   layout: 50-50-image
