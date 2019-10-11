@@ -69,14 +69,16 @@ sections:
     we needed to conduct user research and confirm that they align with the business'
     needs.
   column-2-body: " "
-- section: 
+- section: 6
   layout: 50-50-image
   image-1: "/uploads/tp_wb_lola-summary.png"
   image-1-alt: Provide Alt Text
   image-2: "/uploads/tp_wb_sam-summary.png"
   image-2-alt: Provide Alt Text
-- section: 
+- section: 7
   layout: 50-50-image
+  column-1-body: 
+  column-2-body: 
   image-1: "/uploads/tp_wb_business-examples.png"
   image-1-alt: Provide Alt Text
   image-2: 
@@ -89,29 +91,8 @@ sections:
     An interesting thing we learned about Lola was her role did not exist in many organizations due to how relatively new it was in the overall HR structure. Many of the businesses that hired Lolas specifically were more data-driven with larger HR departments. She did exist in other organizations at different capacities, however. Lola was often someone with a data analyst background who transitioned into talent analytics and was responsible for several aspects of the talent side of the business. She would solve problems for location-specific questions but would also develop analyses for the roles and skills needed within the organization. It was for this reason that we ended up debating on what title and responsibility scope to give Lola.
 
     After looking at the research, we determined Lola's location focused use case valid and increased the importance of talent data needed within her process. We went through many iterations of her title initially and settled on Strategic Workforce Analyst due to her main goal: create a data-backed analysis that recommends the best locations to consider developing based on location, talent, and other factors.
-  column-2-body: " "
-- section: 8
-  layout: 50-50-image
-  column-1-body: 
-  column-2-body: 
-  image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-1-alt: Provide Provide Alt Text
-  image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-2-alt: Provide Provide Alt Text
-- section: 9
-  layout: 50-50-text
-  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-alt: Provide Alt Text
-  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  column-1-body: While researching for Lola, we also looked to revalidate our already
-    defined personas. We crafted questions for user interviews around our existing
-    dataset to test if it was still representative of our users. Additionally, much
-    like Lola, we walked them through user testing to evaluate behaviors and thought
-    patterns while testing out future features for the platform. We found that many
-    of the goals and needs outlined in our personas were still accurate, but some
-    of their profile information needed to be updated. For example, we pinpointed
-    that our recruiter persona was much more tech-savvy than previously identified.
+
+    While researching for Lola, we also looked to revalidate our already defined personas. We crafted questions for user interviews around our existing dataset to test if it was still representative of our users. Additionally, much like Lola, we walked them through user testing to evaluate behaviors and thought patterns while testing out future features for the platform. We found that many of the goals and needs outlined in our personas were still accurate, but some of their profile information needed to be updated. For example, we pinpointed that our recruiter persona was much more tech-savvy than previously identified.
   column-2-body: " "
 - section: 10
   layout: 50-50-image
