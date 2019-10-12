@@ -59,6 +59,10 @@ body {
     .site-header, .site-content, .site-footer {
         padding: 64px 32px;
     }
+    .site-content {
+        max-width: 96ch;
+        margin: auto;
+    }
     .site-header {
         grid-column: sidebar;
         grid-gap: 32px;
