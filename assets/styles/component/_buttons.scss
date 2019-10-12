@@ -3,15 +3,23 @@
     background-color: transparent;
     transition: all 100ms ease-in;
     text-decoration: none;
-}
-.button__solid--secondary {
-    background-color: var(--kg-secondary);
-    color: var(--kg-primary);
-    box-shadow: 4px 4px 0px var(--kg-primary);
     padding: 8px 16px;
 }
+.button__solid {
+    box-shadow: 4px 4px 0px var(--oxford-blue);
+    font-weight: 700;
+}
+.button__underline, .button__transparent {
+    padding: 0;
+}
+.button__underline--secondary {
+    border-bottom: solid 1px var(--rajah);
+    color: var(--rajah);
+}
+.button__solid--secondary {
+    background-color: var(--rajah);
+    color: var(--oxford-blue);
+}
 .button__transparent--secondary {
-    border-bottom: solid 1px var(--kg-secondary);
-    color: var(--kg-secondary);
-    padding: 8px 0;
+    color: var(--rajah);
 }

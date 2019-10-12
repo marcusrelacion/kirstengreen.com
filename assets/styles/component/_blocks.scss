@@ -26,7 +26,7 @@
     position: relative;
 }
 .project-details {
-    background-color: var(--kg-accent);
+    background-color: var(--concrete);
     padding: 16px;
 }
 .project-title {
@@ -55,13 +55,13 @@
         width: 4px;
         bottom: 24px;
         left: 24px;
-        background-color: var(--kg-primary);
+        background-color: var(--oxford-blue);
     }
     .project-details {
         padding: 24px 24px 24px 48px;
     }
     .project-image {
-        border-right: solid 4px var(--kg-primary);
-        border-bottom: solid 4px var(--kg-primary);
+        border-right: solid 4px var(--oxford-blue);
+        border-bottom: solid 4px var(--oxford-blue);
     }
 }

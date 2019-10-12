@@ -3,7 +3,7 @@
         <ul class="header-primary__links">
             {% for link in site.data.navigation.primary.links %}
             <li class="header-primary__link">
-                <a class="button button__transparent--secondary" href="{{ link.url }}">
+                <a class="button button__underline button__underline--secondary" href="{{ link.url }}">
                     {{ link.title }}
                 </a>
             </li>
@@ -35,7 +35,7 @@
             </p>
             {% endif %}
         </div>
-        <a class="button button__solid--secondary" href="{{ site.sidebar-contact-link-url }}">
+        <a class="button button__underline button__underline--secondary" href="{{ site.sidebar-contact-link-url }}">
             {{ site.sidebar-contact-link-text }}
         </a>
     </div>
@@ -43,7 +43,7 @@
         <ul class="header-social__links">
             {% for link in site.data.navigation.social.links %}
             <li class="header-social__link">
-                <a class="button button__solid--secondary" href="{{ link.href }}" rel="noopener" target="_blank">
+                <a class="button button__transparent button__transparent--secondary" href="{{ link.href }}" rel="noopener" target="_blank">
                     {{ link.icon }}
                 </a>
             </li>

@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Karla:400,400i,700|Source+Code+Pro:600,700&display=swap');
+
 :root {
     --oxford-blue: #384257;
     --concrete: #f2f2f2;
@@ -6,12 +8,6 @@
     
     --sans-serif: "Karla", sans-serif;
     --mono: "Source Code Pro", courier, serif;
-
-    --kg-primary: var(--oxford-blue);
-    --kg-secondary: var(--rajah);
-    --kg-accent: var(--concrete);
-    --kg-typeface-1: var(--sans-serif);
-    --kg-typeface-2: var(--mono);
 
     --spacing-64: 4em; /* 64px */
     --spacing-56: 3.5em; /* 56px */
