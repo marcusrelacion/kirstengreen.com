@@ -63,12 +63,12 @@ sections:
   column-2-body: " "
 - section: 4
   layout: 50-50
-  column-1-body: 
+  column-1-body: "![Alt text](/uploads/rn_original_search.png)"
   column-2-body: 
 - section: 4
   layout: 50-50
-  column-1-body: 
-  column-2-body: 
+  column-1-body: "![Alt text](/uploads/rn_original_graphs-1.png)"
+  column-2-body: "![Alt text](/uploads/rn_original_graphs-2.png)"
 - section: 5
   layout: 50-50
   column-1-body: |-
@@ -80,14 +80,18 @@ sections:
   column-2-body: " "
 - section: 6
   layout: 50-50
-  column-1-body: 
-  column-2-body: 
+  column-1-body: "![Alt text](/uploads/rn_search.png)"
+  column-2-body: "![Alt text](/uploads/rn_search-example.png)"
 - section: 
   layout: 50-50
-  column-1-body: 
+  column-1-body: "/uploads/rn_results-summary.png"
   column-2-body: 
 - section: 7
   layout: 50-50
+  image: 
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   column-1-body: |-
     After we launched the new RecruiterNeuron experience, many of our users were ecstatic for the update and received it well. There was, however, a section of our userbase that used the search experience in a way that we did not initially identify and the update completely broke their use case. These users would select a location and then run a search for every role available for that location. That meant these users used the dropdowns to know all of the options available to them and didn't have one particular role in mind. With the new update, we removed this capability by hiding all options until the user triggered autosuggest through adding input.
 
