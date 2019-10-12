@@ -56,23 +56,18 @@ sections:
   column-2-body: " "
 - section: 4
   layout: 50-50
-  image-1: "/uploads/db_close-up_what-you-need.png"
-  image-1-alt: Provide Alt Text
-  image-2: "/uploads/db_close-up_client-experience.png"
-  image-2-alt: 'Provide Alt Text '
 - section: 6
   layout: 50-50
-  image-1: "/uploads/db_close-up_become-a-member.png"
-  image-1-alt: Provide Provide Alt Text
-  image-2: "/uploads/db_close-up_decision-making-tools.png"
-  image-2-alt: Provide Provide Alt Text
 - section: 9
   layout: 100
-  image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-1-alt: Provide Provide Alt Text
-  image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-2-alt: Provide Provide Alt Text
   image: "/uploads/db_full-page.png"
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- section: 7
+  layout: 50-50
+- layout: 50-50
+- layout: 100
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
