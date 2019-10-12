@@ -43,20 +43,16 @@ defaults:
       column-2-body: 
     - section: 4
       layout: 50-50
-      image-1: 
-      image-1-alt: Provide Alt Text
-      image-2: 
-      image-2-alt: Provide Alt Text
+      column-1-body:
+      column-2-body:
     - section: 5
       layout: 50-50
       column-1-body: 
       column-2-body: 
     - section: 6
       layout: 50-50
-      image-1: 
-      image-1-alt: Provide Provide Alt Text
-      image-2: 
-      image-2-alt: Provide Provide Alt Text
+      column-1-body:
+      column-2-body:
     - section: 7
       layout: 50-50
       column-1-body: 
