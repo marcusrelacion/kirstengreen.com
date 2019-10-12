@@ -11,7 +11,7 @@ hero:
   image-alt: Provide Alt Text
 sections:
 - section: 1
-  layout: 50-50-text
+  layout: 50-50
   column-1-body: |+
     ### Problem
 
@@ -37,14 +37,14 @@ sections:
 
     * All proposed designs were created in **Photoshop CC**.
 - section: 2
-  layout: 100-image-caption
+  layout: 100
   image: "/uploads/db_close-up_on-load.png"
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   column-1-body: 
 - section: 3
-  layout: 50-50-text
+  layout: 50-50
   column-1-body: "## Process\n\n1. I interpreted wireframes developed by a consultant
     to make sure our client's needs were addressed in the design.\n2. Keeping our
     CMS in mind, I begin to build out a design that used existing components and needed
@@ -55,19 +55,19 @@ sections:
     and went live on the CEB global website."
   column-2-body: " "
 - section: 4
-  layout: 50-50-image
+  layout: 50-50
   image-1: "/uploads/db_close-up_what-you-need.png"
   image-1-alt: Provide Alt Text
   image-2: "/uploads/db_close-up_client-experience.png"
   image-2-alt: 'Provide Alt Text '
 - section: 6
-  layout: 50-50-image
+  layout: 50-50
   image-1: "/uploads/db_close-up_become-a-member.png"
   image-1-alt: Provide Provide Alt Text
   image-2: "/uploads/db_close-up_decision-making-tools.png"
   image-2-alt: Provide Provide Alt Text
 - section: 9
-  layout: 100-image-caption
+  layout: 100
   image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-1-alt: Provide Provide Alt Text
   image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png

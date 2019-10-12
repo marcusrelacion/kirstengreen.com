@@ -1,0 +1,18 @@
+{% if section.layout == '60-40' %}
+<section class="grid grid--60-40">
+    <div class="grid-item">
+        <div class="project-introduction">
+            <p class="project-description">
+                {{ section.column-1-body | markdownify }}
+            </p>
+        </div>
+    </div>
+    <div class="grid-item">
+        <div class="project-introduction">
+            <p class="project-description">
+                {{ section.column-2-body | markdownify }}
+            </p>
+        </div>
+    </div>
+</section>
+{% endif %}

@@ -13,7 +13,7 @@ hero:
   image-alt: Provide Alt Text
 sections:
 - section: 1
-  layout: 50-50-text
+  layout: 50-50
   column-1-body: "### Problem\n\nOur users frequently gave us feedback on two aspects
     of the RecruiterNeuron tool: the search experience and data visualizations. They
     felt creating a search was cumbersome and new users, in particular, had issues
@@ -43,13 +43,13 @@ sections:
     - Shared designs with the development team in **Zeplin.io.**
     - Maintained and updated user stories in **Jira**.
 - section: 3
-  layout: 100-image-caption
+  layout: 100
   image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 - section: 3
-  layout: 50-50-text
+  layout: 50-50
   column-1-body: "## Process\n\nWe collected user data from various people within
     the TalentNeuron organization and used it to determine what exactly users were
     having difficulty with in regards to RecruiterNeuron's search experience. \n\nFundamentally,
@@ -62,7 +62,7 @@ sections:
     location selection secondary."
   column-2-body: " "
 - section: 
-  layout: 50-50-image
+  layout: 50-50
   image: 
   image-alt: 
   image-caption-body: 
@@ -71,7 +71,7 @@ sections:
   image-2: 
   image-2-alt: 
 - section: 4
-  layout: 50-50-image
+  layout: 50-50
   column-1-body: 
   column-2-body: 
   image-1: "/uploads/rn_original_graphs-1.png"
@@ -79,7 +79,7 @@ sections:
   image-2: "/uploads/rn_original_graphs-2.png"
   image-2-alt: Provide Alt Text
 - section: 5
-  layout: 50-50-text
+  layout: 50-50
   image-1: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-1-alt: Provide Provide Alt Text
   image-2: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
@@ -92,7 +92,7 @@ sections:
     Once we were confident with the initial solutions we prototyped, we ran user tests with the team. We went through several rounds of iterations to fine-tune the search's functionality and identified any other concerns that might come from our users. When we finalized the prototype, we began designing the user interface along with the new data visualizations and prepped it for development.
   column-2-body: " "
 - section: 6
-  layout: 50-50-image
+  layout: 50-50
   column-1-body: 
   column-2-body: 
   image-1: "/uploads/rn_search.png"
@@ -100,7 +100,7 @@ sections:
   image-2: "/uploads/rn_search-example.png"
   image-2-alt: Provide Provide Alt Text
 - section: 
-  layout: 50-50-image
+  layout: 50-50
   column-1-body: 
   column-2-body: 
   image: 
@@ -111,7 +111,7 @@ sections:
   image-2: 
   image-2-alt: 
 - section: 7
-  layout: 50-50-text
+  layout: 50-50
   image: 
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
@@ -124,7 +124,7 @@ sections:
     Thankfully, we were able to address this issue quickly by pushing the changes during the next sprint cycle. This event was a tremendous learning experience for the team and brought to light how much we needed a research practice to understand the full scope of our users' needs. In the coming months, we built out that research practice and began interviewing users regularly. Our process became stronger and more attentive to our users, creating experiences that served them better from the start.
   column-2-body: " "
 - section: 
-  layout: 50-50-image
+  layout: 50-50
   image: 
   image-alt: 
   image-caption-body: 
@@ -133,7 +133,7 @@ sections:
   image-2: 
   image-2-alt: 
 - section: 
-  layout: 100-image-caption
+  layout: 100
   image: "/uploads/rn_full-page.png"
   image-alt: Provide Alt Text
   image-caption-body: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed

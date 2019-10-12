@@ -13,7 +13,7 @@ hero:
   image-alt: Provide Alt Text
 sections:
 - section: 1
-  layout: 50-50-text
+  layout: 50-50
   column-1-body: |-
     ### Problem
 
@@ -37,13 +37,13 @@ sections:
     * Developed official **personas** through the data collected during our user research
     * Used **Adobe InDesign** to create persona collateral for the team to use when developing features for the product
 - section: 2
-  layout: 100-image-caption
+  layout: 100
   image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 - section: 3
-  layout: 50-50-text
+  layout: 50-50
   column-1-body: |-
     ## Process
 
@@ -52,13 +52,13 @@ sections:
     The UX team dedicated a week to study our product and its users. This process included a variety of workshops and brainstorming sessions that helped guide conversations. We brought in colleagues from across the TalentNeuron organization who gave their input on our analysis based on their expertise within the business. They allowed us to address the concepts we overlooked and gave us a better understanding of what other factors could be affecting our users. Many of these experts were from our Product, Data Science, Customer Support, and Customer Service teams.
   column-2-body: " "
 - section: 4
-  layout: 50-50-image
+  layout: 50-50
   image-1: "/uploads/tp_wb_lifecycle-1.png"
   image-1-alt: Provide Alt Text
   image-2: "/uploads/tp_wb_lifecycle-2.png"
   image-2-alt: Provide Alt Text
 - section: 5
-  layout: 50-50-text
+  layout: 50-50
   column-1-body: When we were confident in the recruiting life cycle we outlined,
     we assigned a persona to each role responsible for a critical component of the
     framework. Throughout this identification process, we made sure to keep track
@@ -70,7 +70,7 @@ sections:
     needs.
   column-2-body: " "
 - section: 7
-  layout: 50-50-image
+  layout: 50-50
   column-1-body: 
   column-2-body: 
   image-1: "/uploads/tp_wb_business-examples.png"
@@ -78,13 +78,13 @@ sections:
   image-2: 
   image-2-alt: 
 - section: 6
-  layout: 50-50-image
+  layout: 50-50
   image-1: "/uploads/tp_wb_lola-summary.png"
   image-1-alt: Provide Alt Text
   image-2: "/uploads/tp_wb_sam-summary.png"
   image-2-alt: Provide Alt Text
 - section: 7
-  layout: 50-50-text
+  layout: 50-50
   column-1-body: |-
     The first proto-persona we chose to explore further was Lola the Location Optimizer (working title). We defined most of Lola's interactions in our platform around location-based questions: i.e., how much is this location going to cost, what are the demographics of the area, what is the population, and other like questions. We already encountered several users in previous user research sessions that fit her profile and her active presence in the platform identified her as a primary user. To learn more about Lola, we reached out to users who matched her profile and asked them questions. The goal of this was to gather data about how they work and what their goals and challenges were. We also walked them through user tests to identify any similar behaviors and thoughts that these users might have when completing a task for a goal. These exercises gave us direct insight into what their roles were within their organizations and what their workflows looked like. We would take this data and compare it to our proto-persona to determine its validity.
 
@@ -95,13 +95,13 @@ sections:
     While researching for Lola, we also looked to revalidate our already defined personas. We crafted questions for user interviews around our existing dataset to test if it was still representative of our users. Additionally, much like Lola, we walked them through user testing to evaluate behaviors and thought patterns while testing out future features for the platform. We found that many of the goals and needs outlined in our personas were still accurate, but some of their profile information needed to be updated. For example, we pinpointed that our recruiter persona was much more tech-savvy than previously identified.
   column-2-body: 
 - section: 
-  layout: 50-50-image
+  layout: 50-50
   image-1: "/uploads/tp_wb_lola-persona.png"
   image-1-alt: Provide Alt Text
   image-2: "/uploads/tp_wb_persona-posters.png"
   image-2-alt: Provide Alt Text
 - section: 11
-  layout: 50-50-text
+  layout: 50-50
   column-1-body: |-
     Moving forward with this process, we needed to remember that personas are living documents that should grow as our users develop, so we need to assess them regularly. The process was as follows:
     * Set aside time every quarter to reflect on our research

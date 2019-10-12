@@ -1,0 +1,26 @@
+{% for hero-content in page.hero %}
+<section class="grid grid-60-40">
+    <div class="grid-item" style="background-color: {{ page.background-color }};">
+        <div class="project-introduction">
+            <h1 class="project-title">
+                {{ hero-content.name }}
+            </h1>
+            <p class="project-name">
+                {{ hero-content.name }}
+            </p>
+            <p class="project-company">
+                {{ hero-content.company | append: "," }} {{ hero-content.year }}
+            </p>
+            <p class="project-description">
+                {{ hero-content.body | markdownify }}
+            </p>
+        </div>
+    </div>
+    <div class="grid-item">
+        <figure>
+            <img alt="{{ hero-content.image-alt }}" class="project-image" src="{{ hero-content.image }}">
+            </img>
+        </figure>
+    </div>
+</section>
+{% endfor %}

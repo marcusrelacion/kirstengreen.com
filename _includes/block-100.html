@@ -1,0 +1,13 @@
+{% if section.layout == '100' %}
+<section class="grid grid--100">
+    <div class="grid-item">
+        <figure class="photo-grid">
+            <img alt="{{ section.image-alt }}" src="{{ section.image }}">
+                <figcaption>
+                    {{ section.image-caption-body | markdownify  }}
+                </figcaption>
+            </img>
+        </figure>
+    </div>
+</section>
+{% endif %}

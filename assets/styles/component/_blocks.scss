@@ -5,13 +5,13 @@
 .grid:not(:first-of-type) {
     margin-top: 64px;
 }
-.grid--100-image-caption {
+.grid--100 {
     grid-template-columns: repeat(4, 1fr);
 }
-.grid--50-50-text, .grid--50-50-image {
+.grid--50-50, .grid--50-50 {
     grid-template-columns: repeat(2, 1fr);
 }
-.grid--60-40-text {
+.grid--60-40 {
     grid-template-columns: 6fr 4fr;
 }
 .listing {
@@ -30,7 +30,7 @@
     padding: 16px;
 }
 .project-title {
-    font-family: "Source Code Pro";
+    font-family: var(--mono);
     font-weight: 600;
     font-size: 32px;
     margin-bottom: 16px;

@@ -28,45 +28,45 @@ defaults:
       image-alt: Provide Alt Text
     sections:
     - section: 1
-      layout: 50-50-text
+      layout: 50-50
       column-1-body: 
       column-2-body: 
     - section: 2
-      layout: 100-image-caption
+      layout: 100
       image: 
       image-alt: Provide Alt Text
       image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit,
         sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     - section: 3
-      layout: 50-50-text
+      layout: 50-50
       column-1-body: 
       column-2-body: 
     - section: 4
-      layout: 50-50-image
+      layout: 50-50
       image-1: 
       image-1-alt: Provide Alt Text
       image-2: 
       image-2-alt: Provide Alt Text
     - section: 5
-      layout: 50-50-text
+      layout: 50-50
       column-1-body: 
       column-2-body: 
     - section: 6
-      layout: 50-50-image
+      layout: 50-50
       image-1: 
       image-1-alt: Provide Provide Alt Text
       image-2: 
       image-2-alt: Provide Provide Alt Text
     - section: 7
-      layout: 50-50-text
+      layout: 50-50
       column-1-body: 
       column-2-body: 
     - section: 
-      layout: 50-50-text
+      layout: 50-50
       column-1-body: 
       column-2-body: 
     - section: 
-      layout: 100-image-caption
+      layout: 100
       image: 
       image-alt: Provide Alt Text
       image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit,

@@ -18,9 +18,9 @@ body {
     /* Anchor links will transition rather than skip */
     scroll-behavior: smooth;
     /* Reset font size to 1rem, in case it has a pixel value */
-    font-size: 1rem;
+    font-size: 20px;
     font-weight: 400;
-    line-height: initial;
+    line-height: 1.6;
     min-height: 100vh;
 }
 /* Remove list styles on ul, ol elements with a class attribute */
@@ -55,7 +55,6 @@ input[type='search'] {
 img {
     max-width: 100%;
     display: block;
-    vertical-align: middle;
 }
 /* Remove _all_ animations and transitions for people that prefer not to see them */
 
