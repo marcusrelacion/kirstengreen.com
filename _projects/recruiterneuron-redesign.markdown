@@ -84,7 +84,7 @@ sections:
   column-2-body: "![Alt text](/uploads/rn_search-example.png)"
 - section: 
   layout: 50-50
-  column-1-body: "/uploads/rn_results-summary.png"
+  column-1-body: "![Alt text](/uploads/rn_results-summary.png)"
   column-2-body: 
 - section: 7
   layout: 50-50
