@@ -42,7 +42,6 @@ sections:
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  column-1-body: 
 - section: 3
   layout: 50-50
   column-1-body: "## Process\n\n1. I interpreted wireframes developed by a consultant
@@ -60,10 +59,6 @@ sections:
   layout: 50-50
 - section: 9
   layout: 100
-  image: "/uploads/db_full-page.png"
-  image-alt: Provide Alt Text
-  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 - section: 7
   layout: 50-50
 - layout: 50-50
