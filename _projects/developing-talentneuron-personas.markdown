@@ -53,10 +53,6 @@ sections:
   column-2-body: " "
 - section: 4
   layout: 50-50
-  image-1: "/uploads/tp_wb_lifecycle-1.png"
-  image-1-alt: Provide Alt Text
-  image-2: "/uploads/tp_wb_lifecycle-2.png"
-  image-2-alt: Provide Alt Text
 - section: 5
   layout: 50-50
   column-1-body: When we were confident in the recruiting life cycle we outlined,
@@ -69,21 +65,11 @@ sections:
     we needed to conduct user research and confirm that they align with the business'
     needs.
   column-2-body: " "
-- section: 7
-  layout: 50-50
-  column-1-body: 
-  column-2-body: 
-  image-1: "/uploads/tp_wb_business-examples.png"
-  image-1-alt: Provide Alt Text
-  image-2: 
-  image-2-alt: 
 - section: 6
   layout: 50-50
-  image-1: "/uploads/tp_wb_lola-summary.png"
-  image-1-alt: Provide Alt Text
-  image-2: "/uploads/tp_wb_sam-summary.png"
-  image-2-alt: Provide Alt Text
 - section: 7
+  layout: 50-50
+- section: 8
   layout: 50-50
   column-1-body: |-
     The first proto-persona we chose to explore further was Lola the Location Optimizer (working title). We defined most of Lola's interactions in our platform around location-based questions: i.e., how much is this location going to cost, what are the demographics of the area, what is the population, and other like questions. We already encountered several users in previous user research sessions that fit her profile and her active presence in the platform identified her as a primary user. To learn more about Lola, we reached out to users who matched her profile and asked them questions. The goal of this was to gather data about how they work and what their goals and challenges were. We also walked them through user tests to identify any similar behaviors and thoughts that these users might have when completing a task for a goal. These exercises gave us direct insight into what their roles were within their organizations and what their workflows looked like. We would take this data and compare it to our proto-persona to determine its validity.
@@ -93,14 +79,7 @@ sections:
     After looking at the research, we determined Lola's location focused use case valid and increased the importance of talent data needed within her process. We went through many iterations of her title initially and settled on Strategic Workforce Analyst due to her main goal: create a data-backed analysis that recommends the best locations to consider developing based on location, talent, and other factors.
 
     While researching for Lola, we also looked to revalidate our already defined personas. We crafted questions for user interviews around our existing dataset to test if it was still representative of our users. Additionally, much like Lola, we walked them through user testing to evaluate behaviors and thought patterns while testing out future features for the platform. We found that many of the goals and needs outlined in our personas were still accurate, but some of their profile information needed to be updated. For example, we pinpointed that our recruiter persona was much more tech-savvy than previously identified.
-  column-2-body: 
-- section: 
-  layout: 50-50
-  image-1: "/uploads/tp_wb_lola-persona.png"
-  image-1-alt: Provide Alt Text
-  image-2: "/uploads/tp_wb_persona-posters.png"
-  image-2-alt: Provide Alt Text
-- section: 11
+- section: 9
   layout: 50-50
   column-1-body: |-
     Moving forward with this process, we needed to remember that personas are living documents that should grow as our users develop, so we need to assess them regularly. The process was as follows:
