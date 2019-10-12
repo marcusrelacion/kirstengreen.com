@@ -7,12 +7,12 @@ primary:
 
 social:
   links:
-    - title: "Instagram"
-      href: "https://www.linkedin.com/in/greenkirsten/"
-      icon: <i class="fab fa-twitter-square"></i>
     - title: "LinkedIn"
       href: "https://www.linkedin.com/in/greenkirsten/"
       icon: <i class="fab fa-linkedin"></i>
     - title: "Twitter"
-      href: "https://twitter.com/kirstengreen_/"
+      href: "https://twitter.com/kirstengreen_"
       icon: <i class="fab fa-twitter-square"></i>
+    - title: "Instagram"
+      href: "https://www.instagram.com/artsbykae/"
+      icon: <i class="fab fa-instagram"></i>
