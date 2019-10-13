@@ -32,7 +32,7 @@ defaults:
       column-1-body: 
       column-2-body: 
     - section: 2
-      layout: 100
+      layout: full-width
       image: 
       image-alt: Provide Alt Text
       image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit,
@@ -62,7 +62,7 @@ defaults:
       column-1-body: 
       column-2-body: 
     - section: 
-      layout: 100
+      layout: full-width
       image: 
       image-alt: Provide Alt Text
       image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit,

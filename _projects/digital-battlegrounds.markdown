@@ -37,7 +37,7 @@ sections:
 
     * All proposed designs were created in **Photoshop CC**.
 - section: 2
-  layout: 100
+  layout: full-width
   image: "/uploads/db_close-up_on-load.png"
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
@@ -58,11 +58,11 @@ sections:
 - section: 6
   layout: 50-50
 - section: 9
-  layout: 100
+  layout: full-width
 - section: 7
   layout: 50-50
 - layout: 50-50
-- layout: 100
+- layout: full-width
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.

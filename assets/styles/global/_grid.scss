@@ -1,4 +1,7 @@
-
-.grid-20-80 {
-	grid-template-columns: 2fr 8fr;
+.grid--30-70 {
+    grid-template-columns: 3fr 7fr;
+}
+.methods-and-execution, .layout-resume .grid-item:nth-child(2) {
+    border-left: solid 2px var(--rajah);
+    padding-left: 32px;
 }

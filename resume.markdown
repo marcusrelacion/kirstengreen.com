@@ -4,6 +4,7 @@ sections:
 - column: left
   text: |-
     ## Skills
+
     * User Interface Design
     * User Experience Design
     * User Experience Research
@@ -24,7 +25,9 @@ sections:
     * Web Design
     * HTML5 and CSS3
     * Illustration
+
     ## Software
+
     * Adobe Creative Suite
     * Adobe Illustrator
     * Adobe Photoshop
@@ -44,7 +47,9 @@ sections:
     * Trello
     * Microsoft Suite
     * Proficient in MAC & PC environments
+
     ## Industry Knowledge
+    
     * Talent Management
 - column: right
   text: |-
@@ -52,6 +57,7 @@ sections:
 
     ### Gartner
     **UI/UX Designer**
+    
     *July 2016 - August 2018*
 
     During my time at Gartner, I worked on TalentNeuron, a leading talent analytics web application used by recruiters, talent analysts, and other HR professionals. As a UI/UX Designer on the team, I was an active part in all aspects of the Design Thinking process.

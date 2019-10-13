@@ -3,7 +3,7 @@
     <div class="grid-item">
         {{ section.column-1-body | markdownify }}
     </div>
-    <div class="grid-item">
+    <div class="grid-item {% if section.column-2-body contains 'Methods' %} methods-and-execution {% endif %}">
         {{ section.column-2-body | markdownify }}
     </div>
 </section>

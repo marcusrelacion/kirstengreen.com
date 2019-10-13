@@ -44,7 +44,7 @@ sections:
     * Designed accessible solutions in **Photoshop CC.**
     * Collaborated with multiple design teams to determine the best solution for each failed element and component outlined in the test results.
 - section: 3
-  layout: 100
+  layout: full-width
   image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
@@ -79,7 +79,7 @@ sections:
   column-2-body: " "
 - section: 8
   layout: 50-50
-- layout: 100
+- layout: full-width
   image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed

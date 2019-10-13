@@ -42,8 +42,8 @@ sections:
     - Designed the user interface in **Sketch.**
     - Shared designs with the development team in **Zeplin.io.**
     - Maintained and updated user stories in **Jira**.
-- section: 3
-  layout: 100
+- section: 2
+  layout: full-width
   image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
@@ -60,16 +60,16 @@ sections:
     The user had to begin with selecting a location before they could choose a role.
     That did not cover users that were more focused on a role-based search and considered
     location selection secondary."
-  column-2-body: " "
+  column-2-body: |-
 - section: 4
   layout: 50-50
   column-1-body: "![Alt text](/uploads/rn_original_search.png)"
   column-2-body: 
-- section: 4
+- section: 5
   layout: 50-50
   column-1-body: "![Alt text](/uploads/rn_original_graphs-1.png)"
   column-2-body: "![Alt text](/uploads/rn_original_graphs-2.png)"
-- section: 5
+- section: 6
   layout: 50-50
   column-1-body: |-
     With these findings, we knew that we needed to create a flexible search that worked with either location or role as the first input. We also wanted to make the selection process easier for the user by removing the dropdowns and replacing them with a search bar that had autosuggest functionality (or a <datalist> for development context). This would allow the user to quickly find what they need to search for by directly entering in their input.
@@ -77,8 +77,8 @@ sections:
     Throughout this process, UX, along with Product, collaborated with the development team to come up with solutions that were practical from a development perspective. For this project, in particular, we needed to include Development from the beginning. Since RecruiterNeuron was an older product and had a complex backend, we needed to fully understand what we were working with to make the most feasible solution for both the development team and our users.
 
     Once we were confident with the initial solutions we prototyped, we ran user tests with the team. We went through several rounds of iterations to fine-tune the search's functionality and identified any other concerns that might come from our users. When we finalized the prototype, we began designing the user interface along with the new data visualizations and prepped it for development.
-  column-2-body: " "
-- section: 6
+  column-2-body: |-
+- section: 7
   layout: 50-50
   column-1-body: "![Alt text](/uploads/rn_search.png)"
   column-2-body: "![Alt text](/uploads/rn_search-example.png)"
@@ -86,7 +86,7 @@ sections:
   layout: 50-50
   column-1-body: "![Alt text](/uploads/rn_results-summary.png)"
   column-2-body: 
-- section: 7
+- section: 8
   layout: 50-50
   image: 
   image-alt: Provide Alt Text
@@ -98,10 +98,10 @@ sections:
     We moved quickly to address this issue by allowing all options to show for the second item users would input in the search. For example, if a user inputs a location first, they would see all of the roles available for that location under the role input field. They would still be able to type in the field to narrow down their options if they wanted to see something specific.
 
     Thankfully, we were able to address this issue quickly by pushing the changes during the next sprint cycle. This event was a tremendous learning experience for the team and brought to light how much we needed a research practice to understand the full scope of our users' needs. In the coming months, we built out that research practice and began interviewing users regularly. Our process became stronger and more attentive to our users, creating experiences that served them better from the start.
-  column-2-body: " "
-- section: 
-  layout: 100
-  image: "/uploads/rn_full-page.png"
+  column-2-body: |-
+- section: 9
+  layout: full-width
+  image: "https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png"
   image-alt: Provide Alt Text
   image-caption-body: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua. '

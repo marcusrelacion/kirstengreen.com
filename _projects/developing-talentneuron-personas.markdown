@@ -37,7 +37,7 @@ sections:
     * Developed official **personas** through the data collected during our user research
     * Used **Adobe InDesign** to create persona collateral for the team to use when developing features for the product
 - section: 2
-  layout: 100
+  layout: full-width
   image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
