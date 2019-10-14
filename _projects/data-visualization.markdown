@@ -102,8 +102,8 @@ sections:
   column-2-body: " "
 - section: 
   layout: 
-  column-1-body: 
-  column-2-body: 
+  column-1-body: "![dv_graphs_top-skills.png](/uploads/dv_graphs_top-skills.png)"
+  column-2-body: "![dv_graphs_top-skills-details.png](/uploads/dv_graphs_top-skills-details.png)"
 - section: 
   layout: 
   column-1-body: 
