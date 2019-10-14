@@ -55,8 +55,12 @@ sections:
   column-2-body: " "
 - section: 4
   layout: 50-50
+  column-1-body: "![db_close-up_what-you-need.png](/uploads/db_close-up_what-you-need.png)"
+  column-2-body: "![db_close-up_client-experience.png](/uploads/db_close-up_client-experience.png)"
 - section: 6
   layout: 50-50
+  column-1-body: "![db_close-up_become-a-member.png](/uploads/db_close-up_become-a-member.png)"
+  column-2-body: "![db_close-up_decision-making-tools.png](/uploads/db_close-up_decision-making-tools.png)"
 - section: 9
   layout: full-width
 - section: 7
