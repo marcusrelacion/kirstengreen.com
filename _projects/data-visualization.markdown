@@ -69,12 +69,12 @@ sections:
     throughout this process explored both the functionality and basic look-and-feel
     of these widgets.
   column-2-body: " "
-- section: 
+- section: 6
   layout: 50-50
   column-1-body: "![dv_sketch-1.png](/uploads/dv_sketch-1.png)"
   column-2-body: "![dv_sketch-2.png](/uploads/dv_sketch-3.png)"
-- section: 
-  layout: 
+- section: 7
+  layout: 50-50
   column-1-body: "![dv_sketch-3.png](/uploads/dv_sketch-3.png)"
   column-2-body: "![dv_sketch-4.png](/uploads/dv_sketch-3.png)"
 - section: 6
@@ -86,6 +86,10 @@ sections:
     on how the data should be read or communicated and how complicated the build might
     be, which gave us insight on how long it would take to develop.
   column-2-body: 
+- section: 8
+  layout: 50-50
+  column-1-body: 
+  column-2-body: 
 - section: 7
   layout: 50-50
   column-1-body: |-
@@ -95,16 +99,14 @@ sections:
 
     Unfortunately, due to a restructuring of our product goals and timeline, many of the widgets we worked on did not get published on the platform right away. We saved them in our design and dev library so we could use them in the future. The major win for this was: when we identified a need for them, we were able to pull them out and test them with users as a part of the user research practice we built after this project. That enabled us to test our user experience and design firsthand with users and verify their effectiveness. It also allowed us to gather data on our users, which lead us to make more accurate hypotheses when creating widgets and other features for the product.
   column-2-body: " "
-- section: 8
-  layout: 50-50
+- section: 
+  layout: 
   column-1-body: 
   column-2-body: 
 - section: 
-  layout: full-width
-  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-alt: Provide Alt Text
-  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  layout: 
+  column-1-body: 
+  column-2-body: 
 - section: 
   layout: 
   column-1-body: 
