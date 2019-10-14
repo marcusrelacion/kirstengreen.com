@@ -63,7 +63,7 @@ sections:
   column-2-body: "![db_close-up_decision-making-tools.png](/uploads/db_close-up_decision-making-tools.png)"
 - section: 9
   layout: full-width
-  column-2-body: "![db_full-page.png](/uploads/db_full-page.png)"
+  column-1-body: "![db_full-page.png](/uploads/db_full-page.png)"
 - section: 7
   layout: 50-50
 - layout: 50-50
