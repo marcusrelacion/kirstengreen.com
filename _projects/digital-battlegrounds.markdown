@@ -61,11 +61,15 @@ sections:
   layout: 50-50
   column-1-body: "![db_close-up_become-a-member.png](/uploads/db_close-up_become-a-member.png)"
   column-2-body: "![db_close-up_decision-making-tools.png](/uploads/db_close-up_decision-making-tools.png)"
-- section: 9
-  layout: full-width
-  column-1-body: "![db_full-page.png](/uploads/db_full-page.png)"
 - section: 7
   layout: 50-50
 - layout: 50-50
+- layout: full-width
+  image: 
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- image: "/uploads/db_full-page.png"
+  image-alt: Provide alt text
 ---
 
