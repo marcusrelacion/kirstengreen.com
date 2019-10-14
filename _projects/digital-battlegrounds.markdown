@@ -71,5 +71,6 @@ sections:
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 - image: "/uploads/db_full-page.png"
   image-alt: Provide alt text
+  image-caption-body: Provide a caption
 ---
 
