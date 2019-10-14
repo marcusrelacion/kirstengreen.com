@@ -105,9 +105,13 @@ sections:
   column-1-body: "![dv_graphs_top-skills.png](/uploads/dv_graphs_top-skills.png)"
   column-2-body: "![dv_graphs_top-skills-details.png](/uploads/dv_graphs_top-skills-details.png)"
 - section: 
-  layout: 
-  column-1-body: 
-  column-2-body: 
+  layout: 50-50
+  column-1-body: "![dv_graphs_top-competition.png](/uploads/dv_graphs_top-competition.png)"
+  column-2-body: "![dv_graphs_top-competition-details.png](/uploads/dv_graphs_top-competition-details.png)"
+- section: 
+  layout: 50-50
+  column-1-body: "![dv_graphs_comp-job-trends.png](/uploads/dv_graphs_comp-job-trends.png)"
+  column-2-body: "![dv_graphs_diversity.png](/uploads/dv_graphs_diversity.png)"
 - section: 
   layout: 
   column-1-body: 
