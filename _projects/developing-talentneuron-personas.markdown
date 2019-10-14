@@ -53,6 +53,8 @@ sections:
   column-2-body: " "
 - section: 4
   layout: 50-50
+  column-1-body: "![tp_wb_lifecycle-1.png](/uploads/tp_wb_lifecycle-1.png)"
+  column-2-body: "![tp_wb_lifecycle-2.png](/uploads/tp_wb_lifecycle-2.png)"
 - section: 5
   layout: 50-50
   column-1-body: When we were confident in the recruiting life cycle we outlined,
@@ -67,8 +69,14 @@ sections:
   column-2-body: " "
 - section: 6
   layout: 50-50
+  column-1-body: "![tp_wb_lola-summary.png](/uploads/tp_wb_lola-summary.png)"
+  column-2-body: "![tp_wb_sam-summary.png](/uploads/tp_wb_sam-summary.png)"
 - section: 7
   layout: 50-50
+  column-1-body: "![tp_wb_business-examples.png](/uploads/tp_wb_business-examples.png)"
+- layout: 50-50
+  column-1-body: "![tp_wb_lola-persona.png](/uploads/tp_wb_lola-persona.png)"
+  column-2-body: "![tp_wb_persona-posters.png](/uploads/tp_wb_persona-posters.png)"
 - section: 8
   layout: 50-50
   column-1-body: |-
@@ -79,17 +87,6 @@ sections:
     After looking at the research, we determined Lola's location focused use case valid and increased the importance of talent data needed within her process. We went through many iterations of her title initially and settled on Strategic Workforce Analyst due to her main goal: create a data-backed analysis that recommends the best locations to consider developing based on location, talent, and other factors.
 
     While researching for Lola, we also looked to revalidate our already defined personas. We crafted questions for user interviews around our existing dataset to test if it was still representative of our users. Additionally, much like Lola, we walked them through user testing to evaluate behaviors and thought patterns while testing out future features for the platform. We found that many of the goals and needs outlined in our personas were still accurate, but some of their profile information needed to be updated. For example, we pinpointed that our recruiter persona was much more tech-savvy than previously identified.
-- section: 9
-  layout: 50-50
-  column-1-body: |-
-    Moving forward with this process, we needed to remember that personas are living documents that should grow as our users develop, so we need to assess them regularly. The process was as follows:
-    * Set aside time every quarter to reflect on our research
-    * Identify new data for our existing personas that needed further review, if any
-    * Identify if we needed to consider a new user type (proto-persona)
-    * Develop a research plan to verify and update our personas
-    * Distribute updated and new personas throughout the greater TalentNeuron organization
-
-    After every persona cycle, additional time would be spent to reflect on the process itself and identify any opportunities to improve it, whether it be to streamline the process more or add more data collection methods.
-  column-2-body: " "
+  column-2-body: 
 ---
 
