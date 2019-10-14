@@ -65,11 +65,7 @@ sections:
   layout: 50-50
 - layout: 50-50
 - layout: full-width
-  image: 
-  image-alt: Provide Alt Text
-  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- image: "/uploads/db_full-page.png"
+  image: "/uploads/db_full-page.png"
   image-alt: Provide alt text
   image-caption-body: Provide a caption
 ---
