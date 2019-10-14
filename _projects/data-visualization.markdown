@@ -56,8 +56,8 @@ sections:
   column-2-body: 
 - section: 4
   layout: 50-50
-  column-1-body: 
-  column-2-body: 
+  column-1-body: "![dv_wb_proto-persona.png](/uploads/dv_wb_proto-persona.png)"
+  column-2-body: "![dv_wb_use-cases.png](/uploads/dv_wb_use-cases.png)"
 - section: 5
   layout: 50-50
   column-1-body: The concepts we developed during our workshops gave us a clear idea
