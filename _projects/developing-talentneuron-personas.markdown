@@ -74,7 +74,7 @@ sections:
 - section: 7
   layout: 50-50
   column-1-body: "![tp_wb_business-examples.png](/uploads/tp_wb_business-examples.png)"
-  column-2-body: "> Descriptive text here"
+  column-2-body: "> Blockquote text here"
 - section: 8
   layout: 50-50
   column-1-body: |-
