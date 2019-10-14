@@ -117,8 +117,8 @@ sections:
   column-1-body: "![dv_graphs_comp-job-trends.png](/uploads/dv_graphs_comp-job-trends.png)"
   column-2-body: "![dv_graphs_diversity.png](/uploads/dv_graphs_diversity.png)"
 - section: 
-  layout: 
-  column-1-body: 
+  layout: 50-50
+  column-1-body: "![dv_graphs_talent-cost.png](/uploads/dv_graphs_talent-cost.png)"
   column-2-body: 
 ---
 
