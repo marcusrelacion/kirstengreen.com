@@ -72,11 +72,11 @@ sections:
 - section: 6
   layout: 50-50
   column-1-body: "![dv_sketch-1.png](/uploads/dv_sketch-1.png)"
-  column-2-body: "![dv_sketch-2.png](/uploads/dv_sketch-3.png)"
+  column-2-body: "![dv_sketch-2.png](/uploads/dv_sketch-2.png)"
 - section: 7
   layout: 50-50
   column-1-body: "![dv_sketch-3.png](/uploads/dv_sketch-3.png)"
-  column-2-body: "![dv_sketch-4.png](/uploads/dv_sketch-3.png)"
+  column-2-body: "![dv_sketch-4.png](/uploads/dv_sketch-4.png)"
 - section: 6
   layout: 50-50
   column-1-body: We shared all wireframes, prototypes, and other WIPs to the data
