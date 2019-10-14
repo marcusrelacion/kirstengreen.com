@@ -89,8 +89,12 @@ sections:
   column-2-body: 
 - section: 8
   layout: 50-50
-  column-1-body: 
-  column-2-body: 
+  column-1-body: "![dv_wf_search-summary.png](/uploads/dv_wf_search-summary.png)"
+  column-2-body: "![dv_wf_diversity.png](/uploads/dv_wf_diversity.png)"
+- section: 
+  layout: 50-50
+  column-1-body: "![dv_wf_talent-cost.png](/uploads/dv_wf_talent-cost.png)"
+  column-2-body: "> Blockquote text"
 - section: 7
   layout: 50-50
   column-1-body: |-
