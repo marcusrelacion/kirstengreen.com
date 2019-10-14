@@ -100,7 +100,7 @@ sections:
 - section: 
   layout: 50-50
   column-1-body: "![rn_search-dropdown-solution.png](/uploads/rn_search-dropdown-solution.png)"
-  column-2-body: 
+  column-2-body: "> Blockquote text here"
 - section: 
   layout: 50-50
   column-1-body: Thankfully, we were able to address this issue quickly by pushing
