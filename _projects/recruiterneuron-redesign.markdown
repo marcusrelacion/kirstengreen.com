@@ -64,7 +64,7 @@ sections:
 - section: 4
   layout: 50-50
   column-1-body: "![Alt text](/uploads/rn_original_search.png)"
-  column-2-body: 
+  column-2-body: "> Blockquote text here"
 - section: 5
   layout: 50-50
   column-1-body: "![Alt text](/uploads/rn_original_graphs-1.png)"
@@ -85,7 +85,7 @@ sections:
 - section: 
   layout: 50-50
   column-1-body: "![Alt text](/uploads/rn_results-summary.png)"
-  column-2-body: 
+  column-2-body: "> Blockquote text here"
 - section: 8
   layout: 50-50
   image: 
