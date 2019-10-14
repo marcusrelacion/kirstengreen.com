@@ -60,14 +60,31 @@ sections:
   column-2-body: 
 - section: 5
   layout: 50-50
-  column-1-body: |-
-    The concepts we developed during our workshops gave us a clear idea of what we needed to do for TalentNeuron. The data we used on the platform had to be displayed clearly. The UX and product teams worked together to create visualizations that best presented the data and made it easy to understand. These visualizations would be presented in a widget experience which allowed users to interact with and download the data when they needed to. The wireframes and prototypes created throughout this process explored both the functionality and basic look-and-feel of these widgets.
-
-    We shared all wireframes, prototypes, and other WIPs to the data science and development teams to discuss viability and usability. This process allowed us to get the OK before finalizing concepts because we got approval from the two teams essential to its development. It also allowed us to get expert advice on how the data should be read or communicated and how complicated the build might be, which gave us insight on how long it would take to develop.
+  column-1-body: The concepts we developed during our workshops gave us a clear idea
+    of what we needed to do for TalentNeuron. The data we used on the platform had
+    to be displayed clearly. The UX and product teams worked together to create visualizations
+    that best presented the data and made it easy to understand. These visualizations
+    would be presented in a widget experience which allowed users to interact with
+    and download the data when they needed to. The wireframes and prototypes created
+    throughout this process explored both the functionality and basic look-and-feel
+    of these widgets.
   column-2-body: " "
+- section: 
+  layout: 50-50
+  column-1-body: "![dv_sketch-1.png](/uploads/dv_sketch-1.png)"
+  column-2-body: "![dv_sketch-2.png](/uploads/dv_sketch-3.png)"
+- section: 
+  layout: 
+  column-1-body: "![dv_sketch-3.png](/uploads/dv_sketch-3.png)"
+  column-2-body: "![dv_sketch-4.png](/uploads/dv_sketch-3.png)"
 - section: 6
   layout: 50-50
-  column-1-body: 
+  column-1-body: We shared all wireframes, prototypes, and other WIPs to the data
+    science and development teams to discuss viability and usability. This process
+    allowed us to get the OK before finalizing concepts because we got approval from
+    the two teams essential to its development. It also allowed us to get expert advice
+    on how the data should be read or communicated and how complicated the build might
+    be, which gave us insight on how long it would take to develop.
   column-2-body: 
 - section: 7
   layout: 50-50
@@ -83,14 +100,14 @@ sections:
   column-1-body: 
   column-2-body: 
 - section: 
-  layout: 50-50
-  column-1-body: 
-  column-2-body: 
-- section: 
   layout: full-width
   image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- section: 
+  layout: 
+  column-1-body: 
+  column-2-body: 
 ---
 
