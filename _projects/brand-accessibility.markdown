@@ -74,12 +74,16 @@ sections:
   column-2-body: " "
 - section: 7
   layout: 50-50
-  column-1-body: "## Original"
-  column-2-body: "## Solution"
+  column-1-body: "### Original"
+  column-2-body: "### Solution"
 - section: 6
   layout: 50-50
   column-1-body: "![ba_original_form.png](/uploads/ba_original_form.png)"
   column-2-body: "![ba_solution_form.png](/uploads/ba_solution_form.png)"
+- section: 
+  layout: 
+  column-1-body: "### Original"
+  column-2-body: "### Solution"
 - section: 
   layout: 50-50
   column-1-body: "![ba_original_page-banner.png](/uploads/ba_original_page-banner.png)"
