@@ -78,8 +78,8 @@ sections:
   column-2-body: "## Solution"
 - section: 6
   layout: 50-50
-  column-1-body: 
-  column-2-body: 
+  column-1-body: "![ba_original_form.png](/uploads/ba_original_form.png)"
+  column-2-body: "![ba_solution_form.png](/uploads/ba_solution_form.png)"
 - section: 7
   layout: 50-50
   column-1-body: Towards the end of this project, we would pause progress due to the
