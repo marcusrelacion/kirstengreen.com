@@ -72,7 +72,7 @@ sections:
 
     Throughout this process, I collaborated with the rest of the design team to determine the best solution for each component. One of the biggest challenges was staying within CEB's established look-and-feel. A prevalent solution was to use a darker color which added weight to the design that was not present before. Working as a team, we picked and iterated on the best options that stayed as true to the brand as possible.
   column-2-body: " "
-- section: 
+- section: 7
   layout: 50-50
   column-1-body: "##Original"
   column-2-body: "##Solution"
@@ -88,11 +88,10 @@ sections:
     the redesign and went live several months later.
   column-2-body: " "
 - section: 
-  layout: full-width
-  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-alt: Provide Alt Text
-  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  layout: 
+  image: 
+  image-alt: 
+  image-caption-body: 
 - section: 
   layout: 
   column-1-body: 
