@@ -74,8 +74,8 @@ sections:
   column-2-body: " "
 - section: 7
   layout: 50-50
-  column-1-body: "##Original"
-  column-2-body: "##Solution"
+  column-1-body: "## Original"
+  column-2-body: "## Solution"
 - section: 6
   layout: 50-50
   column-1-body: 
