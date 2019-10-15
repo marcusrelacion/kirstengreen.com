@@ -59,6 +59,12 @@ sections:
   column-2-body: " "
 - section: 4
   layout: 50-50
+  column-1-body: "![ba_audit_ss-1.png](/uploads/ba_audit_ss-1.png)"
+  column-2-body: "![ba_audit_ss-2.png](/uploads/ba_audit_ss-2.png)"
+- section: 8
+  layout: 50-50
+  column-1-body: "![ba_audit_pdf-1.png](/uploads/ba_audit_pdf-1.png)"
+  column-2-body: "> Blockquote text"
 - section: 5
   layout: 50-50
   column-1-body: 'After the audit was complete, I started to work on solutions for
@@ -70,6 +76,8 @@ sections:
   column-2-body: " "
 - section: 6
   layout: 50-50
+  column-1-body: 
+  column-2-body: 
 - section: 7
   layout: 50-50
   column-1-body: |-
@@ -77,12 +85,15 @@ sections:
 
     Towards the end of this project, we would pause progress due to the call to completely redesign CEB's website. The work done for this project would not go to waste, however. Many of the concepts I developed were implemented in the redesign and went live several months later.
   column-2-body: " "
-- section: 8
-  layout: 50-50
-- layout: full-width
+- section: 
+  layout: full-width
   image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- section: 
+  layout: 
+  column-1-body: 
+  column-2-body: 
 ---
 
