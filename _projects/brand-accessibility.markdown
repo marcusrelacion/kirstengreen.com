@@ -67,12 +67,10 @@ sections:
   column-2-body: "> Blockquote text"
 - section: 5
   layout: 50-50
-  column-1-body: 'After the audit was complete, I started to work on solutions for
-    the failed designs. An example of a solution is: when we used a blue font that
-    did not provide enough contrast against a white background, we needed to either
-    make the text darker or change the background color. Most of our problems were
-    related to this particular issue. We also needed to consider how readable text
-    was when placed over an image with specific color overlays.'
+  column-1-body: |-
+    After the audit was complete, I started to work on solutions for the failed designs. An example of a solution is: when we used a blue font that did not provide enough contrast against a white background, we needed to either make the text darker or change the background color. Most of our problems were related to this particular issue. We also needed to consider how readable text was when placed over an image with specific color overlays.
+
+    Throughout this process, I collaborated with the rest of the design team to determine the best solution for each component. One of the biggest challenges was staying within CEB's established look-and-feel. A prevalent solution was to use a darker color which added weight to the design that was not present before. Working as a team, we picked and iterated on the best options that stayed as true to the brand as possible.
   column-2-body: " "
 - section: 6
   layout: 50-50
@@ -80,10 +78,10 @@ sections:
   column-2-body: 
 - section: 7
   layout: 50-50
-  column-1-body: |-
-    Throughout this process, I collaborated with the rest of the design team to determine the best solution for each component. One of the biggest challenges was staying within CEB's established look-and-feel. A prevalent solution was to use a darker color which added weight to the design that was not present before. Working as a team, we picked and iterated on the best options that stayed as true to brand as possible.
-
-    Towards the end of this project, we would pause progress due to the call to completely redesign CEB's website. The work done for this project would not go to waste, however. Many of the concepts I developed were implemented in the redesign and went live several months later.
+  column-1-body: Towards the end of this project, we would pause progress due to the
+    call to completely redesign CEB's website. The work done for this project would
+    not go to waste, however. Many of the concepts I developed were implemented in
+    the redesign and went live several months later.
   column-2-body: " "
 - section: 
   layout: full-width
