@@ -72,22 +72,30 @@ sections:
 
     Throughout this process, I collaborated with the rest of the design team to determine the best solution for each component. One of the biggest challenges was staying within CEB's established look-and-feel. A prevalent solution was to use a darker color which added weight to the design that was not present before. Working as a team, we picked and iterated on the best options that stayed as true to the brand as possible.
   column-2-body: " "
-- section: 7
-  layout: 50-50
-  column-1-body: "### Original"
-  column-2-body: "### Solution"
 - section: 6
   layout: 50-50
-  column-1-body: "![ba_original_form.png](/uploads/ba_original_form.png)"
-  column-2-body: "![ba_solution_form.png](/uploads/ba_solution_form.png)"
+  column-1-body: |-
+    ### Original
+
+    ![ba_original_form.png](/uploads/ba_original_form.png)
+  column-2-body: |-
+    ### Solution
+
+    ![ba_solution_form.png](/uploads/ba_solution_form.png)
+- section: 
+  layout: 50-50
+  column-1-body: |-
+    ### Original
+
+    ![ba_original_page-banner.png](/uploads/ba_original_page-banner.png)
+  column-2-body: |-
+    ### Solution
+
+    ![ba_solution_page-banner.png](/uploads/ba_solution_page-banner.png)
 - section: 
   layout: 50-50
   column-1-body: "### Original"
   column-2-body: "### Solution"
-- section: 
-  layout: 50-50
-  column-1-body: "![ba_original_page-banner.png](/uploads/ba_original_page-banner.png)"
-  column-2-body: "![ba_solution_page-banner.png](/uploads/ba_solution_page-banner.png)"
 - section: 7
   layout: 50-50
   column-1-body: Towards the end of this project, we would pause progress due to the
