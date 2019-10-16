@@ -75,11 +75,11 @@ sections:
 - section: 6
   layout: 50-50
   column-1-body: |-
-    ### Original Form
+    **Original Form**
 
     ![ba_original_form.png](/uploads/ba_original_form.png)
   column-2-body: |-
-    ### Form Solution
+    **Form Solution**
 
     ![ba_solution_form.png](/uploads/ba_solution_form.png)
 - section: 
@@ -89,21 +89,21 @@ sections:
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   column-1-body: |-
-    ### Original CTA Button
+    **Original CTA Button**
 
     ![ba_original_cta-buttons.png](/uploads/ba_original_cta-buttons.png)
   column-2-body: |-
-    ### CTA Button Solution
+    **CTA Button Solution**
 
     ![ba_solution_cta-buttons.png](/uploads/ba_solution_cta-buttons.png)
 - section: 
   layout: 50-50
   column-1-body: |-
-    ### Original Page Banner
+    **Original Page Banner**
 
     ![ba_original_page-banner.png](/uploads/ba_original_page-banner.png)
   column-2-body: |-
-    ### Page Banner Solution
+    **Page Banner Solution**
 
     ![ba_solution_page-banner.png](/uploads/ba_solution_page-banner.png)
 - section: 7
