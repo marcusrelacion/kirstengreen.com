@@ -1,6 +1,6 @@
 ---
 title: Brand Accessibility
-date: 2019-09-10 22:07:00 Z
+date: 2016-07-01 22:07:00 Z
 hero:
 - name: Brand Accessibility
   company: CEB, now Gartner
