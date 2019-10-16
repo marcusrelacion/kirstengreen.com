@@ -1,6 +1,6 @@
 ---
 title: Data Visualization
-date: 2019-09-12 20:33:00 Z
+date: 2017-08-01 00:00:00 Z
 hero:
 - name: Data Visualization
   company: Gartner
@@ -37,7 +37,7 @@ sections:
     - Designed the UI in **Sketch.**
     - Uploaded the UI to **Zeplin.io** so we could share design specs with the development team. We also used this platform as a communication tool for any questions concerning the design and its implementation.
     - Utilized **Jira** to keep track of story and sprint progress. This project spanned across many sprints and, true to Agile, additional requirements and design changes were added when we learned more about our users.
-- section: 
+- section: 2
   layout: full-width
   image: "/uploads/dv_graphs_top-skills-details.png"
   image-alt: Alt text
@@ -88,6 +88,10 @@ sections:
   column-2-body: 
 - section: 8
   layout: 50-50
+  image: 
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   column-1-body: "![dv_wf_search-summary.png](/uploads/dv_wf_search-summary.png)"
   column-2-body: "![dv_wf_diversity.png](/uploads/dv_wf_diversity.png)"
 - section: 
