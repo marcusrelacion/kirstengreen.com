@@ -1,6 +1,6 @@
 ---
 title: Digital Battlegrounds
-date: 2019-09-10 21:32:00 Z
+date: 2016-06-01 00:00:00 Z
 hero:
 - name: Digital Battlegrounds
   company: CEB, now Gartner
@@ -63,10 +63,15 @@ sections:
   column-2-body: "![db_close-up_decision-making-tools.png](/uploads/db_close-up_decision-making-tools.png)"
 - section: 7
   layout: 50-50
-- layout: 50-50
+- section: 7
+  layout: 50-50
 - layout: full-width
   image: "/uploads/db_full-page.png"
   image-alt: Provide alt text
   image-caption-body: Provide a caption
+- layout: full-width
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
 
