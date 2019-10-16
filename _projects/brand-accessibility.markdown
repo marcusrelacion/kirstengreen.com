@@ -1,6 +1,6 @@
 ---
 title: Brand Accessibility
-date: 2016-07-01 22:07:00 Z
+date: 2016-07-01 00:00:00 Z
 hero:
 - name: Brand Accessibility
   company: CEB, now Gartner
@@ -84,10 +84,6 @@ sections:
     ![ba_solution_form.png](/uploads/ba_solution_form.png)
 - section: 
   layout: 50-50
-  image: 
-  image-alt: Provide Alt Text
-  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   column-1-body: |-
     **Original CTA Button**
 
@@ -96,8 +92,16 @@ sections:
     **CTA Button Solution**
 
     ![ba_solution_cta-buttons.png](/uploads/ba_solution_cta-buttons.png)
+  image: 
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 - section: 
   layout: 50-50
+  image: 
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   column-1-body: |-
     **Original Page Banner and Secondary Navigation**
 
