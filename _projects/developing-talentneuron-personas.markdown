@@ -1,6 +1,6 @@
 ---
 title: Developing TalentNeuron Personas
-date: 2019-09-10 22:39:00 Z
+date: 2018-06-01 22:39:00 Z
 hero:
 - name: Developing TalentNeuron Personas
   company: Gartner
@@ -88,6 +88,10 @@ sections:
   column-2-body: 
 - section: 
   layout: 50-50
+  image: 
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   column-1-body: "![tp_wb_lola-persona.png](/uploads/tp_wb_lola-persona.png)"
   column-2-body: "![tp_wb_persona-posters.png](/uploads/tp_wb_persona-posters.png)"
 - section: 
