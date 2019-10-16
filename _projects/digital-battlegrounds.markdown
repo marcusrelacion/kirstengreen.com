@@ -1,7 +1,7 @@
 ---
 title: Digital Battlegrounds
 date: 2016-06-01 00:00:00 Z
-position: 2
+position: 3
 hero:
 - name: Digital Battlegrounds
   company: CEB, now Gartner

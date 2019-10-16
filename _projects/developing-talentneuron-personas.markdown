@@ -1,7 +1,7 @@
 ---
 title: Developing TalentNeuron Personas
 date: 2018-06-01 22:39:00 Z
-position: 3
+position: 0
 hero:
 - name: Developing TalentNeuron Personas
   company: Gartner
