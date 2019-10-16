@@ -74,11 +74,15 @@ sections:
   column-2-body: " "
 - section: 6
   layout: 50-50
-  column-1-body: |-
+  column-1-body: |2-
+
     **Original Form**
+
     ![ba_original_form.png](/uploads/ba_original_form.png)
-  column-2-body: |-
+  column-2-body: |2-
+
     **Form Solution**
+
     ![ba_solution_form.png](/uploads/ba_solution_form.png)
 - section: 
   layout: 50-50
@@ -86,21 +90,25 @@ sections:
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  column-1-body: |-
+  column-1-body: |2-
+
     **Original CTA Button**
 
     ![ba_original_cta-buttons.png](/uploads/ba_original_cta-buttons.png)
-  column-2-body: |-
+  column-2-body: |2-
+
     **CTA Button Solution**
 
     ![ba_solution_cta-buttons.png](/uploads/ba_solution_cta-buttons.png)
 - section: 
   layout: 50-50
-  column-1-body: |-
+  column-1-body: |2-
+
     **Original Page Banner**
 
     ![ba_original_page-banner.png](/uploads/ba_original_page-banner.png)
-  column-2-body: |-
+  column-2-body: |2-
+
     **Page Banner Solution**
 
     ![ba_solution_page-banner.png](/uploads/ba_solution_page-banner.png)
