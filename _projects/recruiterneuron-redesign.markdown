@@ -1,6 +1,7 @@
 ---
 title: RecruiterNeuron Redesign
 date: 2017-12-01 00:00:00 Z
+position: 0
 hero:
 - name: RecruiterNeuron Redesign
   company: Gartner
