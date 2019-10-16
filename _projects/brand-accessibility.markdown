@@ -75,27 +75,31 @@ sections:
 - section: 6
   layout: 50-50
   column-1-body: |-
-    ### Original
+    ### Original Form
 
     ![ba_original_form.png](/uploads/ba_original_form.png)
   column-2-body: |-
-    ### Solution
+    ### Form Solution
 
     ![ba_solution_form.png](/uploads/ba_solution_form.png)
 - section: 
   layout: 50-50
   column-1-body: |-
-    ### Original
+    ### Original Page Banner
 
     ![ba_original_page-banner.png](/uploads/ba_original_page-banner.png)
   column-2-body: |-
-    ### Solution
+    ### Page Banner Solution
 
     ![ba_solution_page-banner.png](/uploads/ba_solution_page-banner.png)
 - section: 
   layout: 50-50
-  column-1-body: "### Original"
-  column-2-body: "### Solution"
+  image: 
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  column-1-body: "### Original Secondary Navigation"
+  column-2-body: "### Secondary Navigation Solution"
 - section: 7
   layout: 50-50
   column-1-body: Towards the end of this project, we would pause progress due to the
