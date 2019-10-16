@@ -99,11 +99,11 @@ sections:
 - section: 
   layout: 50-50
   column-1-body: |-
-    **Original Page Banner**
+    **Original Page Banner and Secondary Navigation**
 
     ![ba_original_page-banner.png](/uploads/ba_original_page-banner.png)
   column-2-body: |-
-    **Page Banner Solution**
+    **Page Banner and Secondary Navigation Solution**
 
     ![ba_solution_page-banner.png](/uploads/ba_solution_page-banner.png)
 - section: 7
