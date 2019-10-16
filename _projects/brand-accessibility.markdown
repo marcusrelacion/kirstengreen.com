@@ -76,11 +76,9 @@ sections:
   layout: 50-50
   column-1-body: |-
     **Original Form**
-
     ![ba_original_form.png](/uploads/ba_original_form.png)
   column-2-body: |-
     **Form Solution**
-
     ![ba_solution_form.png](/uploads/ba_solution_form.png)
 - section: 
   layout: 50-50
