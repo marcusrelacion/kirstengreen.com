@@ -23,11 +23,11 @@
 }
 .photo-grid figcaption {
     padding: 32px;
-    grid-column: 6/9;
+    grid-column: 5/9;
     grid-row: 2/4;
-    background-color: white;
-    border-right: solid 4px var(--rajah);
-    border-bottom: solid 4px var(--rajah);
+    background-color: var(--concrete);
+    border-right: solid 4px var(--oxford-blue);
+    border-bottom: solid 4px var(--oxford-blue);
     align-self: center;
 }
 .grid--50-50, .grid--50-50 {
