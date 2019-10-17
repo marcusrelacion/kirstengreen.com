@@ -44,13 +44,6 @@ sections:
     * Documented the results in a **Google Spreadsheet**.
     * Designed accessible solutions in **Photoshop CC.**
     * Collaborated with multiple design teams to determine the best solution for each failed element and component outlined in the test results.
-- section: 3
-  layout: full-width
-  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-alt: Provide Alt Text
-  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  column-1-body: 
 - section: 5
   layout: 50-50
   column-1-body: |-
@@ -97,6 +90,10 @@ sections:
     ![button design solution](/uploads/ba_solution_cta-buttons.png)
 - section: 
   layout: 50-50
+  image: 
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   column-1-body: |-
     **Original Page Banner and Secondary Navigation**
 
