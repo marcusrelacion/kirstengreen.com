@@ -2,7 +2,8 @@
 layout: default
 ---
 <ul class="listing listing__project-cards">
-    {% for post in site.projects %}
+    {% assign projects = site.projects | reverse %}
+    {% for post in projects %}
     <li class="card">
         <div class="card__content">
             <div class="card__body">
