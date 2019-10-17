@@ -27,6 +27,9 @@ ul, ol {
     margin-left: 24px;
     margin-bottom: 24px;
 }
+::marker {
+    color: var(--oxford-blue);
+}
 h1, h2, h3, h4, h5, h6 {
     color: var(--oxford-blue);
     font-family: var(--mono);
