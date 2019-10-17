@@ -17,6 +17,12 @@
 .bold {
     font-style: strong;
 }
+blockquote {
+    border-left: solid 4px var(--oxford-blue);
+    padding-left: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
 ul, ol {
     margin-left: 24px;
     margin-bottom: 24px;
