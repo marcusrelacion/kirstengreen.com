@@ -13,36 +13,29 @@ hero:
 sections:
 - section: 1
   layout: 50-50
-  column-1-body: |+
+  column-1-body: |-
     ### Problem
 
     The CMS templates used for CEB's global website were great for sharing data and information but not optimized for promoting and selling products.
 
     ### Solution
 
-
-
-
     Create a template geared towards marketing products that would retain content control through our CMS so the marketing team could update pages whenever needed without the help of the web design team.
 
     ### My Role
 
-
-
-
     I designed a CMS template that could be utilized across multiple products.
-
   column-2-body: |-
     ### Methods and Execution
     *Web Design*
 
     * All proposed designs were created in **Photoshop CC**.
-- section: 2
-  layout: full-width
+- layout: full-width
   image: "/uploads/db_close-up_on-load.png"
-  image-alt: Provide Alt Text
-  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image-alt: web page header design
+  image-caption-body: This new web page design offered more space for its content
+    than most of the traditional CEB template pages, giving it more readability and
+    flexibility for content creation.
 - section: 3
   layout: 50-50
   column-1-body: "## Process\n\n1. I interpreted wireframes developed by a consultant
@@ -56,16 +49,16 @@ sections:
   column-2-body: " "
 - section: 4
   layout: 50-50
-  column-1-body: "![db_close-up_what-you-need.png](/uploads/db_close-up_what-you-need.png)"
-  column-2-body: "![db_close-up_client-experience.png](/uploads/db_close-up_client-experience.png)"
+  column-1-body: "![what you need design](/uploads/db_close-up_what-you-need.png)"
+  column-2-body: "![client experience design](/uploads/db_close-up_client-experience.png)"
 - section: 6
   layout: 50-50
-  column-1-body: "![db_close-up_become-a-member.png](/uploads/db_close-up_become-a-member.png)"
-  column-2-body: "![db_close-up_decision-making-tools.png](/uploads/db_close-up_decision-making-tools.png)"
+  column-1-body: "![become a member design](/uploads/db_close-up_become-a-member.png)"
+  column-2-body: "![decision making tools design](/uploads/db_close-up_decision-making-tools.png)"
 - layout: full-width
   image: "/uploads/db_full-page.png"
-  image-alt: Provide alt text
-  image-caption-body: Provide a caption
+  image-alt: 'full web page design '
+  image-caption-body: 
 - image: 
   image-alt: 
   image-caption-body: 
