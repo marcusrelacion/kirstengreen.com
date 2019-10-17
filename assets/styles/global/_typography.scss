@@ -40,6 +40,9 @@ h3 {
     font-weight: 700;
     margin-bottom: 8px;
 }
+p:not(:last-child) {
+    margin-bottom: 24px;
+}
 @media screen and (min-width: 1023px) {
     .heading-1 {
         font-size: 32px;

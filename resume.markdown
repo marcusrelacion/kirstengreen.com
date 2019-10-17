@@ -57,7 +57,7 @@ sections:
 
     ### Gartner
     **UI/UX Designer**
-
+    
     *July 2016 - August 2018*
 
     During my time at Gartner, I worked on TalentNeuron, a leading talent analytics web application used by recruiters, talent analysts, and other HR professionals. As a UI/UX Designer on the team, I was an active part in all aspects of the Design Thinking process.
