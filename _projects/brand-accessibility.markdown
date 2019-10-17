@@ -44,6 +44,11 @@ sections:
     * Documented the results in a **Google Spreadsheet**.
     * Designed accessible solutions in **Photoshop CC.**
     * Collaborated with multiple design teams to determine the best solution for each failed element and component outlined in the test results.
+- section: 
+  layout: 
+  image: 
+  image-alt: 
+  image-caption-body: 
 - section: 5
   layout: 50-50
   column-1-body: |-
@@ -111,12 +116,12 @@ sections:
   column-2-body: " "
 - section: 
   layout: 
+  column-1-body: 
+  column-2-body: 
+- section: 
+  layout: 
   image: 
   image-alt: 
   image-caption-body: 
-- section: 
-  layout: 
-  column-1-body: 
-  column-2-body: 
 ---
 
