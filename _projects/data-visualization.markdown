@@ -38,12 +38,11 @@ sections:
     - Designed the UI in **Sketch.**
     - Uploaded the UI to **Zeplin.io** so we could share design specs with the development team. We also used this platform as a communication tool for any questions concerning the design and its implementation.
     - Utilized **Jira** to keep track of story and sprint progress. This project spanned across many sprints and, true to Agile, additional requirements and design changes were added when we learned more about our users.
-- section: 2
-  layout: full-width
+- section: 
+  layout: 
   image: 
-  image-alt: Provide Alt Text
-  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image-alt: 
+  image-caption-body: 
 - section: 3
   layout: 50-50
   column-1-body: "## Process\n\nTo kick-off this data visualization project, the UX
@@ -127,5 +126,10 @@ sections:
   layout: 
   column-1-body: 
   column-2-body: 
+- section: 
+  layout: 
+  image: 
+  image-alt: 
+  image-caption-body: 
 ---
 
