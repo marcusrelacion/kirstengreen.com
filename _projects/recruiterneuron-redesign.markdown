@@ -83,10 +83,6 @@ sections:
   layout: 50-50
   column-1-body: "![new search design](/uploads/rn_search.png)"
   column-2-body: "![new search example](/uploads/rn_search-example.png)"
-- section: 
-  layout: 50-50
-  column-1-body: "![results summary design](/uploads/rn_results-summary.png)"
-  column-2-body: "> Blockquote text here"
 - section: 8
   layout: 50-50
   column-1-body: |-
