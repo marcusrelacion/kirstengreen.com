@@ -37,12 +37,11 @@ sections:
     * Conducted **user research** to validate our proto-personas
     * Developed official **personas** through the data collected during our user research
     * Used **Adobe InDesign** to create persona collateral for the team to use when developing features for the product
-- section: 2
-  layout: full-width
-  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-alt: Provide Alt Text
-  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- section: 
+  layout: 
+  image: 
+  image-alt: 
+  image-caption-body: 
 - section: 3
   layout: 50-50
   column-1-body: |-
@@ -54,8 +53,8 @@ sections:
   column-2-body: " "
 - section: 4
   layout: 50-50
-  column-1-body: "![tp_wb_lifecycle-1.png](/uploads/tp_wb_lifecycle-1.png)"
-  column-2-body: "![tp_wb_lifecycle-2.png](/uploads/tp_wb_lifecycle-2.png)"
+  column-1-body: "![recruiting lifecycle](/uploads/tp_wb_lifecycle-1.png)"
+  column-2-body: "![recruiting lifecycle](/uploads/tp_wb_lifecycle-2.png)"
 - section: 5
   layout: 50-50
   column-1-body: When we were confident in the recruiting life cycle we outlined,
@@ -70,11 +69,11 @@ sections:
   column-2-body: " "
 - section: 6
   layout: 50-50
-  column-1-body: "![tp_wb_lola-summary.png](/uploads/tp_wb_lola-summary.png)"
-  column-2-body: "![tp_wb_sam-summary.png](/uploads/tp_wb_sam-summary.png)"
+  column-1-body: "![lola proto-persona summary](/uploads/tp_wb_lola-summary.png)"
+  column-2-body: "![sam proto-persona summary](/uploads/tp_wb_sam-summary.png)"
 - section: 7
   layout: 50-50
-  column-1-body: "![tp_wb_business-examples.png](/uploads/tp_wb_business-examples.png)"
+  column-1-body: "![persona business cases](/uploads/tp_wb_business-examples.png)"
   column-2-body: "> Blockquote text here"
 - section: 8
   layout: 50-50
@@ -89,12 +88,8 @@ sections:
   column-2-body: 
 - section: 
   layout: 50-50
-  image: 
-  image-alt: Provide Alt Text
-  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  column-1-body: "![tp_wb_lola-persona.png](/uploads/tp_wb_lola-persona.png)"
-  column-2-body: "![tp_wb_persona-posters.png](/uploads/tp_wb_persona-posters.png)"
+  column-1-body: "![lola persona](/uploads/tp_wb_lola-persona.png)"
+  column-2-body: "![persona collateral](/uploads/tp_wb_persona-posters.png)"
 - section: 
   layout: 50-50
   column-1-body: |-
@@ -108,5 +103,10 @@ sections:
 
     After every persona cycle, additional time would be spent to reflect on the process itself and identify any opportunities to improve it, whether it be to streamline the process more or add more data collection methods.
   column-2-body: 
+- section: 
+  layout: 
+  image: 
+  image-alt: 
+  image-caption-body: 
 ---
 
