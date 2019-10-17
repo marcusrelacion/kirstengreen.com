@@ -60,12 +60,14 @@ sections:
   column-2-body: " "
 - section: 4
   layout: 50-50
-  column-1-body: "![ba_audit_ss-1.png](/uploads/ba_audit_ss-1.png)"
-  column-2-body: "![ba_audit_ss-2.png](/uploads/ba_audit_ss-2.png)"
+  column-1-body: "![audit results spreadsheet](/uploads/ba_audit_ss-1.png)"
+  column-2-body: "![audit results spreadsheet](/uploads/ba_audit_ss-2.png)"
 - section: 8
   layout: 50-50
-  column-1-body: "![ba_audit_pdf-1.png](/uploads/ba_audit_pdf-1.png)"
-  column-2-body: "> Blockquote text"
+  column-1-body: "![audit results pdf](/uploads/ba_audit_pdf-1.png)"
+  column-2-body: "> The design audit required a few different types of documentation.
+    A spreadsheet was created to be an aggregate for all the tests and provide quick
+    access to the results. Various pdfs were created to document the assessment details."
 - section: 5
   layout: 50-50
   column-1-body: |-
@@ -78,39 +80,31 @@ sections:
   column-1-body: |-
     **Original Form**
 
-    ![ba_original_form.png](/uploads/ba_original_form.png)
+    ![original form design](/uploads/ba_original_form.png)
   column-2-body: |-
     **Form Solution**
 
-    ![ba_solution_form.png](/uploads/ba_solution_form.png)
+    ![form design solution](/uploads/ba_solution_form.png)
 - section: 
   layout: 50-50
   column-1-body: |-
     **Original CTA Button**
 
-    ![ba_original_cta-buttons.png](/uploads/ba_original_cta-buttons.png)
+    ![original button design](/uploads/ba_original_cta-buttons.png)
   column-2-body: |-
     **CTA Button Solution**
 
-    ![ba_solution_cta-buttons.png](/uploads/ba_solution_cta-buttons.png)
-  image: 
-  image-alt: Provide Alt Text
-  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    ![button design solution](/uploads/ba_solution_cta-buttons.png)
 - section: 
   layout: 50-50
-  image: 
-  image-alt: Provide Alt Text
-  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   column-1-body: |-
     **Original Page Banner and Secondary Navigation**
 
-    ![ba_original_page-banner.png](/uploads/ba_original_page-banner.png)
+    ![original page banner design](/uploads/ba_original_page-banner.png)
   column-2-body: |-
     **Page Banner and Secondary Navigation Solution**
 
-    ![ba_solution_page-banner.png](/uploads/ba_solution_page-banner.png)
+    ![page banner design solution](/uploads/ba_solution_page-banner.png)
 - section: 7
   layout: 50-50
   column-1-body: Towards the end of this project, we would pause progress due to the
