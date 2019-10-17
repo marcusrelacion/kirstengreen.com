@@ -1,45 +1,59 @@
-.cards {
+.card {
     display: grid;
     grid-gap: 24px;
-    padding: 48px 0;
-}
-.card-introduction {
-    border-left: solid 4px var(--oxford-blue);
-    padding: 16px;
-    margin-bottom: 16px;
-    margin-left: 16px;
-    margin-top: -24px;
-}
-.card-title {
-    font-family: var(--mono);
-    font-weight: 600;
-    font-size: 32px;
-    margin-bottom: 16px;
-}
-.card-name {
-    font-weight: bold;
-    font-size: 16px;
-}
-.card-company {
-    font-size: 16px;
-    font-style: italic;
-    margin-bottom: 16px;
-}
-.card-description {
-    padding-bottom: 16px;
-}
-.card-image {
-    border-right: solid 4px var(--oxford-blue);
-    border-bottom: solid 4px var(--oxford-blue);
-    margin-bottom: 0 16px 16px 0;
-}
-
-.block-grid__split-50-50 .block-grid-item {
-    align-self: center;
-}
-@media screen and (min-width: 1023px) {
-    .cards {
-        display: grid;
-        grid-gap: 64px;
+    grid-template-columns: 4fr 2fr;
+    grid-template-rows: minmax(320px, 1fr);
+    &__content {
+        background-color: var(--concrete);
     }
+    &__body {
+        border-left: solid 4px var(--oxford-blue);
+        padding: 0 24px;
+        margin-bottom: 24px;
+        margin-left: 24px;
+        margin-top: -24px;
+    }
+    &__title {
+        font-family: var(--mono);
+        font-weight: 600;
+        font-size: 32px;
+        margin-bottom: 16px;
+    }
+    &__name {
+        font-weight: bold;
+        font-size: 16px;
+    }
+    &__company {
+        font-size: 16px;
+        font-style: italic;
+        margin-bottom: 16px;
+    }
+    &__description {
+        padding-bottom: 56px;
+    }
+    &__anchor {}
+    &__image {
+        position: relative;
+    }
+    &__image::before, &__image::after {
+        content: '';
+        position: absolute;
+        bottom: -24px;
+        right: -24px;
+        background-color: var(--oxford-blue);
+    }
+    &__image::before {
+        width: 4px;
+        top: 0;
+    }
+    &__image::after {
+        height: 4px;
+        left: 0;
+    }
+}
+.layout-post .card {
+    grid-template-rows: minmax(288px, 1fr);
+}
+.layout-post .card__description {
+    padding-bottom: 16px;
 }

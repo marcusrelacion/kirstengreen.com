@@ -1,22 +1,33 @@
 ---
 layout: default
 ---
-
-<ul class="listing listing--projects">
+<ul class="listing listing__project-cards">
     {% for post in site.projects %}
-    <li class="listing__project">
-        <div class="project-details">
-            <h1 class="project-title">
-                {{ post.title }}
-            </h1>
-            <p class="project-description">
-                {{ post.description }}
-            </p>
-            <a class="project-link button button__solid button__solid--secondary" href="{{ post.url }}">
-                View project 
-            </a>
+    <li class="card">
+        <div class="card__content">
+            <div class="card__body">
+                {% for hero-content in post.hero %}
+                <h1 class="card__title">
+                    {{ hero-content.name }}
+                </h1>
+                {% if page.layout == 'post' %}
+                <p class="card__name">
+                    {{ hero-content.name }}
+                </p>
+                <p class="card__company">
+                    {{ hero-content.company | append: "," }} {{ hero-content.year }}
+                </p>
+                {% endif %}
+                <div class="card__description wysiwyg">
+                    {{ hero-content.body | markdownify }}
+                </div>
+                {% endfor %}
+                <a class="card__anchor button button__solid button__solid--secondary" href="{{ post.url }}">
+                    View project
+                </a>
+            </div>
         </div>
-        <div class="project-image" style="background-image: url('/uploads/test-image.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+        <div class="card__image" style="background-image: url('/uploads/test-image.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
         </div>
     </li>
     {% endfor %}

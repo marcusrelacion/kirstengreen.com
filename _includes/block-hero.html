@@ -1,26 +1,34 @@
 {% for hero-content in page.hero %}
 <section class="grid grid-60-40">
-    <div class="grid-item" style="background-color: {{ page.background-color }};">
-        <div class="project-introduction">
-            <h1 class="project-title">
-                {{ hero-content.name }}
-            </h1>
-            <p class="project-name">
-                {{ hero-content.name }}
-            </p>
-            <p class="project-company">
-                {{ hero-content.company | append: "," }} {{ hero-content.year }}
-            </p>
-            <p class="project-description">
-                {{ hero-content.body | markdownify }}
-            </p>
+    <div class="card">
+        <div class="card__content">
+            <div class="card__body">
+                {% for hero-content in page.hero %}
+                    <h1 class="card__title">
+                        {{ hero-content.name }}
+                    </h1>
+                    {% if page.layout == 'post' %}
+                        <p class="card__name">
+                            {{ hero-content.name }}
+                        </p>
+                        <p class="card__company">
+                            {{ hero-content.company | append: "," }} {{ hero-content.year }}
+                        </p>
+                    {% endif %}
+                    <div class="card__description wysiwyg">
+                        {{ hero-content.body | markdownify }}
+                    </div>
+                {% endfor %}
+
+                {% if page.layout == "home" %}
+                    <a class="card__anchor button button__solid button__solid--secondary" href="{{ page.url }}">
+                        View project
+                    </a>
+                {% endif %}
+            </div>
         </div>
-    </div>
-    <div class="grid-item">
-        <figure>
-            <img alt="{{ hero-content.image-alt }}" class="project-image" src="{{ hero-content.image }}">
-            </img>
-        </figure>
+        <div class="card__image" style="background-image: url('/uploads/test-image.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+        </div>
     </div>
 </section>
 {% endfor %}
