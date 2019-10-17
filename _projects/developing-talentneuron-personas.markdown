@@ -74,7 +74,9 @@ sections:
 - section: 7
   layout: 50-50
   column-1-body: "![persona business cases](/uploads/tp_wb_business-examples.png)"
-  column-2-body: "> Blockquote text here"
+  column-2-body: "> In this exercise, we explored how our personas would work through
+    certain business cases and identified key data points they might need to acquire
+    to create a strong narrative and talent strategy for the business."
 - section: 8
   layout: 50-50
   column-1-body: |-
