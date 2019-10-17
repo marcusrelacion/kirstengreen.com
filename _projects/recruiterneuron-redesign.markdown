@@ -64,12 +64,12 @@ sections:
   column-2-body: 
 - section: 4
   layout: 50-50
-  column-1-body: "![Alt text](/uploads/rn_original_search.png)"
+  column-1-body: "![original search](/uploads/rn_original_search.png)"
   column-2-body: "> Blockquote text here"
 - section: 5
   layout: 50-50
-  column-1-body: "![Alt text](/uploads/rn_original_graphs-1.png)"
-  column-2-body: "![Alt text](/uploads/rn_original_graphs-2.png)"
+  column-1-body: "![original graphs](/uploads/rn_original_graphs-1.png)"
+  column-2-body: "![original graphs](/uploads/rn_original_graphs-2.png)"
 - section: 6
   layout: 50-50
   column-1-body: |-
@@ -81,18 +81,14 @@ sections:
   column-2-body: 
 - section: 7
   layout: 50-50
-  column-1-body: "![Alt text](/uploads/rn_search.png)"
-  column-2-body: "![Alt text](/uploads/rn_search-example.png)"
+  column-1-body: "![new search design](/uploads/rn_search.png)"
+  column-2-body: "![new search example](/uploads/rn_search-example.png)"
 - section: 
   layout: 50-50
-  column-1-body: "![Alt text](/uploads/rn_results-summary.png)"
+  column-1-body: "![results summary design](/uploads/rn_results-summary.png)"
   column-2-body: "> Blockquote text here"
 - section: 8
   layout: 50-50
-  image: 
-  image-alt: Provide Alt Text
-  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   column-1-body: |-
     After we launched the new RecruiterNeuron experience, many of our users were ecstatic for the update and received it well. There was, however, a section of our userbase that used the search experience in a way that we did not initially identify and the update completely broke their use case. These users would select a location and then run a search for every role available for that location. That meant these users used the dropdowns to know all of the options available to them and didn't have one particular role in mind. With the new update, we removed this capability by hiding all options until the user triggered autosuggest through adding input.
 
@@ -100,7 +96,7 @@ sections:
   column-2-body: 
 - section: 
   layout: 50-50
-  column-1-body: "![rn_search-dropdown-solution.png](/uploads/rn_search-dropdown-solution.png)"
+  column-1-body: "![search experience revision](/uploads/rn_search-dropdown-solution.png)"
   column-2-body: "> Blockquote text here"
 - section: 
   layout: 50-50
@@ -115,8 +111,7 @@ sections:
 - section: 9
   layout: full-width
   image: "/uploads/rn_full-page.png"
-  image-alt: 
-  image-caption-body: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua. '
+  image-alt: full web page design
+  image-caption-body: 
 ---
 
