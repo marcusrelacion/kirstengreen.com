@@ -47,8 +47,9 @@ sections:
   layout: full-width
   image: "/uploads/rn_results-summary.png"
   image-alt: Provide Alt Text
-  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image-caption-body: The redesigned RecruiterNeuron featured a more user-friendly
+    search and data visualizations that were easier to interpret and utilize for any
+    documentation that the user might need to create.
 - section: 3
   layout: 50-50
   column-1-body: "## Process\n\nWe collected user data from various people within
@@ -65,7 +66,9 @@ sections:
 - section: 4
   layout: 50-50
   column-1-body: "![original search](/uploads/rn_original_search.png)"
-  column-2-body: "> Blockquote text here"
+  column-2-body: "> The original search required more steps than needed and confused
+    new users due to how difficult it was to navigate through. Many users also found
+    the data visualizations hard to read and unappealing."
 - section: 5
   layout: 50-50
   column-1-body: "![original graphs](/uploads/rn_original_graphs-1.png)"
@@ -93,7 +96,10 @@ sections:
 - section: 
   layout: 50-50
   column-1-body: "![search experience revision](/uploads/rn_search-dropdown-solution.png)"
-  column-2-body: "> Blockquote text here"
+  column-2-body: "> The revised search allowed users to view all options in the dropdown
+    once they filled in one of the search fields. It also used predictive text to
+    narrow down their options if they knew what role or location they were searching
+    for."
 - section: 
   layout: 50-50
   column-1-body: Thankfully, we were able to address this issue quickly by pushing
