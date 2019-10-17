@@ -40,9 +40,10 @@ sections:
     - Utilized **Jira** to keep track of story and sprint progress. This project spanned across many sprints and, true to Agile, additional requirements and design changes were added when we learned more about our users.
 - section: 2
   layout: full-width
-  image: "/uploads/dv_graphs_top-skills-details.png"
-  image-alt: Alt text
-  image-caption-body: Caption text
+  image: 
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 - section: 3
   layout: 50-50
   column-1-body: "## Process\n\nTo kick-off this data visualization project, the UX
@@ -57,8 +58,8 @@ sections:
   column-2-body: 
 - section: 4
   layout: 50-50
-  column-1-body: "![dv_wb_proto-persona.png](/uploads/dv_wb_proto-persona.png)"
-  column-2-body: "![dv_wb_use-cases.png](/uploads/dv_wb_use-cases.png)"
+  column-1-body: "![stacy's proto-persona](/uploads/dv_wb_proto-persona.png)"
+  column-2-body: "![stacy's use cases](/uploads/dv_wb_use-cases.png)"
 - section: 5
   layout: 50-50
   column-1-body: The concepts we developed during our workshops gave us a clear idea
@@ -72,12 +73,12 @@ sections:
   column-2-body: " "
 - section: 6
   layout: 50-50
-  column-1-body: "![dv_graph-sketch-1.png](/uploads/dv_graph-sketch-1.png)"
-  column-2-body: "![dv_graph-sketch-2.png](/uploads/dv_graph-sketch-2.png)"
+  column-1-body: "![graph sketches](/uploads/dv_graph-sketch-1.png)"
+  column-2-body: "![graph sketches](/uploads/dv_graph-sketch-2.png)"
 - section: 7
   layout: 50-50
-  column-1-body: "![dv_graph-sketch-3.png](/uploads/dv_graph-sketch-3.png)"
-  column-2-body: "![dv_graph-sketch-4.png](/uploads/dv_graph-sketch-4.png)"
+  column-1-body: "![graph sketches](/uploads/dv_graph-sketch-3.png)"
+  column-2-body: "![graph sketches](/uploads/dv_graph-sketch-4.png)"
 - section: 6
   layout: 50-50
   column-1-body: We shared all wireframes, prototypes, and other WIPs to the data
@@ -90,15 +91,13 @@ sections:
 - section: 8
   layout: 50-50
   image: 
-  image-alt: Provide Alt Text
-  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  column-1-body: "![dv_wf_search-summary.png](/uploads/dv_wf_search-summary.png)"
-  column-2-body: "![dv_wf_diversity.png](/uploads/dv_wf_diversity.png)"
+  column-1-body: "![graph prototypes](/uploads/dv_wf_search-summary.png)"
+  column-2-body: "![graph prototypes](/uploads/dv_wf_diversity.png)"
 - section: 
   layout: 50-50
-  column-1-body: "![dv_wf_talent-cost.png](/uploads/dv_wf_talent-cost.png)"
-  column-2-body: "> Blockquote text"
+  column-1-body: "![graph prototypes](/uploads/dv_wf_talent-cost.png)"
+  column-2-body: "> Using Axure RP, we created various wireframes and prototypes of
+    the graphs before sharing them with the team and conducting testing."
 - section: 7
   layout: 50-50
   column-1-body: |-
@@ -110,16 +109,20 @@ sections:
   column-2-body: " "
 - section: 
   layout: 50-50
-  column-1-body: "![dv_graphs_top-skills.png](/uploads/dv_graphs_top-skills.png)"
-  column-2-body: "![dv_graphs_talent-cost.png](/uploads/dv_graphs_talent-cost.png)"
+  column-1-body: "![top skills graph](/uploads/dv_graphs_top-skills.png)"
+  column-2-body: "![top skills graph](/uploads/dv_graphs_top-skills-details.png)"
 - section: 
   layout: 50-50
-  column-1-body: "![dv_graphs_top-competition.png](/uploads/dv_graphs_top-competition.png)"
-  column-2-body: "![dv_graphs_top-competition-details.png](/uploads/dv_graphs_top-competition-details.png)"
+  column-1-body: "![top competition graph](/uploads/dv_graphs_top-competition.png)"
+  column-2-body: "![top competition graph](/uploads/dv_graphs_top-competition-details.png)"
 - section: 
   layout: 50-50
-  column-1-body: "![dv_graphs_comp-job-trends.png](/uploads/dv_graphs_comp-job-trends.png)"
-  column-2-body: "![dv_graphs_diversity.png](/uploads/dv_graphs_diversity.png)"
+  column-1-body: "![competitor job posting trends graph](/uploads/dv_graphs_comp-job-trends.png)"
+  column-2-body: "![diversity graph](/uploads/dv_graphs_diversity.png)"
+- section: 
+  layout: 50-50
+  column-1-body: "![talent cost graph](/uploads/dv_graphs_talent-cost.png)"
+  column-2-body: 
 - section: 
   layout: 
   column-1-body: 
