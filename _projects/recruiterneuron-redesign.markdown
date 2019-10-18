@@ -47,7 +47,7 @@ sections:
   layout: full-width
   image: "/uploads/rn_results-summary.png"
   image-alt: Provide Alt Text
-  image-caption-body: The redesigned RecruiterNeuron featured a more user-friendly
+  image-caption-body: The redesigned RecruiterNeuron Dashboard featured a more user-friendly
     search and data visualizations that were easier to interpret and utilize for any
     documentation that the user might need to create.
 - section: 3
@@ -95,6 +95,10 @@ sections:
   column-2-body: 
 - section: 
   layout: 50-50
+  image: 
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   column-1-body: "![search experience revision](/uploads/rn_search-dropdown-solution.png)"
   column-2-body: "> The revised search allowed users to view all options in the dropdown
     once they filled in one of the search fields. It also used predictive text to
