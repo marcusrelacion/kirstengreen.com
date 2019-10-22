@@ -1,4 +1,10 @@
 .listing {
     display: grid;
+    grid-gap: 16px;
+}
+
+@media screen and (min-width: 1279px) {
+	.listing {
     grid-gap: 80px;
+}
 }

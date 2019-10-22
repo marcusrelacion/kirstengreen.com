@@ -2,7 +2,7 @@
     background-color: var(--oxford-blue);
     color: var(--white);
     display: grid;
-    grid-gap: 16px;
+    grid-gap: 24px;
 }
 .site-header, .site-content, .site-footer {
     padding: 16px;
@@ -24,8 +24,7 @@
     font-size: 24px;
 }
 .header-introduction {
-    display: grid;
-    grid-gap: 16px;
+    display: none;
 }
 .header-introduction__logo {
     border: solid 0.25em var(--rajah);
@@ -68,6 +67,7 @@
         top: 0;
         grid-template-rows: max-content;
     }
+    
     .header-introduction {
         display: grid;
         grid-gap: 32px;

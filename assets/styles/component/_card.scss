@@ -1,11 +1,43 @@
-.card {
+.project {
     display: grid;
-    grid-gap: 24px;
-    grid-template-columns: 4fr 2fr;
-    grid-template-rows: minmax(320px, 1fr);
+    grid-template-columns: 1fr;
     &__content {
         background-color: var(--concrete);
     }
+    &__body {
+        border-left: solid 4px var(--oxford-blue);
+        padding: 24px;
+    }
+    &__title {
+        font-family: var(--mono);
+        font-weight: 600;
+        font-size: 1.4rem;
+        letter-spacing: -0.25px;
+        margin-bottom: 16px;
+    }
+    &__name {
+        font-weight: bold;
+        font-size: 16px;
+        margin-bottom: 0 !important;
+    }
+    &__company {
+        font-size: 16px;
+        font-style: italic;
+        margin-bottom: 16px;
+    }
+    &__description {
+        padding-bottom: 56px;
+    }
+    &__image {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 1279px) {
+    .project {
+    grid-gap: 24px;
+    grid-template-columns: 4fr 2fr;
+    grid-template-rows: minmax(320px, 1fr);
     &__body {
         border-left: solid 4px var(--oxford-blue);
         padding: 0 24px;
@@ -35,6 +67,7 @@
     }
     &__anchor {}
     &__image {
+        display: block;
         position: relative;
     }
     &__image::before, &__image::after {
@@ -53,9 +86,11 @@
         left: 0;
     }
 }
-.layout-post .card {
+}
+
+.layout-post .project {
     grid-template-rows: minmax(288px, 1fr);
 }
-.layout-post .card__description {
+.layout-post .project__description {
     padding-bottom: 16px;
 }
