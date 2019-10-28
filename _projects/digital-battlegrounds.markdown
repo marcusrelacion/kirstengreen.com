@@ -30,7 +30,8 @@ sections:
     *Web Design*
 
     * All proposed designs were created in **Photoshop CC**.
-- layout: full-width
+- section: 2
+  layout: full-width
   image: "/uploads/db_close-up_on-load.png"
   image-alt: web page header design
   image-caption-body: This new web page design offered more space for its content
@@ -59,8 +60,11 @@ sections:
   image: "/uploads/db_full-page.png"
   image-alt: 'full web page design '
   image-caption-body: 
-- image: 
+- section: 7
+  layout: 50-50
+  image: 
   image-alt: 
   image-caption-body: 
+- layout: 50-50
 ---
 
