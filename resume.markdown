@@ -39,10 +39,6 @@ sections:
     - Trello
     - Microsoft Suite
     - Proficient in MAC & PC environments
-
-    ## Industry Knowledge
-
-    - Talent Management
 - column: right
   text: "## Work Experience \n\n### Gartner\n**UI/UX Designer**\n<br>*July 2016 -
     August 2018*\n\nDuring my time at Gartner, I worked on TalentNeuron, a leading
