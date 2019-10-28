@@ -3,7 +3,7 @@ title: Resume
 sections:
 - column: left
   text: |-
-    ### Skills
+    ## Skills
 
     - User Interface Design
     - User Experience Design
@@ -24,7 +24,7 @@ sections:
     - HTML5 and CSS3
     - Illustration
 
-    ### Software
+    ## Software
 
     - Adobe Creative Cloud
     - Axure RP
@@ -40,7 +40,7 @@ sections:
     - Microsoft Suite
     - Proficient in MAC & PC environments
 
-    ### Industry Knowledge
+    ## Industry Knowledge
 
     - Talent Management
 - column: right
