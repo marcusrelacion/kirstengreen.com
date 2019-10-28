@@ -56,19 +56,15 @@ sections:
   layout: 50-50
   column-1-body: "![become a member design](/uploads/db_close-up_become-a-member.png)"
   column-2-body: "![decision making tools design](/uploads/db_close-up_decision-making-tools.png)"
-- section: 6
-  layout: full-width
+- layout: full-width
   image: "/uploads/db_full-page.png"
   image-alt: 'full web page design '
+  image-caption-body: 
 - section: 7
   layout: 50-50
   image: 
   image-alt: 
   image-caption-body: 
 - layout: 50-50
-- layout: full-width
-  image-alt: Provide Alt Text
-  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
 
