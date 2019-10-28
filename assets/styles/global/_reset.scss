@@ -29,13 +29,12 @@ dt {
 }
 
 body {
-
     /* Hide persistent scrollbar in IE (10/11) and Edge */
     -ms-overflow-style: -ms-autohiding-scrollbar;    /* Anchor links will transition rather than skip */
     scroll-behavior: smooth;
     font-family: var(--sans-serif);    /* Reset font size to 1rem, in case it has a pixel value */
-    font-size: 16px;
-    font-weight: 400;
+    font-size: var(--font-size-4);
+    font-weight: normal;
     line-height: 1.4;
     min-height: 100vh;
     -moz-osx-font-smoothing: grayscale;
@@ -46,7 +45,7 @@ body {
 
 @media screen and (min-width:959px) {
     body {
-        font-size: 20px;
+        font-size: var(--font-size-3);
     }
 
 }

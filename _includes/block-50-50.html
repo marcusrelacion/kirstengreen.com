@@ -7,4 +7,7 @@
         {{ section.column-2-body | markdownify }}
     </div>
 </section>
+{% if section.show-divider == true %}
+	<hr class="page-divider">
+{% endif %}
 {% endif %}

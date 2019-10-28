@@ -17,24 +17,51 @@
 	}
 
 	&__header {
-		font-size: 24px;
 		margin-bottom: 16px;
 	}
 
 	&__subheader {
-		font-size: 16px;
+	}
+
+}
+
+.contact {
+	&__status {
+		margin-bottom: 16px;
+	}
+
+}
+
+.social {
+	margin-top: 32px;
+
+	&__links {
+		margin: 0;
+		padding: 0;
+	}
+
+	&__link {
+		display: inline-block;
+	}
+
+	&__link:not(:last-child) {
+		margin-right: 8px;
 	}
 
 }
 
 @media screen and (min-width:767px) {
 	.introduction {
-		margin-bottom: 40px;
+		margin-bottom: 144px;
 
 		&__logo {
 			display: block;
 		}
 
+	}
+
+	.social {
+		margin-top: 56px;
 	}
 
 }

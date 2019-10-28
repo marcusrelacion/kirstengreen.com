@@ -6,16 +6,23 @@
     --concrete: #f2f2f2;
     --rajah: #f9b767;
     --white: #ffffff;
+    
     --sans-serif: "Karla", sans-serif;
     --mono: "Source Code Pro", courier, serif;
-    --spacing-64:4em;    /* 64px */
-    --spacing-56:3.5em;    /* 56px */
-    --spacing-48:3em;    /* 48px */
-    --spacing-40:2.5em;    /* 40px */
-    --spacing-32:2em;    /* 32px */
-    --spacing-24:1.5em;    /* 24px */
-    --spacing-16:1em;    /* 16px */
-    --spacing-8:0.5em;    /* 8px */
-    --spacing-4:0.25em;    /* 4px */
-    --spacing-0:0px;    /* 0px */
+    
+    --spacing-64:4em; /* 64px */
+    --spacing-56:3.5em; /* 56px */
+    --spacing-48:3em; /* 48px */
+    --spacing-40:2.5em; /* 40px */
+    --spacing-32:2em; /* 32px */
+    --spacing-24:1.5em; /* 24px */
+    --spacing-16:1em; /* 16px */
+    --spacing-8:0.5em; /* 8px */
+    --spacing-4:0.25em; /* 4px */
+    --spacing-0:0px; /* 0px */
+
+    --font-size-1: 32px; /* h1 */
+    --font-size-2: 24px; /* h2, */
+    --font-size-3: 20px; /* h3 (bolded), anchors */
+    --font-size-4: 16px; /* body */
 }

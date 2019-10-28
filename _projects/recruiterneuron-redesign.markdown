@@ -15,6 +15,7 @@ hero:
 sections:
 - section: 1
   layout: 50-50
+  show-divider: true
   column-1-body: "### Problem\n\nOur users frequently gave us feedback on two aspects
     of the RecruiterNeuron tool: the search experience and data visualizations. They
     felt creating a search was cumbersome and new users, in particular, had issues

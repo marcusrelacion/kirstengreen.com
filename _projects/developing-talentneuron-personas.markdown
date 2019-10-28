@@ -15,6 +15,7 @@ hero:
 sections:
 - section: 1
   layout: 50-50
+  show-divider: true
   column-1-body: |-
     ### Problem
 
