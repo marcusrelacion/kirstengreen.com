@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Karla:400,400i,700|Source+Code+Pro:600,700&display=swap');
+
 :root {
     --oxford-blue: #384257;
     --mine-shaft: #333333;
@@ -7,24 +8,14 @@
     --white: #ffffff;
     --sans-serif: "Karla", sans-serif;
     --mono: "Source Code Pro", courier, serif;
-    --spacing-64: 4em;
-    /* 64px */
-    --spacing-56: 3.5em;
-    /* 56px */
-    --spacing-48: 3em;
-    /* 48px */
-    --spacing-40: 2.5em;
-    /* 40px */
-    --spacing-32: 2em;
-    /* 32px */
-    --spacing-24: 1.5em;
-    /* 24px */
-    --spacing-16: 1em;
-    /* 16px */
-    --spacing-8: 0.5em;
-    /* 8px */
-    --spacing-4: 0.25em;
-    /* 4px */
-    --spacing-0: 0px;
-    /* 0px */
+    --spacing-64:4em;    /* 64px */
+    --spacing-56:3.5em;    /* 56px */
+    --spacing-48:3em;    /* 48px */
+    --spacing-40:2.5em;    /* 40px */
+    --spacing-32:2em;    /* 32px */
+    --spacing-24:1.5em;    /* 24px */
+    --spacing-16:1em;    /* 16px */
+    --spacing-8:0.5em;    /* 8px */
+    --spacing-4:0.25em;    /* 4px */
+    --spacing-0:0px;    /* 0px */
 }

@@ -5,55 +5,77 @@
     line-height: 2rem;
     margin-bottom: 16px;
 }
+
 .heading-2 {
     font-family: var(--sans-serif);
     font-size: 20px;
     font-weight: 400;
     line-height: 1.6rem;
 }
+
 .italic {
     font-style: italic;
 }
+
 .bold {
     font-style: strong;
 }
+
 blockquote {
     border-left: solid 4px var(--oxford-blue);
+    margin: 0;
     padding-left: 16px;
     padding-top: 8px;
     padding-bottom: 8px;
 }
-ul, ol {
+
+ul,
+ol {
     margin-left: 24px;
     margin-bottom: 24px;
 }
+
 ::marker {
     color: var(--oxford-blue);
 }
-h1, h2, h3, h4, h5, h6 {
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     color: var(--oxford-blue);
     font-family: var(--mono);
 }
-h1, h2 {
+
+h1,
+h2 {
     font-weight: 600;
 }
+
 h2 {
     margin-bottom: 16px;
 }
+
 h3 {
     font-weight: 700;
     margin-bottom: 8px;
 }
+
 p:not(:last-child) {
     margin-bottom: 24px;
 }
-@media screen and (min-width: 1023px) {
+
+@media screen and (min-width:1023px) {
     .heading-1 {
         font-size: 32px;
         line-height: 2.2rem;
     }
+
     .heading-2 {
         font-size: 24px;
         line-height: 2rem;
     }
+
 }

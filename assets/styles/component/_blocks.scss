@@ -2,14 +2,17 @@
     display: grid;
     grid-gap: 32px;
 }
+
 .grid:not(:first-of-type) {
     margin-top: 32px;
 }
+
 .grid--100 {
     grid-template-columns: repeat(4, 1fr);
     margin-top: 40px !important;
     margin-bottom: 40px;
 }
+
 .photo-grid {
     display: grid;
     grid-template-columns: repeat(8, 1fr);
@@ -17,10 +20,12 @@
     grid-gap: 32px;
     grid-column: span 4;
 }
+
 .photo-grid img {
     grid-column: 1/8;
     grid-row: 1 / span 2;
 }
+
 .photo-grid figcaption {
     padding: 32px;
     grid-column: 5/9;
@@ -30,46 +35,57 @@
     border-bottom: solid 4px var(--oxford-blue);
     align-self: center;
 }
-.grid--50-50, .grid--50-50 {
-    grid-template-columns: repeat(2, 1fr);
+
+.grid--50-50,
+.grid--50-50 {
+    grid-template-columns: 1fr;
 }
+
 .grid--60-40 {
     grid-template-columns: 6fr 4fr;
 }
+
 .listing {
     display: grid;
     grid-gap: 16px;
     padding: 0;
     margin: 0;
 }
+
 .listing__project {
     display: grid;
     grid-template-columns: 1fr;
     position: relative;
 }
+
 .project-details {
     background-color: var(--concrete);
     padding: 16px;
 }
+
 .project-title {
     font-family: var(--mono);
     font-weight: 600;
     font-size: 32px;
     margin-bottom: 16px;
 }
+
 .project-image {
     border: none;
     min-height: 240px;
 }
-@media screen and (min-width: 1023px) {
+
+@media screen and (min-width:1023px) {
     .listing {
         grid-gap: 64px;
     }
+
     .listing__project {
         grid-gap: 16px;
         grid-template-columns: 2fr 1fr;
         grid-template-rows: minmax(240px, 1fr);
     }
+
     .listing__project::before {
         content: '';
         position: absolute;
@@ -79,11 +95,19 @@
         left: 24px;
         background-color: var(--oxford-blue);
     }
+
     .project-details {
         padding: 24px 24px 24px 48px;
     }
+
     .project-image {
         border-right: solid 4px var(--oxford-blue);
         border-bottom: solid 4px var(--oxford-blue);
     }
+
+    .grid--50-50,
+    .grid--50-50 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
 }

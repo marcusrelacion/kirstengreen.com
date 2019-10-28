@@ -1,24 +1,39 @@
 /* Box sizing rules */
-
 * {
     box-sizing: border-box;
 }
-*:before, *:after {
+
+*:before,
+*:after {
     box-sizing: inherit;
 }
-/* Remove margin and padding from elements */
 
-body, h1, h2, h3, h4, p, ul, ol, li, dd, figure, figcaption, dl, dd, dt {
+/* Remove margin and padding from elements */
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul,
+ol,
+li,
+dd,
+figure,
+figcaption,
+dl,
+dd,
+dt {
     margin: 0px;
     padding: 0px;
 }
+
 body {
+
     /* Hide persistent scrollbar in IE (10/11) and Edge */
-    -ms-overflow-style: -ms-autohiding-scrollbar;
-    /* Anchor links will transition rather than skip */
+    -ms-overflow-style: -ms-autohiding-scrollbar;    /* Anchor links will transition rather than skip */
     scroll-behavior: smooth;
-    font-family: var(--sans-serif);
-    /* Reset font size to 1rem, in case it has a pixel value */
+    font-family: var(--sans-serif);    /* Reset font size to 1rem, in case it has a pixel value */
     font-size: 16px;
     font-weight: 400;
     line-height: 1.4;
@@ -29,18 +44,20 @@ body {
     color: var(--mine-shaft);
 }
 
-@media screen and (min-width: 959px) {
+@media screen and (min-width:959px) {
     body {
         font-size: 20px;
     }
-}
-/* Remove list styles on ul, ol elements with a class attribute */
 
-ul[class], ol[class] {
+}
+
+/* Remove list styles on ul, ol elements with a class attribute */
+ul[class],
+ol[class] {
     list-style: none;
 }
-/* A elements that don't have a class get default styles */
 
+/* A elements that don't have a class get default styles */
 a:not([class]) {
     text-decoration: underline;
     text-decoration-skip-ink: auto;
@@ -49,37 +66,41 @@ a:not([class]) {
     background-color: rgba(56, 66, 87, 0.1);
     transition: background-color 100ms ease-in-out;
 }
+
 a:not([class]):hover {
     background-color: rgba(56, 66, 87, 0);
 }
-/* Turn off the recent search in WebKit. */
 
+/* Turn off the recent search in WebKit. */
 ::-webkit-search-decoration {
     display: none;
 }
-/* Normalise form field line-height in WebKit */
 
-input::-webkit-input-placeholder, textarea::-webkit-input-placeholder, select::-webkit-input-placeholder {
+/* Normalise form field line-height in WebKit */
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder,
+select::-webkit-input-placeholder {
     line-height: normal;
 }
-/* Make a search box appear like a text box */
 
+/* Make a search box appear like a text box */
 input[type='search'] {
     -webkit-appearance: textfield;
 }
-/* Make images responsive */
 
+/* Make images responsive */
 img {
     max-width: 100%;
     display: block;
 }
-/* Remove _all_ animations and transitions for people that prefer not to see them */
 
-@media (prefers-reduced-motion: reduce) {
+/* Remove _all_ animations and transitions for people that prefer not to see them */
+@media (prefers-reduced-motion:reduce) {
     * {
         -webkit-animation: none !important;
         animation: none !important;
         transition: none !important;
         scroll-behavior: auto !important;
     }
+
 }

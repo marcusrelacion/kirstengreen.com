@@ -1,31 +1,47 @@
-.site-header {
+.sticky {
+    position: sticky;
+    top: 16px;
+}
+/*.site-header {
     background-color: var(--oxford-blue);
     color: var(--white);
     display: grid;
     grid-gap: 24px;
 }
-.site-header, .site-content, .site-footer {
+
+.site-header,
+.site-content,
+.site-footer {
     padding: 16px;
 }
-.header-primary__links, .header-social__links {
+
+.header-primary__links,
+.header-social__links {
     margin: 0;
     padding: 0;
 }
-.header-primary__link, .header-social__link {
+
+.header-primary__link,
+.header-social__link {
     display: inline-block;
 }
+
 .header-primary__link:not(:last-child) {
     margin-right: 24px;
 }
+
 .header-social__link:not(:last-child) {
     margin-right: 4px;
 }
+
 .header-social__link a {
     font-size: 24px;
 }
+
 .header-introduction {
     display: none;
 }
+
 .header-introduction__logo {
     border: solid 0.25em var(--rajah);
     border-radius: 100%;
@@ -33,31 +49,42 @@
     max-width: 184px;
     overflow: hidden;
 }
+
 .header-contact .paragraph {
     margin-bottom: 16px;
 }
+
 .layout-resume header {
     margin-bottom: 48px;
 }
+
 .layout-resume .grid {
     display: grid;
     grid-gap: 32px;
 }
-@media screen and (min-width: 1023px) {
+
+@media screen and (min-width:1023px) {
     .site-grid {
         display: grid;
         grid-template-columns: [sidebar] 400px [content] 1fr;
     }
-    .site-content, .site-footer {
+
+    .site-content,
+    .site-footer {
         grid-column: content;
     }
-    .site-header, .site-content, .site-footer {
+
+    .site-header,
+    .site-content,
+    .site-footer {
         padding: 32px;
     }
+
     .site-content {
         max-width: 96ch;
         margin: 32px auto;
     }
+
     .site-header {
         grid-column: sidebar;
         grid-gap: 32px;
@@ -67,15 +94,20 @@
         top: 0;
         grid-template-rows: max-content;
     }
-    
+
     .header-introduction {
         display: grid;
         grid-gap: 32px;
     }
+
     .header-introduction__logo {
         margin: auto 0;
     }
-    .header-social, .header-contact {
+
+    .header-social,
+    .header-contact {
         align-self: end;
     }
+
 }
+*/

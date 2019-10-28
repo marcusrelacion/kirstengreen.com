@@ -1,0 +1,24 @@
+.navigation-primary {
+	margin-bottom: 24px;
+
+	&__links {
+		margin: 0;
+		padding: 0;
+	}
+
+	&__link {
+		display: inline-block;
+	}
+
+	&__link:not(:last-child) {
+		margin-right: 24px;
+	}
+
+}
+
+@media screen and (min-width:767px) {
+	.navigation-primary {
+		margin-bottom: 40px;
+	}
+
+}

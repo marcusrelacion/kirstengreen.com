@@ -57,8 +57,8 @@ sections:
   column-2-body: 
 - section: 4
   layout: 50-50
-  column-1-body: "![stacy's proto-persona](/uploads/dv_wb_proto-persona.png)"
-  column-2-body: "![stacy's use cases](/uploads/dv_wb_use-cases.png)"
+  column-1-body: <img data-action="zoom" class style src="/uploads/dv_wb_proto-persona.png">
+  column-2-body: <img data-action="zoom" class style src="/uploads/dv_wb_use-cases.png">
 - section: 5
   layout: 50-50
   column-1-body: The concepts we developed during our workshops gave us a clear idea

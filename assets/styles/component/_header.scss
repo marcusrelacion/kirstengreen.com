@@ -1,0 +1,40 @@
+.introduction {
+	margin-bottom: 24px;
+
+	&__logo {
+		border: solid 4px var(--rajah);
+		border-radius: 1000px;
+		display: none;
+		max-width: 144px;
+		margin-bottom: 32px;
+		padding: 8px;
+		overflow: hidden;
+	}
+
+	&__header,
+	&__subheader {
+		color: white;
+	}
+
+	&__header {
+		font-size: 24px;
+		margin-bottom: 16px;
+	}
+
+	&__subheader {
+		font-size: 16px;
+	}
+
+}
+
+@media screen and (min-width:767px) {
+	.introduction {
+		margin-bottom: 40px;
+
+		&__logo {
+			display: block;
+		}
+
+	}
+
+}
