@@ -40,7 +40,7 @@ sections:
     - Microsoft Suite
     - Proficient in MAC & PC environments
 - column: right
-  text: "## Work Experience \n\n### Gartner\n**UI/UX Designer**\n<br>*July 2016 -
+  text: "## Work Experiencez \n\n### Gartner\n**UI/UX Designer**\n<br>*July 2016 -
     August 2018*\n\nDuring my time at Gartner, I worked on TalentNeuron, a leading
     talent analytics web application used by recruiters, talent analysts, and other
     HR professionals. As a UI/UX Designer on the team, I was an active part in all
