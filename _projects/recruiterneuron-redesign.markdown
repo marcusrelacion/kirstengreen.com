@@ -119,6 +119,6 @@ sections:
   layout: full-width
   image: "/uploads/rn_full-page.png"
   image-alt: full web page design
-  image-caption-body:
+  image-caption-body: 
 ---
 
