@@ -2,7 +2,7 @@
     <div class="sticky">
         <nav class="navigation-primary">
             <ul class="navigation-primary__links">
-                {% for link in site.data.navigation.primary.links %}
+                {% for link in site.primary.links %}
                 <li class="navigation-primary__link">
                     <a class="button button__underline button__underline--secondary" href="{{ link.url }}">
                         {{ link.title }}
@@ -38,7 +38,7 @@
         </div>
         <div class="social">
             <ul class="social__links">
-                {% for link in site.data.navigation.social.links %}
+                {% for link in site.social.links %}
                 <li class="social__link">
                     <a class="button button__transparent button__transparent--secondary" href="{{ link.href }}" rel="noopener" target="_blank">
                         {{ link.icon }}
