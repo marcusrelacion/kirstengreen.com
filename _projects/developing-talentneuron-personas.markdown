@@ -6,10 +6,8 @@ hero:
 - name: TalentNeuron
   company: Gartner
   year: 2018
-  body: As we learned more about TalentNeuron's users, it was important for us to
-    revisit the personas we referenced to make decisions for the product. In order
-    to do this, we needed to make a system that grew our personas as we became more
-    knowledgeable about our users' motivations, needs, and challenges.
+  body: |-
+    As we learned more about TalentNeuron's users, it was important for us to revisit the personas we referenced to make decisions for the product. In order to do this, we needed to make a system that grew our personas as we became more knowledgeable about our users' motivations, needs, and challenges.
   image: "/uploads/hi_tp.png"
   image-alt: persona business cases
 sections:
