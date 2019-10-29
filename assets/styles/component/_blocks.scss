@@ -54,6 +54,11 @@
 
 .grid--30-70 {
     grid-template-columns: 1fr;
+    margin-top: 80px;
+}
+
+.grid--30-70 p {
+    margin-bottom: 16px;
 }
 .listing {
     display: grid;
