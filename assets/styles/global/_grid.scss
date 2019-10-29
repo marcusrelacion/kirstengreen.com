@@ -30,6 +30,7 @@
 .listing {
 	display: grid;
 	grid-gap: 80px;
+	margin: 0;
 }
 @media screen and (min-width:767px) {
 	.site__grid {
@@ -67,12 +68,11 @@
 		grid-template-columns: 400px 3fr;
 	}
 
-	.layout-home .site__content {
+	.site__content {
 		padding: 64px 80px 40px 40px;
 	}
 
 	.site__header,
-	.site__content,
 	.site__footer {
 		padding: 40px;
 	}
