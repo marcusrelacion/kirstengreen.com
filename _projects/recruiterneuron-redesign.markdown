@@ -15,10 +15,9 @@ hero:
 sections:
 - section: 1
   layout: 50-50
-  show-divider: true
-  column-1-body: "### Problem\n\nOur users frequently gave us feedback on two aspects
-    of the RecruiterNeuron tool: the search experience and data visualizations. They
-    felt creating a search was cumbersome and new users, in particular, had issues
+  column-1-body: "## Overview\n\n### Problem\n\nOur users frequently gave us feedback
+    on two aspects of the RecruiterNeuron tool: the search experience and data visualizations.
+    They felt creating a search was cumbersome and new users, in particular, had issues
     navigating through its user flow. Users also found the data visualizations unhelpful
     because they did not display the results effectively, so they were unsuitable
     for their reports and other documentation.\n\n### Solution\n\nMake the search
@@ -44,6 +43,7 @@ sections:
     - Designed the user interface in **Sketch.**
     - Shared designs with the development team in **Zeplin.io.**
     - Maintained and updated user stories in **Jira**.
+  show-divider: true
 - section: 2
   layout: full-width
   image: "/uploads/rn_results-summary.png"
