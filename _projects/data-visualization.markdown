@@ -9,8 +9,8 @@ hero:
   body: TalentNeuron is a top source for talent-related data, but many of its users
     were not able to get the most out of its data. That discovery pushed us to explore
     how we provide and display data throughout the platform.
-  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-alt: Provide Alt Text
+  image: "/uploads/hi_dv.png"
+  image-alt: top skills graph
 sections:
 - section: 1
   layout: 50-50
@@ -43,6 +43,10 @@ sections:
   show-divider: true
 - section: 3
   layout: 50-50
+  image: 
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   column-1-body: "## Process\n\nTo kick-off this data visualization project, the UX
     team hosted a handful of workshop meetings with Product and several subject matter
     experts across our team to ensure a more well-rounded perspective on concepts.
@@ -87,14 +91,18 @@ sections:
   column-2-body: 
 - section: 8
   layout: 50-50
+  column-1-body: "![graph prototypes](/uploads/dv_wf_search-summary.png)"
+  column-2-body: "![graph prototypes](/uploads/dv_wf_diversity.png)"
   image: 
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  column-1-body: "![graph prototypes](/uploads/dv_wf_search-summary.png)"
-  column-2-body: "![graph prototypes](/uploads/dv_wf_diversity.png)"
 - section: 
   layout: 50-50
+  image: 
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   column-1-body: "![graph prototypes](/uploads/dv_wf_talent-cost.png)"
   column-2-body: "> Using Axure RP, we created various wireframes and prototypes of
     the graphs before sharing them with the team and conducting testing."
