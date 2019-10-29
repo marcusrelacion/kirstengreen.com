@@ -52,11 +52,8 @@
 
 @media screen and (min-width:767px) {
 	.introduction {
-		margin-bottom: 144px;
+		margin-bottom: 120px;
 
-		&__logo {
-			display: block;
-		}
 
 	}
 
@@ -64,4 +61,14 @@
 		margin-top: 56px;
 	}
 
+}
+
+@media screen and (min-width:1365px) {
+		.introduction {
+
+		&__logo {
+			display: block;
+		}
+
+	}
 }

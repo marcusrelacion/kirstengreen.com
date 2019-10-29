@@ -29,7 +29,9 @@ layout: default
                 </a>
             </div>
         </div>
-        <div class="project__image" style="background-image: url('/uploads/test-image.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+        {% for hero-content in post.hero %}
+        <div class="project__image" style="background-image: url('{{ hero-content.image }}'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+        {% endfor %}
         </div>
     </li>
     {% endfor %}
