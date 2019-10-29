@@ -21,6 +21,10 @@
     grid-column: span 4;
 }
 
+.photo-grid-100 {
+    grid-column: span 4;
+}
+
 .photo-grid img {
     grid-column: 1/8;
     grid-row: 1 / span 2;

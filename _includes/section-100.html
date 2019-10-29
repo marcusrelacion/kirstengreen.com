@@ -1,6 +1,6 @@
 {% if section.layout == 'full-width' %}
 <section class="grid grid--100">
-    <figure class="photo-grid">
+    <figure class="{% if section.image-caption-body %} photo-grid {% else %} photo-grid-100 {% endif %}">
         <img alt="{{ section.image-alt }}" src="{{ section.image }}">
         {% if section.image-caption-body %}
             <figcaption>
