@@ -1,13 +1,14 @@
 .button {
     display: inline-block;
     background-color: transparent;
+    font-family: var(--mono);
+    font-weight: 700;
     transition: all 100ms ease-in;
     text-decoration: none;
     padding: 8px 16px;
 }
 .button__solid {
     box-shadow: 4px 4px 0px var(--oxford-blue);
-    font-weight: 700;
 }
 .button__underline, .button__transparent {
     padding: 0;
