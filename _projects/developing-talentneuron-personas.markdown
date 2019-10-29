@@ -15,8 +15,9 @@ hero:
 sections:
 - section: 1
   layout: 50-50
-  show-divider: true
   column-1-body: |-
+    ## Overview
+
     ### Problem
 
     While conducting user interviews, we began to notice several new patterns in our user base and some of our users' processes and motivations became clearer. We also discovered new sets of core users that we had not considered before. Because of this data, we needed to re-visit our personas so we could make sure we were making the right product decisions for all of our users.
@@ -38,11 +39,13 @@ sections:
     * Conducted **user research** to validate our proto-personas
     * Developed official **personas** through the data collected during our user research
     * Used **Adobe InDesign** to create persona collateral for the team to use when developing features for the product
-- section: 
-  layout: 
+  show-divider: true
+- section: 2
+  layout: full-width
   image: 
-  image-alt: 
-  image-caption-body: 
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 - section: 3
   layout: 50-50
   column-1-body: |-
@@ -91,6 +94,10 @@ sections:
   column-2-body: 
 - section: 
   layout: 50-50
+  image: 
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   column-1-body: "![lola persona](/uploads/tp_wb_lola-persona.png)"
   column-2-body: "![persona collateral](/uploads/tp_wb_persona-posters.png)"
 - section: 
