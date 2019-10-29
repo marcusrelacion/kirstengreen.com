@@ -11,17 +11,14 @@
     &__title {
         font-family: var(--mono);
         font-weight: 600;
-        font-size: 1.4rem;
         letter-spacing: -0.25px;
         margin-bottom: 16px;
     }
     &__name {
         font-weight: bold;
-        font-size: 16px;
         margin-bottom: 0 !important;
     }
     &__company {
-        font-size: 16px;
         font-style: italic;
         margin-bottom: 16px;
     }
@@ -54,11 +51,9 @@
     }
     &__name {
         font-weight: bold;
-        font-size: 16px;
         margin-bottom: 0 !important;
     }
     &__company {
-        font-size: 16px;
         font-style: italic;
         margin-bottom: 16px;
     }
