@@ -10,7 +10,7 @@ hero:
     used by its large client pool but received its fair share of user critique. We
     analyzed this feedback to create an experience that made RecruiterNeuron more
     accessible to its users.
-  image: "/uploads/hi_recruiterneuron.png"
+  image: "/uploads/hi_rn.png"
   image-alt: recruiterneuron summary design
 sections:
 - section: 1
