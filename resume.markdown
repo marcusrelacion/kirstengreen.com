@@ -1,7 +1,13 @@
 ---
 title: Resume
-header: Hey Edit Me.
-body: But Really Edit Me.
+header: About Me
+body: I am a user-focused designer with experience in identifying and providing solutions
+  for user-identified problems in products. I enjoy translating user research findings
+  by developing prototypes for user testing and designing clean user interfaces. I
+  am an accessibility advocate and work towards making designs that reflect that ideal.
+  Currently, I am exploring the technical side of UX and UI development by learning
+  JavaScript for user interaction and strengthening my CSS skills to develop user
+  interfaces.
 sections:
 - column: left
   text: |-
