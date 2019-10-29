@@ -40,12 +40,6 @@ sections:
     * Developed official **personas** through the data collected during our user research
     * Used **Adobe InDesign** to create persona collateral for the team to use when developing features for the product
   show-divider: true
-- section: 2
-  layout: full-width
-  image: 
-  image-alt: Provide Alt Text
-  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 - section: 3
   layout: 50-50
   column-1-body: |-
