@@ -48,6 +48,10 @@ sections:
   show-divider: true
 - section: 5
   layout: 50-50
+  image: 
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   column-1-body: |-
     ## Process
 
@@ -73,39 +77,43 @@ sections:
 - section: 6
   layout: 50-50
   column-1-body: |-
-    ### Original Form
+    **Original Form**
 
     ![original form design](/uploads/ba_original_form.png)
   column-2-body: |-
-    ### Form Solution
+    **Form Solution**
 
     ![form design solution](/uploads/ba_solution_form.png)
-- section: 
+- section: 7
   layout: 50-50
   column-1-body: |-
-    ### Original CTA Button
+    **Original CTA Button**
 
     ![original button design](/uploads/ba_original_cta-buttons.png)
   column-2-body: |-
-    ### CTA Button Solution
+    **CTA Button Solution**
 
     ![button design solution](/uploads/ba_solution_cta-buttons.png)
 - section: 
+  layout: 50-50
+  column-1-body: |-
+    **Original Page Banner and Secondary Navigation**
+
+    ![original page banner design](/uploads/ba_original_page-banner.png)
+  column-2-body: |-
+    **Page Banner and Secondary Navigation Solution**
+
+    ![page banner design solution](/uploads/ba_solution_page-banner.png)
+  image: 
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- section: 7
   layout: 50-50
   image: 
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  column-1-body: |-
-    ### Original Page Banner and Secondary Navigation
-
-    ![original page banner design](/uploads/ba_original_page-banner.png)
-  column-2-body: |-
-    ### Page Banner and Secondary Navigation Solution
-
-    ![page banner design solution](/uploads/ba_solution_page-banner.png)
-- section: 7
-  layout: 50-50
   column-1-body: Towards the end of this project, we would pause progress due to the
     call to completely redesign CEB's website. The work done for this project would
     not go to waste, however. Many of the concepts I developed were implemented in
