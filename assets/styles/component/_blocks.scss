@@ -43,8 +43,13 @@
     margin-bottom: 40px;
 }
 
-.grid--60-40 {
-    grid-template-columns: 1fr 3fr;
+.grid-60-40 {
+    grid-template-columns: 6fr 4fr;
+    margin-bottom: 80px;
+}
+
+.hero {
+    margin-bottom: 80px !important; /* refactor */
 }
 
 .grid--30-70 {
