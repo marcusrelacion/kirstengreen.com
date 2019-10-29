@@ -70,9 +70,5 @@ sections:
   image-alt: 
   image-caption-body: 
 - layout: 50-50
-- layout: full-width
-  image-alt: Provide Alt Text
-  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
 
