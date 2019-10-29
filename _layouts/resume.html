@@ -4,12 +4,12 @@ layout: default
 
 <article>
     <header>
-        <h1>
-            About
+        <h1 class="resume__header">
+            {{ page.header }}
         </h1>
-        <p>
-            While developing a new tool for Gartner's TalentNeuron, I was responsible for translating key data points into visualizations that help users make critical talent decisions based on what matters most to their organization's goals.
-        </p>
+        <div class="resume__body" style="margin-bottom: 32px;">
+           {{ page.body | markdownify }}
+        </div>
         <a class="button button__solid button__solid--secondary" href="#">
             Download Resume
         </a>

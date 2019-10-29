@@ -1,5 +1,7 @@
 ---
 title: Resume
+header: Hey Edit Me.
+body: But Really Edit Me.
 sections:
 - column: left
   text: |-
