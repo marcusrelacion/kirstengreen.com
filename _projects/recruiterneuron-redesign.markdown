@@ -10,8 +10,8 @@ hero:
     used by its large client pool but received its fair share of user critique. We
     analyzed this feedback to create an experience that made RecruiterNeuron more
     accessible to its users.
-  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-alt: Provide Alt Text
+  image: "/uploads/hi_recruiterneuron.png"
+  image-alt: recruiterneuron summary design
 sections:
 - section: 1
   layout: 50-50
@@ -47,7 +47,7 @@ sections:
 - section: 2
   layout: full-width
   image: "/uploads/rn_results-summary.png"
-  image-alt: Provide Alt Text
+  image-alt: recruiterneuron summary design
   image-caption-body: The redesigned RecruiterNeuron Dashboard featured a more user-friendly
     search and data visualizations that were easier to interpret and utilize for any
     documentation that the user might need to create.
