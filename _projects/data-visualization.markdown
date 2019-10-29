@@ -14,8 +14,9 @@ hero:
 sections:
 - section: 1
   layout: 50-50
-  show-divider: true
   column-1-body: |-
+    ## Overview
+
     ### Problem
 
     After consulting with our customer support team, we identified that TalentNeuron's visualizations either felt incomplete to our users or were difficult to understand. That meant many of our users needed additional instruction on how to use and interpret the platform's data– taking up valuable time from both our users and our team.
@@ -39,11 +40,13 @@ sections:
     - Designed the UI in **Sketch.**
     - Uploaded the UI to **Zeplin.io** so we could share design specs with the development team. We also used this platform as a communication tool for any questions concerning the design and its implementation.
     - Utilized **Jira** to keep track of story and sprint progress. This project spanned across many sprints and, true to Agile, additional requirements and design changes were added when we learned more about our users.
-- section: 
-  layout: 
+  show-divider: true
+- section: 2
+  layout: full-width
   image: 
-  image-alt: 
-  image-caption-body: 
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 - section: 3
   layout: 50-50
   column-1-body: "## Process\n\nTo kick-off this data visualization project, the UX
@@ -91,6 +94,9 @@ sections:
 - section: 8
   layout: 50-50
   image: 
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   column-1-body: "![graph prototypes](/uploads/dv_wf_search-summary.png)"
   column-2-body: "![graph prototypes](/uploads/dv_wf_diversity.png)"
 - section: 
