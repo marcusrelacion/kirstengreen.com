@@ -46,12 +46,6 @@ sections:
     * Designed accessible solutions in **Photoshop CC.**
     * Collaborated with multiple design teams to determine the best solution for each failed element and component outlined in the test results.
   show-divider: true
-- section: 2
-  layout: full-width
-  image: 
-  image-alt: Provide Alt Text
-  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 - section: 5
   layout: 50-50
   column-1-body: |-
