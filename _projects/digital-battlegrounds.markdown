@@ -13,8 +13,9 @@ hero:
 sections:
 - section: 1
   layout: 50-50
-  show-divider: true
   column-1-body: |-
+    ## Overview
+
     ### Problem
 
     The CMS templates used for CEB's global website were great for sharing data and information but not optimized for promoting and selling products.
@@ -31,6 +32,7 @@ sections:
     *Web Design*
 
     * All proposed designs were created in **Photoshop CC**.
+  show-divider: true
 - section: 2
   layout: full-width
   image: "/uploads/db_close-up_on-load.png"
@@ -57,7 +59,8 @@ sections:
   layout: 50-50
   column-1-body: "![become a member design](/uploads/db_close-up_become-a-member.png)"
   column-2-body: "![decision making tools design](/uploads/db_close-up_decision-making-tools.png)"
-- layout: full-width
+- section: 6
+  layout: full-width
   image: "/uploads/db_full-page.png"
   image-alt: 'full web page design '
   image-caption-body: 
@@ -67,5 +70,9 @@ sections:
   image-alt: 
   image-caption-body: 
 - layout: 50-50
+- layout: full-width
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
 
