@@ -27,6 +27,10 @@
 	grid-row: 3;
 }
 
+.listing {
+	display: grid;
+	grid-gap: 80px;
+}
 @media screen and (min-width:767px) {
 	.site__grid {
 		grid-template-columns: 1fr 2fr;

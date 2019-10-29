@@ -1,26 +1,33 @@
 .button {
-    display: inline-block;
     background-color: transparent;
+    display: inline-block;
     font-family: var(--mono);
     font-weight: 700;
-    transition: all 100ms ease-in;
-    text-decoration: none;
     padding: 8px 16px;
-}
-.button__solid {
-    box-shadow: 4px 4px 0px var(--oxford-blue);
-}
-.button__underline, .button__transparent {
-    padding: 0;
-}
-.button__underline--secondary {
-    border-bottom: solid 1px var(--rajah);
-    color: var(--rajah);
-}
-.button__solid--secondary {
-    background-color: var(--rajah);
-    color: var(--oxford-blue);
-}
-.button__transparent--secondary {
-    color: var(--rajah);
+    text-decoration: none;
+    transition: all 100ms ease-in;
+
+    &__solid {
+        box-shadow: 4px 4px 0px var(--oxford-blue);
+    }
+
+    &__solid--secondary {
+        background-color: var(--rajah);
+        color: var(--oxford-blue);
+    }
+
+    &__underline,
+    &__transparent {
+        padding: 0;
+    }
+
+    &__underline--secondary {
+        border-bottom: solid 1px var(--rajah);
+        color: var(--rajah);
+    }
+
+    &__transparent--secondary {
+        color: var(--rajah);
+    }
+
 }
