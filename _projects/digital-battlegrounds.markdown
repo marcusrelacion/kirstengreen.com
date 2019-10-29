@@ -8,8 +8,8 @@ hero:
   year: 2016
   body: CEB's marketing team needed a webpage design that presented CEB's product
     offerings in a more dynamic way to engage potential clients.
-  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-alt: Provide Alt Text
+  image: "/uploads/hi_db.png"
+  image-alt: what you need design
 sections:
 - section: 1
   layout: 50-50
