@@ -10,8 +10,8 @@ hero:
     revisit the personas we referenced to make decisions for the product. In order
     to do this, we needed to make a system that grew our personas as we became more
     knowledgeable about our users' motivations, needs, and challenges.
-  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-alt: Provide Alt Text
+  image: "/uploads/tp_wb_business-examples.png"
+  image-alt: persona business cases
 sections:
 - section: 1
   layout: 50-50
@@ -42,6 +42,10 @@ sections:
   show-divider: true
 - section: 3
   layout: 50-50
+  image: 
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   column-1-body: |-
     ## Process
 
@@ -88,14 +92,18 @@ sections:
   column-2-body: 
 - section: 
   layout: 50-50
+  column-1-body: "![lola persona](/uploads/tp_wb_lola-persona.png)"
+  column-2-body: "![persona collateral](/uploads/tp_wb_persona-posters.png)"
   image: 
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  column-1-body: "![lola persona](/uploads/tp_wb_lola-persona.png)"
-  column-2-body: "![persona collateral](/uploads/tp_wb_persona-posters.png)"
 - section: 
   layout: 50-50
+  image: 
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   column-1-body: |-
     Moving forward with this process, we needed to remember that personas are living documents that should grow as our users develop, so we need to assess them regularly. The process was as follows:
 
