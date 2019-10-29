@@ -10,7 +10,7 @@ hero:
     revisit the personas we referenced to make decisions for the product. In order
     to do this, we needed to make a system that grew our personas as we became more
     knowledgeable about our users' motivations, needs, and challenges.
-  image: "/uploads/tp_wb_business-examples.png"
+  image: "/uploads/hi_tp.png"
   image-alt: persona business cases
 sections:
 - section: 1
