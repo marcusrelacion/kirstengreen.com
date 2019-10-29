@@ -10,8 +10,8 @@ hero:
     to be compliant with the latest web accessibility guidelines. To test for compliance,
     we ran a design audit of the brand's application on CEB's web properties and proposed
     solutions to make all content accessible to users.
-  image: https://get.wallhere.com/photo/illustration-cartoon-Mercy-Overwatch-Overwatch-L-cio-Overwatch-Ana-Overwatch-Symmetra-Overwatch-Zenyatta-Overwatch-12505.png
-  image-alt: Provide Alt Text
+  image: "/uploads/hi_ba.png"
+  image-alt: form design solution
 sections:
 - section: 1
   layout: 50-50
