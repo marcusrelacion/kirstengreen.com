@@ -1,0 +1,31 @@
+.hero {
+	display: grid;
+	grid-gap: 16px;
+	grid-template-columns: 6fr 4fr;
+
+	&__content {
+	}
+
+	&__heading,
+	&__project {
+		font-weight: 700;
+	}
+
+	&__heading {
+		margin-bottom: 8px;
+	}
+
+	&__project {
+		margin-bottom: 0 !important;
+	}
+
+	&__company {
+		font-style: italic;
+	}
+
+	&__body {
+	}
+
+	&__image {
+	}
+}

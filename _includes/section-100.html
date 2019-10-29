@@ -1,0 +1,13 @@
+{% if section.layout == 'full-width' %}
+<section class="grid grid--100">
+    <figure class="photo-grid">
+        <img alt="{{ section.image-alt }}" src="{{ section.image }}">
+        {% if section.image-caption-body %}
+            <figcaption>
+                {{ section.image-caption-body | markdownify  }}
+            </figcaption>
+          {% endif %}
+        </img>
+    </figure>
+</section>
+{% endif %}
