@@ -43,7 +43,7 @@ sections:
     - Designed the user interface in **Sketch.**
     - Shared designs with the development team in **Zeplin.io.**
     - Maintained and updated user stories in **Jira**.
-  show-divider: true
+  show-divider: false
 - section: 2
   layout: full-width
   image: "/uploads/rn_results-summary.png"
