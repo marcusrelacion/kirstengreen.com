@@ -33,7 +33,6 @@ sections:
     ### Methods and Execution
     *User Research*
 
-
     * Collected existing user data to make educated hypotheses about our users
     * Consulted with our team's experts to get a better picture of the recruiting process as a whole
     * Created **proto-personas** to test with real users
