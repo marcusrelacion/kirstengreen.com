@@ -77,7 +77,7 @@ sections:
 - section: 6
   layout: 50-50
   column-1-body: |-
-    With these findings, we knew that we needed to create a flexible search that worked with either location or role as the first input. We also wanted to make the selection process easier for the user by removing the dropdowns and replacing them with a search bar that had autosuggest functionality (or a <datalist> for development context). This would allow the user to quickly find what they need to search for by directly entering in their input.
+    With these findings, we knew that we needed to create a flexible search that worked with either location or role as the first input. We also wanted to make the selection process easier for the user by removing the dropdowns and replacing them with a search bar that had autosuggest functionality (or a datalist for development context). This would allow the user to quickly find what they need to search for by directly entering in their input.
 
     Throughout this process, UX, along with Product, collaborated with the development team to come up with solutions that were practical from a development perspective. For this project, in particular, we needed to include Development from the beginning. Since RecruiterNeuron was an older product and had a complex backend, we needed to fully understand what we were working with to make the most feasible solution for both the development team and our users.
 
