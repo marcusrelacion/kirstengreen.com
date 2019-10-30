@@ -32,7 +32,7 @@ sections:
   column-2-body: |-
     ### Methods and Execution
     *User Research*
-
+    <br>
     * Collected existing user data to make educated hypotheses about our users
     * Consulted with our team's experts to get a better picture of the recruiting process as a whole
     * Created **proto-personas** to test with real users
