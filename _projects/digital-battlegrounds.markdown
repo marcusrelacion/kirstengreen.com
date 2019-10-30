@@ -32,7 +32,7 @@ sections:
     *Web Design*
 
     * All proposed designs were created in **Photoshop CC**.
-  show-divider: true
+  show-divider: false
 - section: 2
   layout: full-width
   image: "/uploads/db_close-up_on-load.png"
@@ -70,5 +70,9 @@ sections:
   image-alt: 
   image-caption-body: 
 - layout: 50-50
+- layout: full-width
+  image-alt: Provide Alt Text
+  image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
 
