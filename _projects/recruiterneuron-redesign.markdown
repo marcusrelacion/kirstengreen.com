@@ -43,14 +43,7 @@ sections:
     - Designed the user interface in **Sketch.**
     - Shared designs with the development team in **Zeplin.io.**
     - Maintained and updated user stories in **Jira**.
-  show-divider: false
-- section: 2
-  layout: full-width
-  image: "/uploads/rn_results-summary.png"
-  image-alt: recruiterneuron summary design
-  image-caption-body: The redesigned RecruiterNeuron Dashboard featured a more user-friendly
-    search and data visualizations that were easier to interpret and utilize for any
-    documentation that the user might need to create.
+  show-divider: true
 - section: 3
   layout: 50-50
   column-1-body: "## Process\n\nWe collected user data from various people within
