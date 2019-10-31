@@ -54,7 +54,7 @@ sections:
     helped them achieve their goals. We also brainstormed on how to use our data to
     serve these goals better. Many of the target users we identified during these
     meetings would become proto-personas. To learn more about how we developed our
-    personas, take a look at my [Developing TalentNeuron Personas](https://kirstengreen.com/projects/developing-talentneuron-personas)
+    personas, take a look at my [TalentNeuron Personas](https://kirstengreen.com/projects/talentneuron-personas)
     project. "
   column-2-body: 
 - section: 4

@@ -1,5 +1,5 @@
 ---
-title: Developing TalentNeuron Personas
+title: TalentNeuron Personas
 date: 2018-06-01 22:39:00 Z
 position: 0
 hero:
