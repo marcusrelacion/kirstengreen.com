@@ -1,5 +1,6 @@
 .navigation-primary {
 	margin-bottom: 24px;
+		text-align: center;
 
 	&__links {
 		margin: 0;
@@ -19,6 +20,7 @@
 @media screen and (min-width:767px) {
 	.navigation-primary {
 		margin-bottom: 40px;
+		text-align: left;
 	}
 
 }
