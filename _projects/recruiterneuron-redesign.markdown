@@ -33,9 +33,9 @@ sections:
     2-3 weeks, depending on what the project needed."
   column-2-body: |-
     ### Methods and Execution
-
     *User Experience Design, User Interface Design*
 
+    <br/>
     - Utilized user data and feedback to identify the core problems users had with the tool.
     - Collaborated across multiple teams to develop an executable solution. The primary teams involved were Customer Support, Product, IT/Development, and UX/Design.
     - Used **Axure RP 8** to develop prototypes for the search experience and its behavior.

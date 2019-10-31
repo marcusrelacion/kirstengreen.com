@@ -8,6 +8,10 @@ blockquote {
     padding-bottom: 8px;
 }
 
+figcaption {
+    font-size: 16px;
+}
+
 ul,
 ol {
     margin-left: 24px;
@@ -39,12 +43,12 @@ h1 {
 
 h2 {
     font-family: var(--sans-serif);
-    font-size: var(--font-size-3);
+    font-size: var(--font-size-2);
     margin-bottom: 16px;
 }
 
 h3 {
-    font-size: var(--font-size-4);
+    font-size: var(--font-size-3);
     font-weight: 700;
 }
 
@@ -55,14 +59,6 @@ p:not(:last-child) {
 @media screen and (min-width:1279px) {
     h1 {
         font-size: var(--font-size-1);
-    }
-
-    h2 {
-        font-size: var(--font-size-2);
-    }
-
-    h3 {
-        font-size: var(--font-size-3);
     }
 
 }

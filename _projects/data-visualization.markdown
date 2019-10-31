@@ -30,9 +30,9 @@ sections:
     I developed working prototypes, conducted internal UX testing, consulted with Data Science and Development to test for backend feasibility, and designed the UI.
   column-2-body: |-
     ### Methods and Execution
-
     *User Experience Design, User Interface Design*
 
+    <br/>
     - Identified user needs through user feedback collection and analysis.
     - Collaborated across multiple teams to develop executable solutions. The teams involved were Customer Support, Data Science, Product, IT/Development, and UX/Design.
     - Conducted internal user testing, which included experienced and inexperienced users.

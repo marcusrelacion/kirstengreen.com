@@ -33,12 +33,13 @@ sections:
     ### Methods and Execution
     *User Research*
 
-    * Collected existing user data to make educated hypotheses about our users
-    * Consulted with our team's experts to get a better picture of the recruiting process as a whole
-    * Created **proto-personas** to test with real users
-    * Conducted **user research** to validate our proto-personas
-    * Developed official **personas** through the data collected during our user research
-    * Used **Adobe InDesign** to create persona collateral for the team to use when developing features for the product
+    <br/>
+    - Collected existing user data to make educated hypotheses about our users
+    - Consulted with our team's experts to get a better picture of the recruiting process as a whole
+    - Created **proto-personas** to test with real users
+    - Conducted **user research** to validate our proto-personas
+    - Developed official **personas** through the data collected during our user research
+    - Used **Adobe InDesign** to create persona collateral for the team to use when developing features for the product
   show-divider: true
 - section: 3
   layout: 50-50

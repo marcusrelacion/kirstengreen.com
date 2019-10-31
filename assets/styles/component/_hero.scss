@@ -49,10 +49,13 @@
 }
 
 .hero {
-	margin-bottom: 80px;
+	margin-bottom: 32px;
 }
 
 @media screen and (min-width:1279px) {
+	.hero {
+	margin-bottom: 80px;
+}
 	.hero,
 	.project {
 		grid-template-columns: 6fr 4fr;
