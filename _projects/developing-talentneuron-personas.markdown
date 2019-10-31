@@ -93,7 +93,7 @@ sections:
 - section: 
   layout: 50-50
   column-1-body: "![lola persona](/uploads/tp_wb_lola-persona.png)"
-  column-2-body: "![persona collateral](/uploads/tp_wb_persona-posters.png)"
+  column-2-body: 
   image: 
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
