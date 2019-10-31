@@ -93,7 +93,9 @@ sections:
 - section: 
   layout: 50-50
   column-1-body: "![lola persona](/uploads/tp_wb_lola-persona.png)"
-  column-2-body: 
+  column-2-body: "> The final personas featured crucial information about their use
+    cases, goals, and painpoints to make sure we were creating features that helped
+    them achieve their objectives."
   image: 
   image-alt: Provide Alt Text
   image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
