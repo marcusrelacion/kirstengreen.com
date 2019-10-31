@@ -30,9 +30,9 @@ sections:
   column-2-body: |-
     ### Methods and Execution
     *Web Design*
-    
+
     <br/>
-    
+
     * All proposed designs were created in **Photoshop CC**.
   show-divider: false
 - section: 2

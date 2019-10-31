@@ -28,7 +28,7 @@ sections:
     We needed to identify any visual elements and components used on CEB's website that were not Level AA compliant according to the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG21/). Items that failed these guidelines, and were critical to user interaction and access to content, would be redesigned to be AA compliant or better.
 
     ### My Role
-  
+
     I executed a visual design audit to test for CEB's brand accessibility on the web, documented the results, and proposed design solutions for components found to be inaccessible to users.
 
     ### Project Note
