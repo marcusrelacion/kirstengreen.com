@@ -10,8 +10,8 @@ layout: default
         <div class="resume__body" style="margin-bottom: 32px;">
            {{ page.body | markdownify }}
         </div>
-        <a class="button button__solid button__solid--secondary" href="#">
-            Download Resume
+        <a class="button button__solid button__solid--secondary" target="_blank" rel="noopener" href="{{ page.resume-file }}">
+           {{ page.resume-button-label }}
         </a>
     </header>
     <section class="grid grid--30-70">

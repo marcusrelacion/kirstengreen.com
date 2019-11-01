@@ -120,14 +120,5 @@ sections:
     not go to waste, however. Many of the concepts I developed were implemented in
     the redesign and went live several months later.
   column-2-body: " "
-- section: 
-  layout: 
-  column-1-body: 
-  column-2-body: 
-- section: 
-  layout: 
-  image: 
-  image-alt: 
-  image-caption-body: 
 ---
 

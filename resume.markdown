@@ -1,13 +1,17 @@
 ---
 title: Resume
 header: About Me
-body: I am a user-focused designer with experience in identifying and providing solutions
+body: |-
+  I am a user-focused designer with experience in identifying and providing solutions
   for user-identified problems in products. I enjoy translating user research findings
   by developing prototypes for user testing and designing clean user interfaces. I
   am an accessibility advocate and work towards making designs that reflect that ideal.
+  
   Currently, I am exploring the technical side of UX and UI development by learning
   JavaScript for user interaction and strengthening my CSS skills to develop user
   interfaces.
+resume-file: /uploads/kirsten-green_resume.pdf
+resume-button-label: Download Resume
 sections:
 - column: left
   text: |-
@@ -53,7 +57,7 @@ sections:
 
     ### Gartner
     **UI/UX Designer**
-    <br>*July 2016 - August 2018*
+    <br/>*July 2016 - August 2018*
 
     During my time at Gartner, I worked on TalentNeuron, a leading talent analytics web application used by recruiters, talent analysts, and other HR professionals. As a UI/UX Designer on the team, I was an active part in all aspects of the Design Thinking process.
 
@@ -74,7 +78,7 @@ sections:
 
     ### CEB, now Gartner
     **Web Design Contractor**
-    <br>*April 2016 - June 2016*
+    <br/>*April 2016 - June 2016*
 
     As a part of CEB’s Web Design Studio, I provided internal clients with web-based assets and designs to help support their business’ particular needs.
 
@@ -90,7 +94,7 @@ sections:
 
     ### CBRE
     **Graphic Design Contractor**
-    <br>*June 2015 - October 2015*
+    <br/>*June 2015 - October 2015*
 
     I worked for CBRE's Property Marketing Studio to create marketing collateral for internal organizations across the southeastern region. I supported the studio as it grew from a pilot program that served only the southeast to an official service with several teams that provided marketing design for multiple regions across the United States.
 
@@ -102,7 +106,7 @@ sections:
 
     ### Blue Water
     **Graphic Designer; previously Graphic Design Intern**
-    <br>*July 2014 – February 2015*
+    <br/>*July 2014 – February 2015*
 
     While I was at Blue Water, I worked on the agency’s rebranding project, which included digital and print collateral products. I also designed several websites and provided UX and QA support for our team.
 

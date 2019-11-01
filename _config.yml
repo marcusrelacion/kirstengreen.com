@@ -1,6 +1,5 @@
 ---
 title: Kisten Green
-timezone: UTC
 collections:
   posts:
     title: Posts
@@ -8,6 +7,7 @@ collections:
   projects:
     title: Projects
     output: true
+    permalink: /projects/:title
   uploads:
     title: Uploads
     output: true
@@ -17,13 +17,12 @@ defaults:
     type: projects
   values:
     title: 
-    description: Provide the project description
-    image: 
+    description:
     hero:
     - name: 
-      company: Provide the name of the company.
-      year: Provide year the project occured.
-      body: Provide the project description.
+      company:
+      year:
+      body:
       image: 
       image-alt: Provide Alt Text
     sections:
@@ -34,9 +33,8 @@ defaults:
     - section: 2
       layout: full-width
       image: 
-      image-alt: Provide Alt Text
-      image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      image-alt:
+      image-caption-body:
     - section: 3
       layout: 50-50
       column-1-body: 
@@ -65,48 +63,15 @@ defaults:
       layout: full-width
       image: 
       image-alt: Provide Alt Text
-      image-caption-body: Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      image-caption-body:
     layout: post
-email: 
-description: 
-twitter_username: jekyllrb
-github_username: jekyll
-markdown: kramdown
-plugins:
-- jekyll-seo-tag
-paginator-header: Related Case Studies
-contact-header: Contact Me
-contact-subheader: I am currently looking for work. If you are interested in working
-  together, let me know!
-contact-image: http://placecorgi.com/800/400
-contact-image-alt: Provide Alt Text
-copyright: "© 2019 Kirsten Green"
-encoding: utf-8
-sass:
-  sass_dir: "/assets/styles/"
-  style: compressed
-baseurl: 
-url: https://kirstengreen.com
-asseturl: "/assets/"
-uploadurl: "/uploads/"
+DIVIDER-1:
 primary:
   links:
   - title: Home
     url: "/"
   - title: Resume
     url: "/resume/"
-social:
-  links:
-  - title: LinkedIn
-    href: https://www.linkedin.com/in/greenkirsten/
-    icon: <i class="fab fa-linkedin"></i>
-  - title: Twitter
-    href: https://twitter.com/kirstengreen_
-    icon: <i class="fab fa-twitter-square"></i>
-  - title: Instagram
-    href: https://www.instagram.com/kirstengreen_/
-    icon: <i class="fab fa-instagram"></i>
 sidebar-about-avatar: "/uploads/kg-avatar.png"
 sidebar-about-header: Hi, I’m Kirsten.
 sidebar-about-body: I’m a Product Designer working on web applications in the Washington,
@@ -121,3 +86,28 @@ sidebar-contact-link-url: mailto:hello@kirstengreen.com?Hi! I'd like to work wit
 sidebar-social-linkedin-link: https://www.linkedin.com/in/greenkirsten/
 sidebar-social-twitter-link: https://twitter.com/kirstengreen_/
 sidebar-social-instagram-link: https://www.instagram.com/kirstengreen_/
+social:
+  links:
+  - title: LinkedIn
+    href: https://www.linkedin.com/in/greenkirsten/
+    icon: <i class="fab fa-linkedin"></i>
+  - title: Twitter
+    href: https://twitter.com/kirstengreen_
+    icon: <i class="fab fa-twitter-square"></i>
+  - title: Instagram
+    href: https://www.instagram.com/kirstengreen_/
+    icon: <i class="fab fa-instagram"></i>
+copyright: "© 2019 Kirsten Green"
+DIVIDER-2: "/// Ignore Everything Below ///"
+timezone: UTC
+markdown: kramdown
+plugins:
+- jekyll-seo-tag
+encoding: utf-8
+sass:
+  sass_dir: "/assets/styles/"
+  style: compressed
+baseurl: 
+url:
+asseturl: "/assets/"
+uploadurl: "/uploads/"

@@ -118,10 +118,5 @@ sections:
 
     After every persona cycle, additional time would be spent to reflect on the process itself and identify any opportunities to improve it, whether it be to streamline the process more or add more data collection methods.
   column-2-body: 
-- section: 
-  layout: 
-  image: 
-  image-alt: 
-  image-caption-body: 
 ---
 

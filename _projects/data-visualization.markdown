@@ -131,14 +131,5 @@ sections:
   layout: 50-50
   column-1-body: "![talent cost graph](/uploads/dv_graphs_talent-cost.png)"
   column-2-body: 
-- section: 
-  layout: 
-  column-1-body: 
-  column-2-body: 
-- section: 
-  layout: 
-  image: 
-  image-alt: 
-  image-caption-body: 
 ---
 

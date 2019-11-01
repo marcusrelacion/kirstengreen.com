@@ -66,8 +66,5 @@ sections:
   image: "/uploads/db_full-page.png"
   image-alt: 'full web page design '
   image-caption-body: 
-- image: 
-  image-alt: 
-  image-caption-body: 
 ---
 
