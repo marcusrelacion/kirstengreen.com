@@ -1,0 +1,30 @@
+<!-- listing: projects -->
+<ul class="listing listing__projects">
+    {% assign projects = site.projects | reverse %}
+    {% for post in projects %}
+    <li class="project">
+        <div class="project__body">
+            <div class="project__content">
+                <h1 class="project__heading">
+                                 <a href="{{ post.url }}">
+                    {{ post.title }}
+                </a>
+                </h1>
+                {% for hero-content in post.hero %}
+                <div class="project__description">
+                    {{ hero-content.body | markdownify }}
+                </div>
+                {% endfor %}
+                <a class="project__anchor button button__solid button__solid--secondary" href="{{ post.url }}">
+                    View project
+                </a>
+            </div>
+        </div>
+        {% for hero-content in post.hero %}
+        <div class="project__image" style="background-image: url('{{ hero-content.image }}'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+            {% endfor %}
+        </div>
+    </li>
+    {% endfor %}
+</ul>
+<!-- end listing -->

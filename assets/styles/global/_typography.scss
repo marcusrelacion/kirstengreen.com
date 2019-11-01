@@ -1,0 +1,64 @@
+blockquote {
+    border-left: solid 4px var(--oxford-blue);
+    font-style: italic;
+    font-size: var(--font-size-4);
+    margin: 0;
+    padding-left: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+figcaption {
+    font-size: 16px;
+}
+
+ul,
+ol {
+    margin-left: 24px;
+    margin-bottom: 24px;
+}
+
+::marker {
+    color: var(--oxford-blue);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: var(--oxford-blue);
+    font-family: var(--mono);
+}
+
+h1,
+h2 {
+    font-weight: 600;
+}
+
+h1 {
+    font-size: var(--font-size-2);
+}
+
+h2 {
+    font-family: var(--sans-serif);
+    font-size: var(--font-size-2);
+    margin-bottom: 16px;
+}
+
+h3 {
+    font-size: var(--font-size-3);
+    font-weight: 700;
+}
+
+p:not(:last-child) {
+    margin-bottom: 24px;
+}
+
+@media screen and (min-width:1279px) {
+    h1 {
+        font-size: var(--font-size-1);
+    }
+
+}

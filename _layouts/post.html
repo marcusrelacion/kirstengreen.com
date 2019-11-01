@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+{% include section-hero.html %}
+{% for section in page.sections %}
+    {% include block-50-50.html %}
+    {% include block-60-40.html %}
+    {% include section-100.html %}
+{% endfor %}

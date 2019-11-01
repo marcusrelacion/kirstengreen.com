@@ -1,0 +1,13 @@
+{% if section.layout == '50-50' %}
+<section class="grid grid--50-50">
+    <div class="grid-item">
+        {{ section.column-1-body | markdownify }}
+    </div>
+    <div class="grid-item {% if section.column-2-body contains 'Methods' %} methods-and-execution {% endif %}">
+        {{ section.column-2-body | markdownify }}
+    </div>
+</section>
+{% if section.show-divider == true %}
+	<hr class="page-divider">
+{% endif %}
+{% endif %}

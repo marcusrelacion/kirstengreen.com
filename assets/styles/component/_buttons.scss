@@ -1,0 +1,33 @@
+.button {
+    background-color: transparent;
+    display: inline-block;
+    font-family: var(--mono);
+    font-weight: 600;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: all 100ms ease-in;
+
+    &__solid {
+        box-shadow: 4px 4px 0px var(--oxford-blue);
+    }
+
+    &__solid--secondary {
+        background-color: var(--rajah);
+        color: var(--oxford-blue);
+    }
+
+    &__underline,
+    &__transparent {
+        padding: 0;
+    }
+
+    &__underline--secondary {
+        border-bottom: solid 1px var(--rajah);
+        color: var(--rajah);
+    }
+
+    &__transparent--secondary {
+        color: var(--rajah);
+    }
+
+}

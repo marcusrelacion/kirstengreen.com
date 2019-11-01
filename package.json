@@ -1,0 +1,18 @@
+{
+    "name": "recall",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "jekyll-serve": "bundle exec jekyll serve",
+        "jekyll-serve-r": "bundle exec jekyll serve --livereload",
+        "jekyll-build": "bundle exec jekyll build",
+        "jekyll-build-p": "bundle exec jekyll build --profile",
+        "jekyll-build-v": "bundle exec jekyll build --verbose",
+        "netlify-dev": "netlify dev --live"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {}
+}

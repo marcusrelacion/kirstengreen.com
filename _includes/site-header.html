@@ -1,5 +1,51 @@
-<header role="banner">
-  <div class="container">
-    {% include nav-primary.html %}
-  </div>
+<header class="site__header">
+    <div class="sticky">
+        <nav class="navigation-primary">
+            <ul class="navigation-primary__links">
+                {% for link in site.primary.links %}
+                <li class="navigation-primary__link">
+                    <a class="button button__underline button__underline--secondary" href="{{ link.url }}">
+                        {{ link.title }}
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+        </nav>
+        <div class="introduction">
+            <img alt="{{ site.sidebar-about-avatar-alt }}" class="introduction__logo" src="{{ site.sidebar-about-avatar }}"/>
+            <h1 class="introduction__header">
+                {{ site.sidebar-about-header }}
+            </h1>
+            <h2 class="introduction__subheader">
+                {{ site.sidebar-about-body }}
+            </h2>
+        </div>
+        <div class="contact">
+            <div class="contact__status">
+                {% if site.sidebar-contact-status-seeking == true %}
+                <p class="paragraph">
+                    {{ site.sidebar-contact-status-message-seeking }}
+                </p>
+                {% else %}
+                <p class="paragraph">
+                    {{ site.sidebar-contact-status-message-not-seeking }}
+                </p>
+                {% endif %}
+            </div>
+            <a class="button button__underline button__underline--secondary" href="{{ site.sidebar-contact-link-url }}">
+                {{ site.sidebar-contact-link-text }}
+            </a>
+        </div>
+        <div class="social">
+            <ul class="social__links">
+                {% for link in site.social.links %}
+                <li class="social__link">
+                    <a class="button button__transparent button__transparent--secondary" href="{{ link.href }}" rel="noopener" target="_blank">
+                        {{ link.icon }}
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
 </header>

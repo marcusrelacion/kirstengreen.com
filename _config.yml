@@ -1,60 +1,113 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-
-# Build settings
+---
+title: Kisten Green
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  projects:
+    title: Projects
+    output: true
+    permalink: "/projects/:title"
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: projects
+  values:
+    title: 
+    description: 
+    hero:
+    - name: 
+      company: 
+      year: 
+      body: 
+      image: 
+      image-alt: Provide Alt Text
+    sections:
+    - section: 1
+      layout: 50-50
+      column-1-body: 
+      column-2-body: 
+    - section: 2
+      layout: full-width
+      image: 
+      image-alt: 
+      image-caption-body: 
+    - section: 3
+      layout: 50-50
+      column-1-body: 
+      column-2-body: 
+    - section: 4
+      layout: 50-50
+      column-1-body: 
+      column-2-body: 
+    - section: 5
+      layout: 50-50
+      column-1-body: 
+      column-2-body: 
+    - section: 6
+      layout: 50-50
+      column-1-body: 
+      column-2-body: 
+    - section: 7
+      layout: 50-50
+      column-1-body: 
+      column-2-body: 
+    - section: 
+      layout: 50-50
+      column-1-body: 
+      column-2-body: 
+    - section: 
+      layout: full-width
+      image: 
+      image-alt: Provide Alt Text
+      image-caption-body: 
+    layout: post
+DIVIDER-1: 
+primary:
+  links:
+  - title: Home
+    url: "/"
+  - title: Resume
+    url: "/resume/"
+sidebar-about-avatar: "/uploads/kg-avatar.png"
+sidebar-about-header: Hi, I’m Kirsten.
+sidebar-about-body: I’m a Product Designer working on web applications in the Washington,
+  D.C. area.
+sidebar-contact-status-seeking: true
+sidebar-contact-status-message-seeking: I’m currently looking for work and, if you
+  are interested in working together, let me know!
+sidebar-contact-status-message-not-seeking: 
+sidebar-contact-link-text: Send me a message
+sidebar-contact-link-url: mailto:hello@kirstengreen.com?subject=Hi! I would like to
+  work with you.
+sidebar-social-linkedin-link: https://www.linkedin.com/in/greenkirsten/
+sidebar-social-twitter-link: https://twitter.com/kirstengreen_/
+sidebar-social-instagram-link: https://www.instagram.com/kirstengreen_/
+social:
+  links:
+  - title: LinkedIn
+    href: https://www.linkedin.com/in/greenkirsten/
+    icon: <i class="fab fa-linkedin"></i>
+  - title: Twitter
+    href: https://twitter.com/kirstengreen_
+    icon: <i class="fab fa-twitter-square"></i>
+  - title: Instagram
+    href: https://www.instagram.com/kirstengreen_/
+    icon: <i class="fab fa-instagram"></i>
+copyright: "© 2019 Kirsten Green"
+DIVIDER-2: "/// Ignore Everything Below ///"
 markdown: kramdown
 plugins:
-  - jekyll-feed
-
-collections:
-  work:
-    title: Work
-    output: true
-
-# paginator section
-paginator-header: Related Case Studies
-
-# contact section
-contact-header: Contact Me
-contact-subheader: |
-  I am currently looking for work. If you are interested in working together, let me know!
-contact-image: http://placecorgi.com/800/400
-contact-image-alt: Alt Text
-
-# footer
-copyright: © 2018 Kirsten Green
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+- jekyll-seo-tag
+encoding: utf-8
+sass:
+  sass_dir: "/assets/styles/"
+  style: compressed
+baseurl: 
+url: 
+asseturl: "/assets/"
+uploadurl: "/uploads/"

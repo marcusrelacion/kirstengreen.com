@@ -1,0 +1,73 @@
+.grid {
+    display: grid;
+    grid-gap: 32px;
+}
+
+.grid:not(:first-of-type) {
+    margin-top: 32px;
+}
+
+.grid--100 {
+    grid-template-columns: repeat(4, 1fr);
+    margin-top: 40px !important;
+    margin-bottom: 40px;
+}
+
+.photo-grid {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: 1fr repeat(2, 50px);
+    grid-gap: 32px;
+    grid-column: span 4;
+}
+
+.photo-grid-100 {
+    grid-column: span 4;
+}
+
+.photo-grid img {
+    grid-column: 1/8;
+    grid-row: 1 / span 2;
+}
+
+.photo-grid figcaption {
+    padding: 32px;
+    grid-column: 5/9;
+    grid-row: 2/4;
+    background-color: var(--concrete);
+    border-right: solid 4px var(--oxford-blue);
+    border-bottom: solid 4px var(--oxford-blue);
+    align-self: center;
+}
+
+.grid--50-50,
+.grid--50-50 {
+    grid-template-columns: 1fr;
+    align-items: start;
+    margin-bottom: 32px;
+}
+
+.grid-60-40 {
+    grid-template-columns: 6fr 4fr;
+    margin-bottom: 80px;
+}
+
+.grid--30-70 {
+    grid-template-columns: 1fr;
+    margin-top: 80px;
+}
+
+.grid--30-70 p {
+    margin-bottom: 16px;
+}
+
+@media screen and (min-width:1279px) {
+    .grid--50-50,
+    .grid--50-50 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .grid--30-70 {
+        grid-template-columns: 1.5fr 2.5fr;
+    }
+
+}

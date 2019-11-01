@@ -1,0 +1,18 @@
+.sticky {
+    position: sticky;
+    top: 16px;
+}
+
+@media screen and (min-width:767px) {
+    .sticky {
+        position: sticky;
+        top: 40px;
+    }
+
+}
+
+.page-divider {
+    max-width: 800px;
+    margin: auto;
+    border: solid 2px var(--oxford-blue);
+}
