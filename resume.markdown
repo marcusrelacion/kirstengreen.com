@@ -6,11 +6,11 @@ body: |-
   for user-identified problems in products. I enjoy translating user research findings
   by developing prototypes for user testing and designing clean user interfaces. I
   am an accessibility advocate and work towards making designs that reflect that ideal.
-  
+
   Currently, I am exploring the technical side of UX and UI development by learning
   JavaScript for user interaction and strengthening my CSS skills to develop user
   interfaces.
-resume-file: /uploads/kirsten-green_resume.pdf
+resume-file: "/uploads/kirsten-green_resume.pdf"
 resume-button-label: Download Resume
 sections:
 - column: left
