@@ -52,12 +52,12 @@ sections:
     - Microsoft Suite
     - Proficient in MAC & PC environments
 - column: right
-  text: "## Work Experience\n\n###SHL\n**UX Design Contractor**\n<br/>*January 2020
+  text: "## Work Experience\n\n### SHL\n**UX Design Contractor**\n<br/>*January 2020
     - May 20208*\n\nWhile at SHL, I worked with the Product and UX teams to develop
     a new product that helps clients find the right candidates for their team.\n\n-
     Worked with Product to define product needs and user requirements\n- Developed
     ideas and solutions that consider both our clients and their candidates as end-users\n-
-    Used Figma to develop site maps, user flows, wireframes, UI, and prototypes.\n-
+    Used Figma to develop site maps, user flows, wireframes, UI, and prototypes\n-
     Used Figma to create a componentized design system to enable the design team to
     quickly create mockups for ideation and development\n \n\n\n### Gartner\n**UI/UX
     Designer**\n<br/>*July 2016 - August 2018*\n\nDuring my time at Gartner, I worked
