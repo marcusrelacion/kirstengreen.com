@@ -52,71 +52,59 @@ sections:
     - Microsoft Suite
     - Proficient in MAC & PC environments
 - column: right
-  text: |-
-    ## Work Experience
-
-    ### Gartner
-    **UI/UX Designer**
-    <br/>*July 2016 - August 2018*
-
-    During my time at Gartner, I worked on TalentNeuron, a leading talent analytics web application used by recruiters, talent analysts, and other HR professionals. As a UI/UX Designer on the team, I was an active part in all aspects of the Design Thinking process.
-
-    - Developed a research process, which allowed the UX and Product teams to run regular interview and testing cycles with users
-    - Analyzed user interviews to identify problems users needed to solve in their work and what problems they encountered while using TalentNeuron
-    - Used research data to drive strategy based on the evolving needs of our users
-    - Developed and maintained personas by collecting data through interviewing users and key stakeholders
-    - Worked with the team to define problems and ideate on solutions through Design Thinking workshops
-    - Created interactive prototypes and wireframes in Axure
-    - Defined a design system by creating a style guide and reusable components in Sketch
-    - Created UI in Sketch, including design patterns and data visualizations
-    - Actively worked one-on-one with developers to meet acceptance criteria defined by Product
-    - Used [Zeplin.io](http://zeplin.io/) as a design reference and communication tool between the development and design teams
-    - Participated in daily stand-up and scrum meetings
-    - Worked in an Agile environment to ensure quick delivery and responsiveness to our users‘ needs
-
-
-
-    ### CEB, now Gartner
-    **Web Design Contractor**
-    <br/>*April 2016 - June 2016*
-
-    As a part of CEB’s Web Design Studio, I provided internal clients with web-based assets and designs to help support their business’ particular needs.
-
-    - Used the Web Content Accessibility Guidelines (WCAG) to perform a design audit of CEB’s public and member sites
-    - Created on-brand visual design solutions that were AA compliant or better according to WCAG
-    - Updated the public website using Adobe Experience Manager
-    - Used Photoshop to design several marketing pages for the public website
-    - Created custom sites using HTML & CSS while managing CMS constraints
-    - Maintained conference microsites by updating their design and content
-    - Used Photoshop to design a survey tool for CEB IT Roadmap Builder
-
-
-
-    ### CBRE
-    **Graphic Design Contractor**
-    <br/>*June 2015 - October 2015*
-
-    I worked for CBRE's Property Marketing Studio to create marketing collateral for internal organizations across the southeastern region. I supported the studio as it grew from a pilot program that served only the southeast to an official service with several teams that provided marketing design for multiple regions across the United States.
-
-    - Used InDesign to create property branded pamphlets, brochures, flyers, and offering memorandums
-    - Designed and developed property eBlast campaigns
-    - Worked on projects that required quick turnarounds
-
-
-
-    ### Blue Water
-    **Graphic Designer; previously Graphic Design Intern**
-    <br/>*July 2014 – February 2015*
-
-    While I was at Blue Water, I worked on the agency’s rebranding project, which included digital and print collateral products. I also designed several websites and provided UX and QA support for our team.
-
-    - Used Adobe Illustrator, InDesign, and Photoshop to create branded assets and collateral
-    - Created wireframes in Balsamiq
-    - Created web designs in Photoshop
-    - Developed prototypes in InVision
-    - Used Illustrator to create illustrations for a series of educational videos
-    - Identified usability and UI bugs for several websites that were in development
-    - Annotated user testing videos
+  text: "## Work Experience\n\n###SHL\n**UX Design Contractor**\n<br/>*January 2020
+    - May 20208*\n\nWhile at SHL, I worked with the Product and UX teams to develop
+    a new product that helps clients find the right candidates for their team.\n\n-
+    Worked with Product to define product needs and user requirements\n- Developed
+    ideas and solutions that consider both our clients and their candidates as end-users\n-
+    Used Figma to develop site maps, user flows, wireframes, UI, and prototypes.\n-
+    Used Figma to create a componentized design system to enable the design team to
+    quickly create mockups for ideation and development\n \n\n\n### Gartner\n**UI/UX
+    Designer**\n<br/>*July 2016 - August 2018*\n\nDuring my time at Gartner, I worked
+    on TalentNeuron, a leading talent analytics web application used by recruiters,
+    talent analysts, and other HR professionals. As a UI/UX Designer on the team,
+    I was an active part in all aspects of the Design Thinking process.\n\n- Developed
+    a research process, which allowed the UX and Product teams to run regular interview
+    and testing cycles with users\n- Analyzed user interviews to identify problems
+    users needed to solve in their work and what problems they encountered while using
+    TalentNeuron\n- Used research data to drive strategy based on the evolving needs
+    of our users\n- Developed and maintained personas by collecting data through interviewing
+    users and key stakeholders\n- Worked with the team to define problems and ideate
+    on solutions through Design Thinking workshops\n- Created interactive prototypes
+    and wireframes in Axure\n- Defined a design system by creating a style guide and
+    reusable components in Sketch\n- Created UI in Sketch, including design patterns
+    and data visualizations\n- Actively worked one-on-one with developers to meet
+    acceptance criteria defined by Product\n- Used [Zeplin.io](http://zeplin.io/) as
+    a design reference and communication tool between the development and design teams\n-
+    Participated in daily stand-up and scrum meetings\n- Worked in an Agile environment
+    to ensure quick delivery and responsiveness to our users‘ needs\n\n\n\n### CEB,
+    now Gartner\n**Web Design Contractor**\n<br/>*April 2016 - June 2016*\n\nAs a
+    part of CEB’s Web Design Studio, I provided internal clients with web-based assets
+    and designs to help support their business’ particular needs.\n\n- Used the Web
+    Content Accessibility Guidelines (WCAG) to perform a design audit of CEB’s public
+    and member sites\n- Created on-brand visual design solutions that were AA compliant
+    or better according to WCAG\n- Updated the public website using Adobe Experience
+    Manager\n- Used Photoshop to design several marketing pages for the public website\n-
+    Created custom sites using HTML & CSS while managing CMS constraints\n- Maintained
+    conference microsites by updating their design and content\n- Used Photoshop to
+    design a survey tool for CEB IT Roadmap Builder\n\n\n\n### CBRE\n**Graphic Design
+    Contractor**\n<br/>*June 2015 - October 2015*\n\nI worked for CBRE's Property
+    Marketing Studio to create marketing collateral for internal organizations across
+    the southeastern region. I supported the studio as it grew from a pilot program
+    that served only the southeast to an official service with several teams that
+    provided marketing design for multiple regions across the United States.\n\n-
+    Used InDesign to create property branded pamphlets, brochures, flyers, and offering
+    memorandums\n- Designed and developed property eBlast campaigns\n- Worked on projects
+    that required quick turnarounds\n\n\n\n### Blue Water\n**Graphic Designer; previously
+    Graphic Design Intern**\n<br/>*July 2014 – February 2015*\n\nWhile I was at Blue
+    Water, I worked on the agency’s rebranding project, which included digital and
+    print collateral products. I also designed several websites and provided UX and
+    QA support for our team.\n\n- Used Adobe Illustrator, InDesign, and Photoshop
+    to create branded assets and collateral\n- Created wireframes in Balsamiq\n- Created
+    web designs in Photoshop\n- Developed prototypes in InVision\n- Used Illustrator
+    to create illustrations for a series of educational videos\n- Identified usability
+    and UI bugs for several websites that were in development\n- Annotated user testing
+    videos"
 layout: resume
 ---
 
