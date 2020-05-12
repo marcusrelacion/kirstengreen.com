@@ -53,7 +53,7 @@ sections:
     - Proficient in MAC & PC environments
 - column: right
   text: "## Work Experience\n\n### SHL\n**UX Design Contractor**\n<br/>*January 2020
-    - May 20208*\n\nWhile at SHL, I worked with the Product and UX teams to develop
+    - May 2020*\n\nWhile at SHL, I worked with the Product and UX teams to develop
     a new product that helps clients find the right candidates for their team.\n\n-
     Worked with Product to define product needs and user requirements\n- Developed
     ideas and solutions that consider both our clients and their candidates as end-users\n-
