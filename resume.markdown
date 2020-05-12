@@ -11,7 +11,7 @@ body: |-
   JavaScript for user interaction and strengthening my CSS skills to develop user
   interfaces.
 resume-file: "/uploads/kirsten-green_resume.pdf"
-resume-button-label: 'Download Resume '
+resume-button-label: Download Resume
 sections:
 - column: left
   text: |-
