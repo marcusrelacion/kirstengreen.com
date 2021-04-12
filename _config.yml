@@ -98,6 +98,9 @@ social:
   - title: Instagram
     href: https://www.instagram.com/kirstengreen_/
     icon: <i class="fab fa-instagram"></i>
+  - title: GitHub
+    href: https://github.com/kirstengreen
+    icon: <i class="fab fa-github"></i>
 copyright: "&copy; 2021 Kirsten Green"
 DIVIDER-2: "/// Ignore Everything Below ///"
 markdown: kramdown
