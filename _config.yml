@@ -92,15 +92,15 @@ social:
   - title: LinkedIn
     href: https://www.linkedin.com/in/greenkirsten/
     icon: <i class="fab fa-linkedin"></i>
+  - title: GitHub
+    href: https://github.com/kirstengreen
+    icon: <i class="fab fa-github"></i>
   - title: Twitter
     href: https://twitter.com/kirstengreen_
     icon: <i class="fab fa-twitter-square"></i>
   - title: Instagram
     href: https://www.instagram.com/kirstengreen_/
     icon: <i class="fab fa-instagram"></i>
-  - title: GitHub
-    href: https://github.com/kirstengreen
-    icon: <i class="fab fa-github"></i>
 copyright: "&copy; 2021 Kirsten Green"
 DIVIDER-2: "/// Ignore Everything Below ///"
 markdown: kramdown
