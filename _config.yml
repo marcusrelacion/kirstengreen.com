@@ -98,7 +98,7 @@ social:
   - title: Instagram
     href: https://www.instagram.com/kirstengreen_/
     icon: <i class="fab fa-instagram"></i>
-copyright: "© 2019 Kirsten Green"
+copyright: "&copy; 2019 Kirsten Green"
 DIVIDER-2: "/// Ignore Everything Below ///"
 markdown: kramdown
 plugins:
