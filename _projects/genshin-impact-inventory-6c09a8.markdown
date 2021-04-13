@@ -60,17 +60,17 @@ sections:
 - section: 3
   layout: full-width
   image: "/uploads/gii_view-artifact.png"
-  img-alt: view artifact page
+  image-alt: view artifact page
   image-caption-body: Artifact details page
 - section: 4
   layout: full-width
   image: "/uploads/gii_edit.png"
-  img-alt: edit artifact
+  image-alt: edit artifact
   image-caption-body: Edit artifact page
 - section: 5
   layout: 50-50
   image: "/uploads/gii_create.png"
-  img-alt: new artifact
+  image-alt: new artifact
   image-caption-body: Create artifact page
 - section: 6
   layout: 50-50
