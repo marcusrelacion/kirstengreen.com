@@ -18,29 +18,31 @@ sections:
 
     ### Features
 
-    - Scoreboard that keeps track of how many rounds each player has won
-    - An indicator that shows which player's turn it is
-    - Automatically changes checker colors to align with the current player's turn
-    - Allows the player to click on the column that they want to place their checker in
-    - Automatically scans for win conditions after each player makes a move
-    - A button to allow the players to restart the round
-    - A button to allow the players to start a new game/clear their current game
+    * Scoreboard that keeps track of how many rounds each player has won
+    * An indicator that shows which player's turn it is
+    * Automatically changes checker colors to align with the current player's turn
+    * Allows the player to click on the column that they want to place their checker in
+    * Automatically scans for win conditions after each player makes a move
+    * A button to allow the players to restart the round
+    * A button to allow the players to start a new game/clear their current game
 
 
     ### View Project
     [Let's Play Connect 4!](https://kirstengreen.github.io/connect-4-app/index.html)
+
     [GitHub](https://github.com/kirstengreen/kirstengreen.github.io/tree/main/connect-4-app)
 
   column-2-body: |
     ### Technologies Used
-    - HTML5
-    - CSS3
-    - JavaScript
-    - jQuery
-    - Google Fonts
-    - VS Code
-    - Utilized live prototyping for wireframing and design
-    - GoodNotes for project planning
+
+    * HTML5
+    * CSS3
+    * JavaScript
+    * jQuery
+    * Google Fonts
+    * VS Code
+    * Utilized live prototyping for wireframing and design
+    * GoodNotes for project planning
 - section: 2
   layout: full-width
   image: "/uploads/c4_game.png"
