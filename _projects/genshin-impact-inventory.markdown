@@ -54,7 +54,7 @@ sections:
     * GoodNotes for wireframing and project planning
 - section: 2
   layout: full-width
-  image: "/uploads/hi_home.png"
+  image: "/uploads/gii_home.png"
   image-alt: artifacts page
   image-caption-body: Artifact inventory page
 - section: 3
