@@ -1,6 +1,7 @@
 ---
 title: Connect 4
 date: 2021-02-12 17:34:00 -05:00
+position: 3
 hero:
 - name: Connect 4
   company: General Assembly Project

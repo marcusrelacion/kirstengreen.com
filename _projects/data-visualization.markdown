@@ -1,7 +1,7 @@
 ---
 title: Data Visualization
-date: 2017-08-01 00:00:00 Z
-position: 2
+date: 2017-07-31 20:00:00 -04:00
+position: 6
 hero:
 - name: Data Visualization
   company: Gartner

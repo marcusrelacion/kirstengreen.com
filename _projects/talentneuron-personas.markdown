@@ -1,7 +1,7 @@
 ---
 title: TalentNeuron Personas
-date: 2018-06-01 22:39:00 Z
-position: 0
+date: 2018-06-01 18:39:00 -04:00
+position: 4
 hero:
 - name: TalentNeuron
   company: Gartner
