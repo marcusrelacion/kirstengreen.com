@@ -13,7 +13,7 @@ hero:
   image-alt: genshin impact inventory artifacts
 sections:
 - section: 1
-  layout: 50 - 50
+  layout: 50-50
   column-1-body: |-
     ## Overview
 
