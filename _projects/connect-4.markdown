@@ -9,7 +9,7 @@ hero:
     I recreated a game on the web. I chose to develop and deploy Connect 4, a game
     that I have fond memories of playing with my Grandma when I was young.
   image: "/uploads/hi_c4.png"
-  image-alt: Connect 4 home
+  image-alt: connect 4 home
 sections:
 - section: 1
   layout: 50-50
@@ -33,6 +33,8 @@ sections:
   column-2-body: |
     ### Technologies Used
 
+    <br/>
+
     * HTML5
     * CSS3
     * JavaScript
@@ -41,16 +43,16 @@ sections:
     * VS Code
     * Utilized live prototyping for wireframing and design
     * GoodNotes for project planning
-  show-divider: true
+  show-divider: false
 - section: 2
   layout: full-width
   image: "/uploads/c4_game.png"
-  image-alt: Players filling the game board
+  image-alt: players filling the game board
   image-caption-body: Checkers fill the game board as players interact with the page.
 - section: 3
   layout: full-width
   image: "/uploads/c4_win.png"
-  image-alt: Player 1 wins
+  image-alt: player 1 wins
   image-caption-body: Player 1 wins!
 - section: 4
   layout: 50-50
