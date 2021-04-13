@@ -28,9 +28,7 @@ sections:
 
 
     ### View Project
-    [Let's Play Connect 4!](https://kirstengreen.github.io/connect-4-app/index.html)
-
-    [GitHub](https://github.com/kirstengreen/kirstengreen.github.io/tree/main/connect-4-app)
+    [Let's Play Connect 4!](https://kirstengreen.github.io/connect-4-app/index.html) - [GitHub](https://github.com/kirstengreen/kirstengreen.github.io/tree/main/connect-4-app)
 
   column-2-body: |
     ### Technologies Used
