@@ -1,15 +1,14 @@
 ---
 title: Resume
 header: About Me
-body: |-
-  I am a user-focused designer with experience in identifying and providing solutions
-  for user-identified problems in products. I enjoy translating user research findings
-  by developing prototypes for user testing and designing clean user interfaces. I
-  am an accessibility advocate and work towards making designs that reflect that ideal.
-
-  Currently, I am exploring the technical side of UX and UI development by learning
-  JavaScript for user interaction and strengthening my CSS skills to develop user
-  interfaces.
+body: "I am a designer/developer with a passion for building design systems from inception
+  to deployment. I enjoy creating processes that help both design and dev teams do
+  their best work. I am also an accessibility advocate and consider it a priority
+  to make everything I build accessible to its users. \n\nCurrently, I am learning
+  how to build web apps using JS frameworks with a focus on Vue and React. My next
+  goal is to become an expert in user interface interactions and animations. I would
+  love to learn how to create games one day as well.\n\nIn my free time, I enjoy playing
+  video games and going for walks to take photos. "
 resume-file: "/uploads/kirsten-green_resume.pdf"
 resume-button-label: Download Resume
 sections:
