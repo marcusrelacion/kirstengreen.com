@@ -43,6 +43,7 @@ sections:
     * VS Code
     * Utilized live prototyping for wireframing and design
     * GoodNotes for project planning
+  show-divider: true
 - section: 2
   layout: full-width
   image: "/uploads/c4_game.png"
@@ -53,5 +54,16 @@ sections:
   image: "/uploads/c4_win.png"
   image-alt: Player 1 wins
   image-caption-body: Player 1 wins!
+- section: 4
+  layout: 50-50
+- section: 5
+  layout: 50-50
+- section: 6
+  layout: 50-50
+- section: 7
+  layout: 50-50
+- layout: 50-50
+- layout: full-width
+  image-alt: Provide Alt Text
 ---
 
