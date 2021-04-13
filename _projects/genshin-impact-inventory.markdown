@@ -11,6 +11,7 @@ hero:
     a project to make a RESTful app that was full CRUD. I decided to make something
     centered around the game I was playing the most, Genshin Impact. At the time,
     farming artifacts was my #1 priority, so I decided to start there.'
+  image: "/uploads/hi_gii.png"
   image-alt: genshin impact inventory artifacts
 sections:
 - section: 1
@@ -52,5 +53,19 @@ sections:
     * Heroku
     * Utilized live prototyping for wireframing and design
     * GoodNotes for wireframing and project planning
+- section: 2
+  layout: full-width
+  image: "/uploads/hi_home.png"
+  image-alt: artifacts page
+  image-caption-body: Artifact inventory page
+- section: 3
+  layout: full-width
+  image: "/uploads/gii_view-artifact.png"
+  image-alt: view artifact page
+  image-caption-body: Artifact details page
+- section: 4
+  layout: 50-50
+  column-1-body: "![edit artifact](/uploads/gii_edit.png)"
+  column-2-body: "![create new artifact](/uploads/gii_create.png)"
 ---
 
