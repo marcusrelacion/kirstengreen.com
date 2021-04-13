@@ -52,6 +52,7 @@ sections:
     * Heroku
     * Utilized live prototyping for wireframing and design
     * GoodNotes for wireframing and project planning
+  show-divider: false
 - section: 2
   layout: full-width
   image: "/uploads/gii_home.png"
