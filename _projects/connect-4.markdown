@@ -4,6 +4,7 @@ date: 2021-02-12 17:34:00 -05:00
 position: 3
 hero:
 - name: General Assembly Project
+  company: General Assembly
   year: 2021
   body: While attending General Assembly for Software Programing (Jan - Apr 2021),
     I recreated a game on the web. I chose to develop and deploy Connect 4, a game
