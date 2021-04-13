@@ -7,14 +7,8 @@ hero:
   company: General Assembly
   year: 2021
   body: For my capstone project at General Assembly (Jan - Apr 2021), we were required
-    to make an application that used a frontend and database while learning something
-    new in the process. I decided to begin creating an app I have wanted to build
-    for almost 2-years. As a builder/planner Stardew Valley player, I often visited
-    the Stardew Valley Wiki page to make calculations for the items I wanted to craft.
-    I wanted to create a tool that helped make this process easier and quicker, so
-    I could get back to farming for all the resources I needed to build my items.
-    As for the new technology, I decided to learn Vue.js and I couldn't be happier
-    with that decision.
+    to make an application that used a frontend and database. I decided to begin creating
+    an app I have wanted to build for almost 2-years.
   image: "/uploads/hi_sdv.png"
   image-alt: stardew valley resource tool home
 sections:
