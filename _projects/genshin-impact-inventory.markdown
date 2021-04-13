@@ -1,7 +1,6 @@
 ---
 title: Genshin Impact Inventory
 date: 2021-03-05 08:28:00 -05:00
-published: false
 position: 2
 hero:
 - name: General Assembly Project
@@ -67,5 +66,14 @@ sections:
   layout: 50-50
   column-1-body: "![edit artifact](/uploads/gii_edit.png)"
   column-2-body: "![create new artifact](/uploads/gii_create.png)"
+- section: 5
+  layout: 50-50
+- section: 6
+  layout: 50-50
+- section: 7
+  layout: 50-50
+- layout: 50-50
+- layout: full-width
+  image-alt: Provide Alt Text
 ---
 
