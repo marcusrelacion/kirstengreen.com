@@ -13,49 +13,25 @@ resume-file: "/uploads/kirsten-green_resume.pdf"
 resume-button-label: Download Resume
 sections:
 - column: left
-  text: |-
-    ## Skills
-
-    - User Interface Design
-    - User Experience Design
-    - User Experience Research
-    - Design Thinking
-    - Agile
-    - Web Content Accessibility Guidelines (WCAG)
-    - W3C Accessibility
-    - User Flows
-    - Information Architecture
-    - Wireframing
-    - Prototyping
-    - Design Systems
-    - Product Design
-    - Mockups
-    - Data Visualization
-    - Web Design
-    - HTML5 and CSS3
-    - Illustration
-
-    ## Software
-
-    - Adobe Creative Cloud
-    - Axure RP
-    - Balsamiq
-    - InVision
-    - Sketch App
-    - Figma
-    - Abstract
-    - Zeplin.io
-    - Jira
-    - Confluence
-    - Trello
-    - Microsoft Suite
-    - Proficient in MAC & PC environments
+  text: "## Skills & Methodologies \n\n- Software Development\n- HTML\n- CSS\n- Javascript\n-
+    Node.js\n- Express.js\n- Mongoose\n- Mongo\n- React\n- Vue\n- GitHub\n- Object-Oriented
+    Programming\n- Responsive Design\n- User Interface Design\n- Design Systems\n-
+    Product Design\n- Web Design\n- Wireframing\n- Prototyping\n- Data Visualization\n-
+    Information Architecture\n- Web Content Accessibility Guidelines (WCAG)\n- W3C
+    Accessibility\n- Agile Development/Scrum\n- User Stories\n\n\n## Software\n\n-
+    Visual Studio Code\n- Axure RP\n- Balsamiq\n- Figma\n- Sketch App\n- Zeplin.io\n-
+    Adobe Creative Cloud\n- Jira\n- Confluence\n- Trello\n- Microsoft Suite\n- macOS"
 - column: right
-  text: "## Work Experience\n\n### SHL\n**UX Design Contractor**\n<br/>*January 2020
-    - May 2020*\n\nWhile at SHL, I worked with the Product and UX teams to develop
-    a new product that helps clients find the right candidates for their team.\n\n-
-    Worked with Product to define product needs and user requirements\n- Developed
-    ideas and solutions that consider both our clients and their candidates as end-users\n-
+  text: "## Latest\n\n### General Assembly\n**Computer Software Engineering Immersive
+    Student**\n<br/>*January 2021 - April 2021*\n\nOver a 12-week period of time,
+    I dedicated over 480 hours to professional training and development to become
+    skilled in Software Engineering. I used modern methodologies and technologies
+    to develop programs that reflect proficiency in a variety of programming languages.\n\n\n\n##
+    Work Experience\n\n### SHL\n**UX Design Contractor**\n<br/>*January 2020 - May
+    2020*\n\nWhile at SHL, I worked with the Product and UX teams to develop a new
+    product that helps clients find the right candidates for their team.\n\n- Worked
+    with Product to define product needs and user requirements\n- Developed ideas
+    and solutions that consider both our clients and their candidates as end-users\n-
     Used Figma to develop site maps, user flows, wireframes, UI, and prototypes\n-
     Used Figma to create a componentized design system to enable the design team to
     quickly create mockups for ideation and development\n \n\n\n### Gartner\n**UI/UX
