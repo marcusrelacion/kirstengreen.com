@@ -68,9 +68,10 @@ sections:
   image-alt: edit artifact
   image-caption-body: Edit artifact page
 - section: 6
-  layout: 50-50
-  image: 
-  image-alt: 
+  layout: full-width
+  image: "/uploads/gii_create.png"
+  image-alt: create artifact
+  image-caption-body: Create artifact page
 - section: 7
   layout: 50-50
 - layout: 50-50
