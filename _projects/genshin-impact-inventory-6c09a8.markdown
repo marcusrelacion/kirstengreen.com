@@ -3,6 +3,7 @@ title: Genshin Impact Inventory
 date: 2021-03-05 09:21:00 -05:00
 hero:
 - name: General Assembly Project
+  company: General Assembly
   year: 2021
   body: 'During our back-end unit at General Assembly (Jan - Apr 2021), we were assigned
     a project to make a RESTful app that was full CRUD. I decided to make something
@@ -51,7 +52,9 @@ sections:
     * Utilized live prototyping for wireframing and design
     * GoodNotes for wireframing and project planning
   show-divider: false
-- image: "/uploads/gii_home.png"
+- section: 2
+  layout: full-width
+  image: "/uploads/gii_home.png"
   image-alt: artifacts page
   image-caption-body: Artifact inventory page
 - section: 3
@@ -69,5 +72,12 @@ sections:
   image: "/uploads/gii_create.png"
   img-alt: new artifact
   image-caption-body: Create artifact page
+- section: 6
+  layout: 50-50
+- section: 7
+  layout: 50-50
+- layout: 50-50
+- layout: full-width
+  image-alt: Provide Alt Text
 ---
 
