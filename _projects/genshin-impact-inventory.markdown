@@ -3,8 +3,7 @@ title: Genshin Impact Inventory
 date: 2021-03-05 08:28:00 -05:00
 position: 2
 hero:
-- name: 'Genshin Impact Inventory '
-  company: General Assembly Project
+- name: General Assembly Project
   year: 2021
   body: 'During our back-end unit at General Assembly (Jan - Apr 2021), we were assigned
     a project to make a RESTful app that was full CRUD. I decided to make something
