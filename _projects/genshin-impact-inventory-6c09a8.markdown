@@ -69,6 +69,8 @@ sections:
   image-caption-body: Edit artifact page
 - section: 6
   layout: 50-50
+  image: 
+  image-alt: 
 - section: 7
   layout: 50-50
 - layout: 50-50
