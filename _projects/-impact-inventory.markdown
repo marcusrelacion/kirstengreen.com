@@ -74,6 +74,10 @@ sections:
   image-caption-body: Create artifact page
 - section: 7
   layout: 50-50
+- section: 7
+  layout: 50-50
 - layout: 50-50
+- layout: full-width
+  image-alt: Provide Alt Text
 ---
 
