@@ -1,6 +1,7 @@
 ---
 title: Genshin Impact Inventory
 date: 2021-03-05 09:21:00 -05:00
+position: 1
 hero:
 - name: General Assembly Project
   company: General Assembly
