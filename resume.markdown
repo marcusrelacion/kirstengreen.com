@@ -13,7 +13,7 @@ body: "\n![Kirsten Green](/uploads/icon2.jpg)\n\nI am a process-driven UI Develo
   an expert in user interface interactions and animations. I would love to learn how
   to create games one day as well.\n\nIn my free time, I enjoy playing video games
   and going for walks to take photos. \n\n**GitHub:** [https://github.com/kirstengreen](https://github.com/kirstengreen)
-  \n**Email:** hello@kirstengreen.com\n**Phone:** (240) 542 - 8825"
+  \n\n**Email:** hello@kirstengreen.com\n\n**Phone:** (240) 542 - 8825"
 resume-file: "/uploads/kirsten-green_resume.pdf"
 resume-button-label: Download Resume
 sections:
