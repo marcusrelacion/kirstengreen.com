@@ -27,11 +27,11 @@ sections:
     Visual Studio Code\n- Axure RP\n- Balsamiq\n- Figma\n- Sketch App\n- Zeplin.io\n-
     Adobe Creative Cloud\n- Jira\n- Confluence\n- Trello\n- Microsoft Suite\n- macOS"
 - column: right
-  text: "## Professional Development\n\n### General Assembly\n**Computer Software
-    Engineering Immersive Student**\n<br/>*January 2021 - April 2021*\n\nOver a 12-week
-    period of time, I dedicated over 420 hours to professional training and development
-    to become skilled in Software Engineering. I used modern methodologies and tech
-    to develop programs that reflect my proficiency in a variety of programming languages.
+  text: "## Professional Development\n\n### General Assembly\n**Software Engineering
+    Immersive Student**\n<br/>*January 2021 - April 2021*\n\nOver a 12-week period
+    of time, I dedicated over 420 hours to professional training and development to
+    become skilled in Software Engineering. I used modern methodologies and tech to
+    develop programs that reflect my proficiency in a variety of programming languages.
     \n\n- [Genshin Impact Inventory](https://github.com/kirstengreen/genshin-impact-inventory):
     Developed a tool that users can use to track their best in-game artifacts. While
     using this tool, a user can create, read, update, and delete (CRUD) artifacts
