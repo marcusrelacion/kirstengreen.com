@@ -29,32 +29,42 @@ sections:
 - column: right
   text: "## Professional Development\n\n### General Assembly\n**Computer Software
     Engineering Immersive Student**\n<br/>*January 2021 - April 2021*\n\nOver a 12-week
-    period of time, I dedicated over 480 hours to professional training and development
-    to become skilled in Software Engineering. I used modern methodologies and technologies
-    to develop programs that reflect proficiency in a variety of programming languages.\n\n\n\n##
-    Work Experience\n\n### SHL\n**UX Design Contractor**\n<br/>*January 2020 - May
-    2020*\n\nWhile at SHL, I worked with the Product and UX teams to develop a new
-    product that helps clients find the right candidates for their team.\n\n- Worked
-    with Product to define product needs and user requirements\n- Developed ideas
-    and solutions that consider both our clients and their candidates as end-users\n-
-    Used Figma to develop site maps, user flows, wireframes, UI, and prototypes\n-
-    Used Figma to create a componentized design system to enable the design team to
-    quickly create mockups for ideation and development\n \n\n\n### Gartner\n**UI/UX
-    Designer**\n<br/>*July 2016 - August 2018*\n\nDuring my time at Gartner, I worked
-    on TalentNeuron, a leading talent analytics web application used by recruiters,
-    talent analysts, and other HR professionals. As a UI/UX Designer on the team,
-    I was an active part in all aspects of the Design Thinking process.\n\n- Developed
-    a research process, which allowed the UX and Product teams to run regular interview
-    and testing cycles with users\n- Analyzed user interviews to identify problems
-    users needed to solve in their work and what problems they encountered while using
-    TalentNeuron\n- Used research data to drive strategy based on the evolving needs
-    of our users\n- Developed and maintained personas by collecting data through interviewing
-    users and key stakeholders\n- Worked with the team to define problems and ideate
-    on solutions through Design Thinking workshops\n- Created interactive prototypes
-    and wireframes in Axure\n- Defined a design system by creating a style guide and
-    reusable components in Sketch\n- Created UI in Sketch, including design patterns
-    and data visualizations\n- Actively worked one-on-one with developers to meet
-    acceptance criteria defined by Product\n- Used [Zeplin.io](http://zeplin.io/) as
+    period of time, I dedicated over 420 hours to professional training and development
+    to become skilled in Software Engineering. I used modern methodologies and tech
+    to develop programs that reflect my proficiency in a variety of programming languages.
+    \n\n- [Genshin Impact Inventory](https://github.com/kirstengreen/genshin-impact-inventory):
+    Developed a tool that users can use to track their best in-game artifacts. While
+    using this tool, a user can create, read, update, and delete (CRUD) artifacts
+    for their inventories. Primary technologies used were CSS, HTML, JavaScript, EJS,
+    Express, Mongoose, and Mongo.\n- [Stardew Valley Resource Tool](https://github.com/kirstengreen/sdv-resource-calculator):
+    Developed a tool that users can use to calculate how many resources they need
+    in order to craft an item for their farm. Users can search through a database
+    of craftable items to find the one they want to build. Once they select an item,
+    they can define how many they want to make and get the number of resources they
+    need to make those items. Primary technologies used were Vue, Python, PostgreSQL,
+    JavaScript, CSS, and HTML. \n\n\n\n## Work Experience\n\n### SHL\n**UX Design
+    Contractor**\n<br/>*January 2020 - May 2020*\n\nWhile at SHL, I worked with the
+    Product and UX teams to develop a new product that helps clients find the right
+    candidates for their team.\n\n- Worked with Product to define product needs and
+    user requirements\n- Developed ideas and solutions that consider both our clients
+    and their candidates as end-users\n- Used Figma to develop site maps, user flows,
+    wireframes, UI, and prototypes\n- Used Figma to create a componentized design
+    system to enable the design team to quickly create mockups for ideation and development\n
+    \n\n\n### Gartner\n**UI/UX Designer**\n<br/>*July 2016 - August 2018*\n\nDuring
+    my time at Gartner, I worked on TalentNeuron, a leading talent analytics web application
+    used by recruiters, talent analysts, and other HR professionals. As a UI/UX Designer
+    on the team, I was an active part in all aspects of the Design Thinking process.\n\n-
+    Developed a research process, which allowed the UX and Product teams to run regular
+    interview and testing cycles with users\n- Analyzed user interviews to identify
+    problems users needed to solve in their work and what problems they encountered
+    while using TalentNeuron\n- Used research data to drive strategy based on the
+    evolving needs of our users\n- Developed and maintained personas by collecting
+    data through interviewing users and key stakeholders\n- Worked with the team to
+    define problems and ideate on solutions through Design Thinking workshops\n- Created
+    interactive prototypes and wireframes in Axure\n- Defined a design system by creating
+    a style guide and reusable components in Sketch\n- Created UI in Sketch, including
+    design patterns and data visualizations\n- Actively worked one-on-one with developers
+    to meet acceptance criteria defined by Product\n- Used [Zeplin.io](http://zeplin.io/) as
     a design reference and communication tool between the development and design teams\n-
     Participated in daily stand-up and scrum meetings\n- Worked in an Agile environment
     to ensure quick delivery and responsiveness to our users‘ needs\n\n\n\n### CEB,
