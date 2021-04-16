@@ -35,8 +35,6 @@ sections:
     ### Technologies Used
     *Software Development*
 
-    <br/>
-
     * HTML5
     * CSS3
     * JavaScript
