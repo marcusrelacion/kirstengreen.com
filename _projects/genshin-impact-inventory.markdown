@@ -18,6 +18,10 @@ sections:
   column-1-body: |-
     ## Overview
 
+    ### About
+
+    The primary goal of Genshin Impact Inventory is to track all of the most important items a player has in their inventory. V1 focuses on artifacts. Artifacts are essential for making sure your character is strong and ready for whatever Teyvat has in store for them. This tool helps a user document and keep track of their artifacts so they can plan accordingly.
+
     ### Features
 
     * Create and add artifacts to your inventory
@@ -26,7 +30,6 @@ sections:
     * Edit artifacts to account for level-ups, stat increases, change in equipped character, etc.
     * Delete an artifact if you no longer want to document it
     * Return to the website at a future date to view your artifacts again.
-
 
     ### View Project
     [Genshin Impact Inventory](https://genshin-impact-inventory.herokuapp.com/) - [GitHub](https://github.com/kirstengreen/genshin-impact-inventory)
