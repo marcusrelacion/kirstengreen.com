@@ -54,17 +54,17 @@ sections:
   layout: full-width
   image: "/uploads/sdv_home.png"
   image-alt: stardew valley resource tool calculator
-  image-caption-body: Resource Tool Calculator page
+  image-caption-body: Stardew Valley Resource Tool list page
 - section: 3
   layout: full-width
   image: "/uploads/sdv_search.png"
   image-alt: stardew valley resource tool calculator search
-  image-caption-body: Resource Tool Calculator search
+  image-caption-body: Stardew Valley Resource Tool item search
 - section: 4
   layout: full-width
   image: "/uploads/sdv_calcs.png"
   image-alt: stardew valley resource tool calculation page
-  image-caption-body: Resource Tool calculation page
+  image-caption-body: Stardew Valley Resource Tool calculation page
 - section: 5
   layout: 50-50
 - section: 6
@@ -73,6 +73,5 @@ sections:
   layout: 50-50
 - layout: 50-50
 - layout: full-width
-  image-alt: Provide Alt Text
 ---
 
