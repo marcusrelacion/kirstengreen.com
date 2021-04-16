@@ -49,8 +49,9 @@ sections:
     user requirements\n- Developed ideas and solutions that consider both our clients
     and their candidates as end-users\n- Used Figma to develop site maps, user flows,
     wireframes, UI, and prototypes\n- Used Figma to create a componentized design
-    system to enable the design team to quickly create mockups for ideation and development\n
-    \n\n\n### Gartner\n**UI/UX Designer**\n<br/>*July 2016 - August 2018*\n\nDuring
+    system to enable the design team to quickly create mockups for ideation and development
+    \n- Used Figma to create a dev guide to help developers build the components design
+    created\n\n \n\n\n### Gartner\n**UI/UX Designer**\n<br/>*July 2016 - August 2018*\n\nDuring
     my time at Gartner, I worked on TalentNeuron, a leading talent analytics web application
     used by recruiters, talent analysts, and other HR professionals. As a UI/UX Designer
     on the team, I was an active part in all aspects of the Design Thinking process.\n\n-
@@ -67,7 +68,7 @@ sections:
     to meet acceptance criteria defined by Product\n- Used [Zeplin.io](http://zeplin.io/) as
     a design reference and communication tool between the development and design teams\n-
     Participated in daily stand-up and scrum meetings\n- Worked in an Agile environment
-    to ensure quick delivery and responsiveness to our users‘ needs\n\n\n\n### CEB,
+    to ensure quick delivery and responsiveness to our users' needs\n\n\n\n### CEB,
     now Gartner\n**Web Design Contractor**\n<br/>*April 2016 - June 2016*\n\nAs a
     part of CEB’s Web Design Studio, I provided internal clients with web-based assets
     and designs to help support their business’ particular needs.\n\n- Created custom
