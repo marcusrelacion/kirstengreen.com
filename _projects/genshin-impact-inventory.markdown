@@ -17,11 +17,6 @@ sections:
   column-1-body: |-
     ## Overview
 
-    ### About
-
-    The primary goal of this app is to track all of the most important items you have in your inventory. Version 1 focuses on artifacts. Artifacts are essential for making sure your character is strong and ready for whatever Teyvat has in store for them. We help you document and keep track of your artifacts so you can plan accordingly.
-
-
     ### Features
 
     * Create and add artifacts to your inventory
