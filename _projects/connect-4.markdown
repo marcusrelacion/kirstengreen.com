@@ -6,8 +6,8 @@ hero:
 - name: General Assembly Project
   company: General Assembly
   year: 2021
-  body: While attending General Assembly for Software Programing (Jan - Apr 2021),
-    I recreated a game on the web. I chose to develop and deploy Connect 4, a game
+  body: While attending General Assembly for Software Programing, I got the chance
+    to recreate a game on the web. I chose to develop and deploy Connect 4, a game
     that I have fond memories of playing with my Grandma when I was young.
   image: "/uploads/hi_c4.png"
   image-alt: connect 4 home
@@ -64,5 +64,6 @@ sections:
   layout: 50-50
 - layout: 50-50
 - layout: full-width
+  image-alt: Provide Alt Text
 ---
 
