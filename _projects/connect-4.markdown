@@ -33,6 +33,7 @@ sections:
 
   column-2-body: |
     ### Technologies Used
+    *Software Development*
 
     <br/>
 
@@ -64,5 +65,7 @@ sections:
 - section: 7
   layout: 50-50
 - layout: 50-50
+- layout: full-width
+  image-alt: Provide Alt Text
 ---
 
