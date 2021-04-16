@@ -30,8 +30,7 @@ sections:
     [Stardew Valley Resource Tool](https://sdv-resource-calculator.vercel.app/) - [GitHub](https://github.com/kirstengreen/sdv-resource-calculator)
   column-2-body: |
     ### Technologies Used
-
-    <br/>
+    *Software Development*
 
     * HTML5
     * CSS3
@@ -62,5 +61,14 @@ sections:
   image: "/uploads/sdv_calcs.png"
   image-alt: stardew valley resource tool calculation page
   image-caption-body: Resource Tool calculation page
+- section: 5
+  layout: 50-50
+- section: 6
+  layout: 50-50
+- section: 7
+  layout: 50-50
+- layout: 50-50
+- layout: full-width
+  image-alt: Provide Alt Text
 ---
 
