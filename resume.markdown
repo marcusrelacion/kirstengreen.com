@@ -89,12 +89,9 @@ sections:
     Graphic Design Intern**\n<br/>*July 2014 – February 2015*\n\nWhile I was at Blue
     Water, I worked on the agency’s rebranding project, which included digital and
     print collateral products. I also designed several websites and provided UX and
-    QA support for our team.\n\n- Used Adobe Illustrator, InDesign, and Photoshop
-    to create branded assets and collateral\n- Created wireframes in Balsamiq\n- Created
-    web designs in Photoshop\n- Developed prototypes in InVision\n- Used Illustrator
-    to create illustrations for a series of educational videos\n- Identified usability
-    and UI bugs for several websites that were in development\n- Annotated user testing
-    videos"
+    QA support for our team.\n\n- Identified usability and UI bugs for several websites
+    that were in development\n- Created wireframes in Balsamiq\n- Created web designs
+    in Photoshop\n- Developed prototypes in InVision"
 layout: resume
 ---
 
