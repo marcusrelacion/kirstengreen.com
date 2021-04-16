@@ -70,28 +70,26 @@ sections:
     to ensure quick delivery and responsiveness to our users‘ needs\n\n\n\n### CEB,
     now Gartner\n**Web Design Contractor**\n<br/>*April 2016 - June 2016*\n\nAs a
     part of CEB’s Web Design Studio, I provided internal clients with web-based assets
-    and designs to help support their business’ particular needs.\n\n- Used the Web
-    Content Accessibility Guidelines (WCAG) to perform a design audit of CEB’s public
-    and member sites\n- Created on-brand visual design solutions that were AA compliant
-    or better according to WCAG\n- Updated the public website using Adobe Experience
-    Manager\n- Used Photoshop to design several marketing pages for the public website\n-
-    Created custom sites using HTML & CSS while managing CMS constraints\n- Maintained
-    conference microsites by updating their design and content\n- Used Photoshop to
-    design a survey tool for CEB IT Roadmap Builder\n\n\n\n### CBRE\n**Graphic Design
-    Contractor**\n<br/>*June 2015 - October 2015*\n\nI worked for CBRE's Property
-    Marketing Studio to create marketing collateral for internal organizations across
-    the southeastern region. I supported the studio as it grew from a pilot program
-    that served only the southeast to an official service with several teams that
-    provided marketing design for multiple regions across the United States.\n\n-
-    Used InDesign to create property branded pamphlets, brochures, flyers, and offering
-    memorandums\n- Designed and developed property eBlast campaigns\n- Worked on projects
-    that required quick turnarounds\n\n\n\n### Blue Water\n**Graphic Designer; previously
-    Graphic Design Intern**\n<br/>*July 2014 – February 2015*\n\nWhile I was at Blue
-    Water, I worked on the agency’s rebranding project, which included digital and
-    print collateral products. I also designed several websites and provided UX and
-    QA support for our team.\n\n- Identified usability and UI bugs for several websites
-    that were in development\n- Created wireframes in Balsamiq\n- Created web designs
-    in Photoshop\n- Developed prototypes in InVision"
+    and designs to help support their business’ particular needs.\n\n- Created custom
+    sites using HTML & CSS while managing CMS constraints\n- Maintained conference
+    microsites by updating the design, content, and code\n- Updated the public website
+    using Adobe Experience Manager\n- Used the Web Content Accessibility Guidelines
+    (WCAG) to perform a design audit of CEB’s public and member sites\n- Created on-brand
+    visual design solutions that were AA compliant or better according to WCAG\n\n\n\n###
+    CBRE\n**Graphic Design Contractor**\n<br/>*June 2015 - October 2015*\n\nI worked
+    for CBRE's Property Marketing Studio to create marketing collateral for internal
+    organizations across the southeastern region. I supported the studio as it grew
+    from a pilot program that served only the southeast to an official service with
+    several teams that provided marketing design for multiple regions across the United
+    States.\n\n- Used InDesign to create property branded pamphlets, brochures, flyers,
+    and offering memorandums\n- Designed and developed property eBlast campaigns\n-
+    Worked on projects that required quick turnarounds\n\n\n\n### Blue Water\n**Graphic
+    Designer; previously Graphic Design Intern**\n<br/>*July 2014 – February 2015*\n\nWhile
+    I was at Blue Water, I worked on the agency’s rebranding project, which included
+    digital and print collateral products. I also designed several websites and provided
+    UX and QA support for our team.\n\n- Identified usability and UI bugs for several
+    websites that were in development\n- Created wireframes in Balsamiq\n- Created
+    web designs in Photoshop\n- Developed prototypes in InVision"
 layout: resume
 ---
 
