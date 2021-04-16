@@ -1,7 +1,7 @@
 ---
 title: Resume
 header: About Me
-body: "![Kirsten Green](/uploads/icon2.jpg)\n\nI am a process-driven UI Developer
+body: "\n![Kirsten Green](/uploads/icon2.jpg)\n\nI am a process-driven UI Developer
   who seeks to build systems that enable design and development teams to create their
   best work together. By having a professional background in design, I bring a perspective
   that allows me to work with the challenges that affect both teams. I enjoy seeing
@@ -12,7 +12,8 @@ body: "![Kirsten Green](/uploads/icon2.jpg)\n\nI am a process-driven UI Develope
   web apps using JS frameworks with a focus on Vue and React. My next goal is to become
   an expert in user interface interactions and animations. I would love to learn how
   to create games one day as well.\n\nIn my free time, I enjoy playing video games
-  and going for walks to take photos. "
+  and going for walks to take photos. \n\n**Github:** [https://github.com/kirstengreen](https://github.com/kirstengreen)
+  \n**Email:** hello@kirstengreen.com\n**Phone:** (240) 542 - 8825"
 resume-file: "/uploads/kirsten-green_resume.pdf"
 resume-button-label: Download Resume
 sections:
