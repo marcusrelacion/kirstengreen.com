@@ -1,14 +1,18 @@
 ---
 title: Resume
 header: About Me
-body: "I am a designer/developer with a passion for building design systems from inception
-  to deployment. I enjoy creating processes that help both design and dev teams do
-  their best work. I am also an accessibility advocate and consider it a priority
-  to make everything I build accessible to its users. \n\nCurrently, I am learning
-  how to build web apps using JS frameworks with a focus on Vue and React. My next
-  goal is to become an expert in user interface interactions and animations. I would
-  love to learn how to create games one day as well.\n\nIn my free time, I enjoy playing
-  video games and going for walks to take photos. "
+body: "I am a process-driven UI Developer who seeks to build systems that enable design
+  and development teams to create their best work together. By having a professional
+  background in design, I bring a perspective that allows me to work with the challenges
+  that affect both teams. I enjoy seeing ideas grow into usable products and have
+  a passion for making that process as easy as possible for all involved. My move
+  to development-focused work is less of a transition and more of me finding my particular
+  role in tech. I enjoy design and development, so I want to make both core to my
+  work. \n\nCurrently, I am learning how to build web apps using JS frameworks with
+  a focus on Vue and React. My next goal is to become an expert in user interface
+  interactions and animations. I would love to learn how to create games one day as
+  well.\n\nIn my free time, I enjoy playing video games and going for walks to take
+  photos. "
 resume-file: "/uploads/kirsten-green_resume.pdf"
 resume-button-label: Download Resume
 sections:
