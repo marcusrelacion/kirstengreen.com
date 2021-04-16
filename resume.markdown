@@ -55,35 +55,31 @@ sections:
     my time at Gartner, I worked on TalentNeuron, a leading talent analytics web application
     used by recruiters, talent analysts, and other HR professionals. As a UI/UX Designer
     on the team, I was an active part in all aspects of the Design Thinking process.\n\n-
-    Developed a research process, which allowed the UX and Product teams to run regular
-    interview and testing cycles with users\n- Analyzed user interviews to identify
-    problems users needed to solve in their work and what problems they encountered
-    while using TalentNeuron\n- Used research data to drive strategy based on the
-    evolving needs of our users\n- Developed and maintained personas by collecting
-    data through interviewing users and key stakeholders\n- Worked with the team to
-    define problems and ideate on solutions through Design Thinking workshops\n- Created
-    interactive prototypes and wireframes in Axure\n- Defined a design system by creating
-    a style guide and reusable components in Sketch\n- Created UI in Sketch, including
-    design patterns and data visualizations\n- Actively worked one-on-one with developers
-    to meet acceptance criteria defined by Product\n- Used [Zeplin.io](http://zeplin.io/) as
-    a design reference and communication tool between the development and design teams\n-
-    Participated in daily stand-up and scrum meetings\n- Worked in an Agile environment
-    to ensure quick delivery and responsiveness to our users' needs\n\n\n\n### CEB,
-    now Gartner\n**Web Design Contractor**\n<br/>*April 2016 - June 2016*\n\nAs a
-    part of CEB’s Web Design Studio, I provided internal clients with web-based assets
-    and designs to help support their business’ particular needs.\n\n- Created custom
-    sites using HTML & CSS while managing CMS constraints\n- Maintained conference
-    microsites by updating the design, content, and code\n- Updated the public website
-    using Adobe Experience Manager\n- Used the Web Content Accessibility Guidelines
-    (WCAG) to perform a design audit of CEB’s public and member sites\n- Created on-brand
-    visual design solutions that were AA compliant or better according to WCAG\n\n\n###
-    Blue Water\n**Graphic Designer; previously Graphic Design Intern**\n<br/>*July
-    2014 – February 2015*\n\nWhile I was at Blue Water, I worked on the agency’s rebranding
-    project, which included digital and print collateral products. I also designed
-    several websites and provided UX and QA support for our team.\n\n- Identified
-    usability and UI bugs for several websites that were in development\n- Created
-    wireframes in Balsamiq\n- Created web designs in Photoshop\n- Developed prototypes
-    in InVision"
+    Developed a research process that allowed the UX and Product teams to run regular
+    interview and testing cycles with users\n- Developed a process between UX and
+    Development that increased collaboration and equal compromise for difficult product
+    solutions\n- Used research data to drive strategy based on the evolving needs
+    of our users\n- Defined a design system by creating a style guide and reusable
+    components in Sketch\n- Created UI in Sketch, including design patterns and data
+    visualizations\n- Actively worked one-on-one with developers to meet acceptance
+    criteria defined by Product\n- Used Zeplin.io as a design reference and communication
+    tool between the development and design teams\n- Participated in daily stand-up
+    and scrum meetings\n- Worked in an Agile environment to ensure quick delivery
+    and responsiveness to our users' needs\n\n\n\n\n### CEB, now Gartner\n**Web Design
+    Contractor**\n<br/>*April 2016 - June 2016*\n\nAs a part of CEB’s Web Design Studio,
+    I provided internal clients with web-based assets and designs to help support
+    their business’ particular needs.\n\n- Created custom sites using HTML & CSS while
+    managing CMS constraints\n- Maintained conference microsites by updating the design,
+    content, and code\n- Updated the public website using Adobe Experience Manager\n-
+    Used the Web Content Accessibility Guidelines (WCAG) to perform a design audit
+    of CEB’s public and member sites\n- Created on-brand visual design solutions that
+    were AA compliant or better according to WCAG\n\n\n### Blue Water\n**Graphic Designer;
+    previously Graphic Design Intern**\n<br/>*July 2014 – February 2015*\n\nWhile
+    I was at Blue Water, I worked on the agency’s rebranding project, which included
+    digital and print collateral products. I also designed several websites and provided
+    UX and QA support for our team.\n\n- Identified usability and UI bugs for several
+    websites that were in development\n- Created wireframes in Balsamiq\n- Created
+    web designs in Photoshop\n- Developed prototypes in InVision"
 layout: resume
 ---
 
