@@ -27,7 +27,7 @@ sections:
     Visual Studio Code\n- Axure RP\n- Balsamiq\n- Figma\n- Sketch App\n- Zeplin.io\n-
     Adobe Creative Cloud\n- Jira\n- Confluence\n- Trello\n- Microsoft Suite\n- macOS"
 - column: right
-  text: "## Professional Development\n\n### General Assembly\n**Software Engineering
+  text: "## Software Development Experience\n\n### General Assembly\n**Software Engineering
     Immersive Student**\n<br/>*January 2021 - April 2021*\n\nOver a 12-week period
     of time, I dedicated over 420 hours to professional training and development to
     become skilled in Software Engineering. I used modern methodologies and tech to
