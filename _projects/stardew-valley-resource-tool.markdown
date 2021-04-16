@@ -8,7 +8,7 @@ hero:
   year: 2021
   body: For the capstone project at General Assembly, we were required to make an
     application that used a frontend and database. I decided to begin developing an
-    app I have wanted to build for almost 2-years.
+    app I have wanted to build for almost 2 years.
   image: "/uploads/hi_sdv.png"
   image-alt: stardew valley resource tool home
 sections:
@@ -73,5 +73,6 @@ sections:
   layout: 50-50
 - layout: 50-50
 - layout: full-width
+  image-alt: Provide Alt Text
 ---
 
