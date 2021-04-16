@@ -36,8 +36,7 @@ sections:
     [Genshin Impact Inventory](https://genshin-impact-inventory.herokuapp.com/) - [GitHub](https://github.com/kirstengreen/genshin-impact-inventory)
   column-2-body: |
     ### Technologies Used
-
-    <br/>
+    *Software Development*
 
     * HTML5
     * CSS3
