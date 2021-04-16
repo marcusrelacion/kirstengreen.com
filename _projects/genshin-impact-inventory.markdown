@@ -5,10 +5,10 @@ hero:
 - name: General Assembly Project
   company: General Assembly
   year: 2021
-  body: 'During our back-end unit at General Assembly (Jan - Apr 2021), we were assigned
-    a project to make a RESTful app that was full CRUD. I decided to make something
-    centered around the game I was playing the most, Genshin Impact. At the time,
-    farming artifacts was my #1 priority, so I decided to start there.'
+  body: 'During our back-end unit at General Assembly, we were assigned a project
+    to make a RESTful app that was full CRUD. I decided to make something centered
+    around the game I was playing the most, Genshin Impact. At the time, farming artifacts
+    was my #1 priority, so I decided to start there.'
   image: "/uploads/hi_gii.png"
   image-alt: genshin impact inventory artifacts
 sections:
