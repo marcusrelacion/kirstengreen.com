@@ -1,17 +1,17 @@
 ---
 title: Resume
 header: About Me
-body: "\n![Kirsten Green](/uploads/icon2.jpg)\n\nI am a process-driven UI Developer
-  who seeks to build systems that enable design and development teams. I understand
-  the challenges both teams face and strive to develop solutions that help them create
-  their best work together. My primary role is bringing a designer’s work to life
-  by using frameworks such as React or Vue and ensuring styles are consistently implemented
-  across platforms. I enjoy unraveling the challenges that come with developing interactive
-  elements and love seeing others achieve their goals with what I have created. \n\nCurrently,
-  I am learning how to build web apps using JS frameworks with a focus on Vue and
-  React. My next goal is to become an expert in user interface interactions and animations.
-  I would love to learn how to create games one day as well.\n\nIn my free time, I
-  enjoy playing video games and going for walks to take photos. \n\n**GitHub:** [https://github.com/kirstengreen](https://github.com/kirstengreen)\n\n**Email:**
+body: "I am a process-driven UI Developer who seeks to build systems that enable design
+  and development teams. I understand the challenges both teams face and strive to
+  develop solutions that help them create their best work together. My primary role
+  is bringing a designer’s work to life by using frameworks such as React or Vue and
+  ensuring styles are consistently implemented across platforms. I enjoy unraveling
+  the challenges that come with developing interactive elements and love seeing others
+  achieve their goals with what I have created. \n\nCurrently, I am learning how to
+  build web apps using JS frameworks with a focus on Vue and React. My next goal is
+  to become an expert in user interface interactions and animations. I would love
+  to learn how to create games one day as well.\n\nIn my free time, I enjoy playing
+  video games and going for walks to take photos. \n\n**GitHub:** [https://github.com/kirstengreen](https://github.com/kirstengreen)\n\n**Email:**
   hello@kirstengreen.com"
 resume-file: "/uploads/kirsten-green_resume.pdf"
 resume-button-label: Download Resume
