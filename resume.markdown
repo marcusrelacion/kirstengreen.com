@@ -31,7 +31,7 @@ sections:
     the one they wish to build. Once they have selected an item, they can define how
     many they want to make, and the tool will calculate the number of resources they
     need to craft \Lthose items.\n\n**Technologies:** Vue, Javascript, Python, PostgreSQL,
-    CSS, HTML, Heroku, and Vercel\n\n\n### [Stardew Valley Resource Tool](https://github.com/kirstengreen/sdv-resource-calculator)\n*April
+    CSS, HTML, Heroku, and Vercel\n\n\n### [Stardew Valley Resource Tool](https://github.com/kirstengreen/sdv-resource-calculator)\n*March
     2021*\n\nI developed Genshin Impact Inventory to allow players to track their
     most important items to help them optimize their character builds. Version one
     focuses on artifacts, one of the most important things you need to enable a character.
